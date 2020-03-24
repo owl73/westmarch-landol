@@ -12,11 +12,13 @@ If they took a further 1 point of damage (-9 HP), they would roll
 If required, roll 1d6 for hit location.
 
 | Result | 1. Arm | 2. Leg | 3-4. Torso | 5-6. Head |
-| 1+ | Disabled X Days | Disabled X Days | Cracked Ribs X Days | Concussed X Days |
-| 11+ | 1 Fatal Wound (Mangled) | 1 Fatal Wound (Mangled) | 1 Fatal Wound (Crushed) | 1 Fatal Wound Skullcracked |
-| 16+ | X-15 Fatal Wounds | X-15 Fatal Wounds | X-15 Fatal Wounds | X-15 Fatal Wounds |
+|-|:-:|:-:|:-:|:-:|
+| **1+** | Disabled X Days | Disabled X Days | Cracked Ribs X Days | Concussed X Days |
+| **11+** | 1 Fatal Wound Mangled | 1 Fatal Wound Mangled | 1 Fatal Wound Crushed | 1 Fatal Wound Skullcracked |
+| **16+** | X-15 Fatal Wounds | X-15 Fatal Wounds | X-15 Fatal Wounds | X-15 Fatal Wounds |
 
 | Result | Acid, Fire / Cold, Ice | Lightning | Venom / Toxin | Magic |
-| 1+ | Scorched / Frostbite X Days | Burned X Days | Sickened X Days | Anathema X Days |
-| 11+ | 1 Fatal Wound Burned / Frozen | 1 Fatal Wound Fried | 1 Fatal Wound Wracked | 1 Fatal Wound Marked |
-| 16+ | X-15 Fatal Wounds | X-15 Fatal Wounds | X-15 Fatal Wounds | X-15 Fatal Wounds |
+|--------|:-:|:-:|:-:|:-:|
+| **1+** | Scorched / Frostbite X Days | Burned X Days | Sickened X Days | Anathema X Days |
+| **11+** | 1 Fatal Wound Burned / Frozen | 1 Fatal Wound Fried | 1 Fatal Wound Wracked | 1 Fatal Wound Marked |
+| **16+** | X-15 Fatal Wounds | X-15 Fatal Wounds | X-15 Fatal Wounds | X-15 Fatal Wounds |
