@@ -37,7 +37,7 @@ Some injuries on this list aren’t on the Death and Dismemberment table. They
 can be accumulated by other means, GM choice, or deliberate actions.
 
 ##### Anathema
-Cannot benefit from magical healing or be the target of bene�cial
+Cannot benefit from magical healing or be the target of beneficial
 magic.
 
 ##### Blind
@@ -61,7 +61,7 @@ type (acid, fire, ice, etc.) by 2.
 The PC’s maximum HP is reduced by 4 (to a minimum of 1).
 
 ##### Crushed
-Save. If failed, roll on the table below. If passed, gain an Interesting Scar.
+Save. If failed, roll on the table below. If passed, gain an [Interesting Scar](#interesting-scars).
 1. Permanently lose 1 Strength.
 2. Permanently lose 1 Dexterity.
 3. Permanently lose 1 Constitution.
@@ -87,7 +87,7 @@ Movement.
 ##### Fried
  Save. If failed, roll on the table below. If passed, reduce all future
 lightning
-damage by 2 and gain an Interesting Scar.
+damage by 2 and gain an [Interesting Scar](#interesting-scars).
 1. Deaf.
 2. Left eye lost. -1 to range attacks. If both eyes lost, Blind.
 3. Right eye lost. -1 to range attacks. If both eyes lost, Blind.
@@ -98,19 +98,19 @@ damage by 2 and gain an Interesting Scar.
 ##### Mangled
 Save. If failed, lose the limb. If passed, Save again. If failed, lose
 1
-digit. If passed, gain an Interesting Scar.
+digit. If passed, gain an [Interesting Scar](#interesting-scars).
 ##### Marked
 Save. If failed, any magical attack against the PC automatically deals
 double damage or applies a -4 penalty to Save. If passed, the PC has a
 permanent -2 to Save against magic, but reduces all incoming magic damage by 2. 
-They also gain an Interesting Scar (known as a curse-mark).
+They also gain an [Interesting Scar](#interesting-scars) (known as a curse-mark).
 
 ##### Scorched or Frostbite
 Cannot wear armour. Difficulty gripping or climbing.
 
 ##### Skullcracked
 Save. If failed, roll on the table below. If passed, gain an
-Interesting Scar.
+[Interesting Scar](#interesting-scars).
 1. Permanently lose 1 Intelligence.
 2. Permanently lose 1 Wisdom.
 3. Permanently lose 1 Charisma.
@@ -124,7 +124,7 @@ Interesting Scar.
 Save. If failed, roll on the table below. If passed, reduce all
 future
 poison / toxin damage from the same or similar sources by 2 and gain an
-Interesting Scar.
+[Interesting Scar](#interesting-scars).
 1. Permanently lose 1 from a random stat.
 2. Permanently lose 1 from all stats.
 3. Lose a random limb and one eye. -1 to range attacks. If both eyes lost,
