@@ -64,6 +64,7 @@ Once per day, allies who can see and hear you heal 1d4 HP. If
 they were at full HP, they instead gain +2 to their next Attack roll.
 
 ## Backgrounds
+
 | 1d3 | 1d6 | Knight Skills
 | 1 | Farmer
 | | 1 | You never attend formal court unless summoned. In high- pressure situations, you follow shiny and confident people.

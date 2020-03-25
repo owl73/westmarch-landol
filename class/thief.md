@@ -63,7 +63,7 @@ assisted them.
 
 ## Backgrounds
 
-1d6 | 1d6 | Thief Skills
+| 1d6 | 1d6 | Thief Skills
 | 1 | Bandit
 | | 1 | You were an archer in a band of wild and unruly mercenaries.  Gain a bow and 20 arrows.
 | | 2 | You specialized in ambushing merchant caravans. Gain a red silk cloak and fur hat worth 5sp.
@@ -80,7 +80,7 @@ assisted them.
 | | 6 | Violence is sometimes the answer. Gain a heavy weapon, a saucy grin, and a willingness to break kneecaps.
 | 3 | Farmer
 | | 1 | You stole something minor and inconsequential (a loaf of bread, a ribbon, eggs, etc.). The guilt of that theft haunts you forever.
-| | 2 | You believe you are cursed. One year, the crops failed, your friends �ed, and your cattle died. The world is against you.
+| | 2 | You believe you are cursed. One year, the crops failed, your friends fled, and your cattle died. The world is against you.
 | | 3 | While pretending to be a simple farmer, you are in fact an agent of a foreign power. Gain the “Spy” skill. You can read and write.
 | | 4 | You were branded and exiled for theft. Gain a thief-mark brand on your hand. You may desire revenge.
 | | 5 | You abandoned your family and land to seek wealth and glory.  Gain 2 extra rations and a lingering sense of guilt.
@@ -88,7 +88,7 @@ assisted them.
 | 4 | Frontier
 | | 1 | The region where you grew up was very poor. Iron was a rarity.  Gain +15% XP for frivolous purchases (instead of +10%).
 | | 2 | You were hired to protect a village. If you betrayed them, gain 5sp. If you helped them, gain 3 rations and a goat.
-| | 3 | You raided from horseback, stealing and then �eeing into the hills. Gain a horse.
+| | 3 | You raided from horseback, stealing and then fleeing into the hills. Gain a horse.
 | | 4 | You are very, very acquisitive. Gain any number of mundane items you can write down now before the GM rolls a 6 on a d6.
 | | 5 | You sometimes dropped trees on travellers, trapping them or knocking over their horses. Gain a saw.
 | | 6 | You lived in the trackless wilderness, retreating to inhospitable areas when threatened. Gain a waterproof floppy hat.
