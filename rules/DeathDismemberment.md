@@ -1,9 +1,9 @@
 # Death and Dismemberment Roll
 
-#### When hit roll
+## When hit roll
 1d12+ Lethal Damage + Number of Current Injuries
 
-[Example](#example) at the bottom
+#### Hit by Weapon
 
 If required, roll 1d6 for hit location.
 
@@ -20,6 +20,8 @@ If required, roll 1d6 for hit location.
 | **1+** | [Scorched / Frostbite](#scorched-or-frostbite) X Days | [Burned](#burned) X Days | [Sickened](#sickened) X Days | [Anathema](#anathema) X Days |
 | **11+** | 1 *Fatal Wound* [Burned / Frozen](#burned-or-frozen) | 1 *Fatal Wound* [Fried](#fried) | 1 *Fatal Wound* [Wracked](#wracked) | 1 *Fatal Wound* [Marked](#marked) |
 | **16+** | X-15 *Fatal Wounds* | X-15 *Fatal Wounds* | X-15 *Fatal Wounds* | X-15 *Fatal Wounds* |
+
+[Example](#example) at the bottom
 
 ## Fatal Wounds
 A PC has 3 rounds to clear all their Fatal Wounds or they die. They can attempt
@@ -136,7 +138,7 @@ Wisdom.
 
 
 ### Interesting Scars
-The scar must be a mangled, twisted, gnarled thing, a worm of �esh
+The scar must be a mangled, twisted, gnarled thing, a worm of flesh
 buried
 under the skin. It provies a +2 bonus to Charisma while interacting
 with people
@@ -145,10 +147,13 @@ barber-surgeons,
 knights, suitors, poets, etc.)
 
 # Example 
-The effects are cumulative. If a PC with -8 HP and no current
+The effects are cumulative. 
+
+If a PC with -8 HP and no current
 Injuries rolls a 10 on a d12, to the leg, X = 10+8+0 = 18. They
 gain 4 Fatal Wounds, the leg is Mangled, and also Disabled for
 18 days.
+
 If they took a further 1 point of damage (-9 HP), they would roll
 1d12 + 9 (Lethal Damage) + 1 (Mangled) + 1 (Disabled) for
 1d12+11.
