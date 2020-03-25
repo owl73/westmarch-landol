@@ -2,24 +2,23 @@
 
 #### When hit roll
 1d12+ Lethal Damage + Number of Current Injuries
-[Example](#example)
-[injuries](#injuries)
-[Burned / frozen](#burned-or-frozen)
+
+[Example](#example) at the bottom
 
 If required, roll 1d6 for hit location.
 
 | Result | 1. Arm | 2. Leg | 3-4. Torso | 5-6. Head |
 |-|:-:|:-:|:-:|:-:|
-| **1+** | Disabled X Days | Disabled X Days | Cracked Ribs X Days | Concussed X Days |
-| **11+** | 1 *Fatal Wound* **Mangled** | 1 *Fatal Wound* **Mangled** | 1 *Fatal Wound* **Crushed** | 1 *Fatal Wound* **Skullcracked** |
+| **1+** | [Disabled](#disabled) X Days | [Disabled](#disabled) X Days | [Cracked Ribs](#cracked-ribs) X Days | [Concussed](#concussed) X Days |
+| **11+** | 1 *Fatal Wound* [Mangled](#mangled) | 1 *Fatal Wound* [Mangled](#mangled) | 1 *Fatal Wound* [Crushed](#crushed) | 1 *Fatal Wound* [Skullcracked](#skullcracked) |
 | **16+** | X-15 *Fatal Wounds* | X-15 *Fatal Wounds* | X-15 *Fatal Wounds* | X-15 *Fatal Wounds* |
 
 #### Different damage
 
 | Result | Acid, Fire / Cold, Ice | Lightning | Venom / Toxin | Magic |
 |--------|:-:|:-:|:-:|:-:|
-| **1+** | Scorched / Frostbite X Days | Burned X Days | Sickened X Days | Anathema X Days |
-| **11+** | 1 *Fatal Wound* **Burned / Frozen** | 1 *Fatal Wound* **Fried** | 1 *Fatal Wound* **Wracked** | 1 *Fatal Wound* **Marked** |
+| **1+** | [Scorched / Frostbite](#scorched-or-frostbite) X Days | [Burned](#burned) X Days | [Sickened](#sickened) X Days | [Anathema](#anathema) X Days |
+| **11+** | 1 *Fatal Wound* [Burned / Frozen](#burned-or-frozen) | 1 *Fatal Wound* [Fried](#fried) | 1 *Fatal Wound* [Wracked](#wracked) | 1 *Fatal Wound* [Marked](#marked) |
 | **16+** | X-15 *Fatal Wounds* | X-15 *Fatal Wounds* | X-15 *Fatal Wounds* | X-15 *Fatal Wounds* |
 
 ## Fatal Wounds
@@ -105,7 +104,9 @@ Save. If failed, any magical attack against the PC automatically deals
 double damage or applies a -4 penalty to Save. If passed, the PC has a
 permanent -2 to Save against magic, but reduces all incoming magic damage by 2. 
 They also gain an Interesting Scar (known as a curse-mark).
-Scorched / Frostbite: Cannot wear armour. Dif�culty gripping or climbing.
+
+##### Scorched or Frostbite
+Cannot wear armour. Difficulty gripping or climbing.
 
 ##### Skullcracked
 Save. If failed, roll on the table below. If passed, gain an
