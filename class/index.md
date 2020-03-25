@@ -5,8 +5,8 @@ Feel free to pick from the classes below.
 1. [Fighter](fighter.md)
 2. [Knight](knight.md)
 3. [Thief](thief.md)
-4. Wizard (Orthodox)
-5. Wizard (Illusionist)
+4. [Wizard](wizard/) ([Orthodox](wizard/orthodox.md))
+5. [Wizard](wizard/) ([Illusionist](wizard/illusionist.md))
 
 ##### Rolling
 
