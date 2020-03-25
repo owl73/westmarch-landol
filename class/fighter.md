@@ -59,18 +59,18 @@ Level in a single round.
 | 1 | Farmer
 | | 1 | You were forcibly conscripted, in violation of your few rights, by an unscrupulous lord. Your farm was siezed in your absence.
 | | 2 | You are the [1d10+2]th son of a poor farmer. You needed to leave or risk starvation. If your siblings die you inherit the farm.
-| | 3 | Your farm and village were burned during a war. The only profession you can �nd other than begging is warfare.
+| | 3 | Your farm and village were burned during a war. The only profession you can find other than begging is warfare.
 | | 4 | You hoarded your money carefully but it was not enough to save your farm from pillagers. Gain 1gp.
 | | 5 | Years of practice have made you a deadly shot. Gain 20 extra arrows and one entertaining trick shot.
 | | 6 | You abandoned your family and your land to seek wealth, glory, and a better position. Gain 2 rations and lingering guilt.
-| | 2 | Soldier
+| 2 | Soldier
 | | 1 | You’ve served across the seas and over the mountains. Make up 1d6 ludicrous lies and gain the “Foreign Parts” skill.
 | | 2 | Your mercenary service has not been well rewared. You’re seeking your fortune elsewhere.
 | | 3 | You are a professional outlaw and lawless brigand. Start with 20 extra arrows, 3 rations, and many enemies.
 | | 4 | You served in a mercenary band that was disbanded and scattered. Start with 2gp and 1 camp follower.
 | | 5 | You were free with your money and accumulated 1d4+1 camp followers. You may have a reputation as a generous soldier.
 | | 6 | Your skill with your weapon of choice has brought you fame as a sellsword and bodyguard. Start with an insufferable swagger.
-| | 3 | Sailor
+| 3 | Sailor
 | | 1 | You can swim, even in leather armour. You learned this at great cost. Roll on the Table of Professions and gain the skill listed.
 | | 2 | You served aboard a galley. You are immune to exhaustion from heat. You sometimes have nightmares of drumming and waves.
 | | 3 | Your ship was wrecked in a storm. You may reroll reaction rolls when interacting with water or lightning elementals.
@@ -83,7 +83,7 @@ Level in a single round.
 | | 1 | You lived on the edge of civilization, in the unmapped hills and mountains. Gain a +2 to Save vs Fear and an extra ration.
 | | 2 | Your parents were new arrivals, seeking a better life in a newly conquered area. It didn’t go well.
 | | 3 | You were a street rat or a wilderness child. Replace your bow and arrows a sling and 20 rocks.
-| | 4 | Your village was so small and isolated that you and 1d6 of your sisters were trained in archery and swords�ghting.
+| | 4 | Your village was so small and isolated that you and 1d6 of your sisters were trained in archery and swordsfighting.
 | | 5 | Your parents were barbarian mercenaries. You have a slightly exotic look. You can �re a bow from horseback without penalty.
 | | 6 | You escaped from a nunnery and took up arms to defend yourself. Gain the “Religion” skill and an old habit.
 | 2 | Soldier
