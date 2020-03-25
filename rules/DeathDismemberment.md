@@ -2,7 +2,9 @@
 
 #### When hit roll
 1d12+ Lethal Damage + Number of Current Injuries
-[Example](#Example)
+[Example](#example)
+[injuries](#injuries)
+[Burned / frozen](#burned-or-frozen)
 
 If required, roll 1d6 for hit location.
 
@@ -44,7 +46,7 @@ Cannot see. -8 to Attack and Defense. Automatically hit by
 area-of-effect
 attacks.
 
-##### Burned / Frozen: 
+##### Burned or Frozen: 
 Save. If failed, roll on the table below. If passed, lose 1d6
 digits (roll randomly using a d20) and reduce all future damage of the
 appropriate
@@ -141,7 +143,7 @@ who appreciate a good scar and a good story (barbarians,
 barber-surgeons,
 knights, suitors, poets, etc.)
 
-# Example
+# Example 
 The effects are cumulative. If a PC with -8 HP and no current
 Injuries rolls a 10 on a d12, to the leg, X = 10+8+0 = 18. They
 gain 4 Fatal Wounds, the leg is Mangled, and also Disabled for
