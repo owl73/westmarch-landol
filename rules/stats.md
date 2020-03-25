@@ -1,6 +1,6 @@
 # Stats
 
-### 6 Core Atributes
+## 6 Core Atributes
 
 - Strength
 - Dexterity
@@ -29,22 +29,22 @@ Stat | Bonus
 21, 22, 23 | +4
 24 | +5
 
-### Other Stats
+## Other Stats
 
-#### Hit Points
+### Hit Points
 
 **CON - 4**
 
 You start with your hp being equal to 4 less than your constitution.
 You gain 2 per level with a maximum hp of 24.
 
-###### Attack
+#### Attack
 
 Starts at **0** and will increase as you level. 
 
 Add your attack roll to a d20 to attack something.
 
-###### Defense
+#### Defense
 
 - **10 + Dex bns**
 
@@ -60,7 +60,7 @@ Shield | +1 | 0
 
 This is the number an attack would need to roll to hit you.
 
-###### Movement
+#### Movement
 
 **12 + Dex bns. +  Armor penalty.**
 
@@ -68,13 +68,13 @@ This describes how fast your character can move.
 
 You might roll under this for chasing or running away.
 
-###### Stealth
+#### Stealth
 
 **5 + Dex bns. +  Armor penalty.**
 
 Add this to your roll verses an opponent's wisdom to sneak past.
 
-###### Save
+#### Save
 
 **5 + Cha bns. + level**
 

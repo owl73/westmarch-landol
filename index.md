@@ -12,7 +12,10 @@ Wealth of the ancients are free for the taking, and lands free to claim.***
 the kingdom of Landol and beyond by the promise of the wonder 
 of what was lost and what lies beyond.***
 
+[Setting](setting.md)
+
 ## Planning Sessions
+
 Message chat times you want to play. 
 Ask me when I'm free. I'll try to be as accomendating as possible.
 Get some players together. 
@@ -27,10 +30,10 @@ No need to come prepaired for a character, it takes like 5 minutes.
 ### [Character Creation](charcreation.md/)
 
 1. [Choose race](charcreation.md#race) (d50)
-2. Roll stats (3d6 x 6)
+2. [Roll stats](rules/stats.md) (3d6 x 6)
 3. [Choose class](class/) (d8)
 4. Choose background / Roll spells (see class)
-5. Buy gear
+5. [Buy gear](rules/store.md)
 
 ### [Main rules](rules/)
 

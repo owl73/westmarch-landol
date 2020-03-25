@@ -71,11 +71,12 @@ will be usable.
 Bows and crossbows deplete using a d8 for every shot made. 
 Slings use a d4.
 
-### Light Sources
+## Light Sources
 
 Outside of the listed light range, light sources illuminate
 shadows. Vague shapes, movement, and reflective surfaces will
 be visible in shadows, but no details can be distinguished.
+
 Light Source | Radius | Depletion
 Torch | 20’ light, 20’ shadows | d4 (1 h)
 Lantern | 30’ light, 30’ shadows | d6 / flask of oil (3 h)
