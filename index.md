@@ -15,20 +15,23 @@ Get some players together.
 No need to come prepaired for a character, it takes like 5 minutes.
 (sometimes less).
 
+### Rules for sessions
+
+- <= 5 players at a time
+- <= 3 PCs per player
+- Only 1 PC per player per adventure (with some exceptions)
+
+- [Social contract](socialcontract.md)
+
+
 # [Character Creation](charactercreation/)
+
 1. Choose race (d50)
 2. Choose stats (3d6 x 6)
 3. Choose class ()
 4. Choose background / spells (see class)
 5. Buy gear
 
-
-### Rules for sessions
-- <= 5 players at a time
-- <= 3 PCs per player
-- Only 1 PC per player per adventure (with some exceptions)
-
-- [Social contract](socialcontract.md)
 
 
 ### [Player Tips](playertips.md)
