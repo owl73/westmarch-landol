@@ -3,12 +3,11 @@
 Feel free to pick from the classes below. 
 
 1. [Fighter](fighter.md)
-2. [Knight](knight.md)
-3. [Thief](thief.md)
-4. [Wizard](wizard/) ([Orthodox](wizard/orthodox.md))
-5. [Wizard](wizard/) ([Illusionist](wizard/illusionist.md))
+2. [Thief](thief.md)
+3. [Wizard](wizard/) ([Orthodox](wizard/orthodox.md))
+4. [Wizard](wizard/) ([Illusionist](wizard/illusionist.md))
 
-##### Rolling
+#### Rolling
 
 To randomly choose a class roll a d8 and tell me the result. 
 I will let you know the result. It might not be on this list.

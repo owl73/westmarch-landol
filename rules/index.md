@@ -5,32 +5,46 @@ All input from players is welcome.
 
 ## Mechanics 
 
-- Stats
-    - Ability checks
-        Roll d20 less than or equal to your stat for success.
+##### [Stats](stats.md)
 
-    - Skill Checks
-        If you have a skill you can do it. 
-        Checks only required in extreme circumsances.
-        Check is 2d6. 10 or more is a success. 
+###### Ability checks
 
-    - Attacks
-        d20 + atk stat. Beat the opposing defense to hit.
-        Nat 20 hits.
-        Nat 1 misses.
+Roll d20 less than or equal to your stat for success.
 
-- Inventory
-    Slots equal to 10 + STRbns.
+###### Skill Checks
 
-    - 3 small items per slot
-    - 1 regular item per slot
-    - 1/x of a large item per slot
+If you have a skill you can do it. 
+Checks only required in extreme circumsances.
 
-- Exploring
+Check is 2d6. 10 or more is a success. 
 
-- Leveling
+###### Attacks
 
-- [Combat](combat.md)
-    - [injury](DeathDismemberment.md)
+d20 + atk stat. Beat the opposing defense to hit.
+Nat 20 hits.
+Nat 1 misses.
+
+##### [Inventory](inventory.md)
+
+Slots equal to 10 + STRbns.
+
+3 slots are quick access. Others take a round to reach during combat.
+
+- 3 small items per slot
+- 1 regular item per slot
+- 1/x of a large item per slot
+
+##### [Item Depletion](depletion.md)
+
+##### [Exploring](exploring.md)
+
+##### [Leveling](level.md)
+
+##### [Combat](combat.md)
+    
+- d20 + atk vs defense
+- damage = die of weapon + STRbns
+
+[injury](DeathDismemberment.md)
 
 
