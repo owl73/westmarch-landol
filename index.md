@@ -1,14 +1,19 @@
 # Into the Unknown
 
-***300 years have passed since the western annex was brought to an end by the
-eastern conflict.  During the 300 years since, the newly settled lands were cut
-off from usual supplies and communication ceased.  Now with the eastern
-conflict over for now, the west again becomes a prize.  Wealth of the 300 years
-since are free for the taking, and lands free to claim.  Adventurers, enticed
-by the past's treasures, are drawn by the from within the kingdom and beyond by
-the promise of the wonder of what was lost and what lies beyond.***
+***
+Three centuries before, the western annex was brought to an end.
+The Eastern Conflict was deemed more important.
+During the 300 years since, the newly settled lands were cut off. 
+Supply lines and communication ceased.
 
-# Planning Sessions
+Now, with the eastern conflict over for now, the west again becomes a prize.
+Wealth of the ancients are free for the taking, and lands free to claim.
+
+Adventurers, enticed by the past's treasures, are drawn by the from within 
+the kingdom of Landol and beyond by the promise of the wonder of what was lost and what lies beyond.
+***
+
+## Planning Sessions
 Message chat times you want to play. 
 Ask me when I'm free. I'll try to be as accomendating as possible.
 Get some players together. 
@@ -23,8 +28,7 @@ No need to come prepaired for a character, it takes like 5 minutes.
 
 - [Social contract](socialcontract.md)
 
-
-# [Character Creation](charactercreation/)
+### [Character Creation](charactercreation/)
 
 1. Choose race (d50)
 2. Choose stats (3d6 x 6)
@@ -32,9 +36,9 @@ No need to come prepaired for a character, it takes like 5 minutes.
 4. Choose background / spells (see class)
 5. Buy gear
 
+### [Main rules](rules/)
 
-
-### [Player Tips](playertips.md)
+#### [Player Tips](playertips.md)
 
 Feel free to read them. They will help you out.
 Although, you might have just as much fun going in blind!
