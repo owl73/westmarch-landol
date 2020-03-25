@@ -24,7 +24,7 @@ No need to come prepaired for a character, it takes like 5 minutes.
 - No more than 5 players
 - [Social contract](socialcontract.md)
 
-### [Character Creation](charactercreation/)
+### [Character Creation](charcreation.md/)
 
 1. [Choose race](charcreation.md#race) (d50)
 2. Roll stats (3d6 x 6)
