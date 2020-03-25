@@ -3,13 +3,14 @@
 ***Three centuries before, the western annex was brought to an end.
 The Eastern Conflict was deemed more important.
 During the 300 years since, the newly settled lands were cut off. 
-Supply lines and communication ceased.
+Supply lines and communication ceased.***
 
-Now, with the eastern conflict over for now, the west again becomes a prize.
-Wealth of the ancients are free for the taking, and lands free to claim.
+***Now, with the eastern conflict over for now, the west again becomes a prize.
+Wealth of the ancients are free for the taking, and lands free to claim.***
 
-Adventurers, enticed by the past's treasures, are drawn by the from within 
-the kingdom of Landol and beyond by the promise of the wonder of what was lost and what lies beyond.***
+***Adventurers, enticed by the past's treasures, are drawn by the from within 
+the kingdom of Landol and beyond by the promise of the wonder 
+of what was lost and what lies beyond.***
 
 ## Planning Sessions
 Message chat times you want to play. 
