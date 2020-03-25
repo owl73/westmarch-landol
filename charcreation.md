@@ -26,16 +26,14 @@ Pick from below or roll randomly (d50).
 
 Reroll one stat based on race and take the higher result.
 
-### Classes
+### [Classes](class/)
 
 Pick from below or roll randomly (d8 roll another d10 on an 8).
 
-1. Fighter 
-2. Knight
-3. Thief 
-4. Hunter
-5. Wizard (Orthodox)
-6. Wizard (Illusionist)
+1. [Fighter](class/fighter.md)
+2. [Thief](class/fighter.md)
+3. Wizard (Orthodox)
+4. Wizard (Illusionist)
 
 ### Background
 

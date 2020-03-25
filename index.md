@@ -26,9 +26,9 @@ No need to come prepaired for a character, it takes like 5 minutes.
 
 ### [Character Creation](charactercreation/)
 
-1. [Choose race](charactercreation#race) (d50)
+1. [Choose race](charcreation.md#race) (d50)
 2. Roll stats (3d6 x 6)
-3. Choose class (d8)
+3. [Choose class](class/) (d8)
 4. Choose background / Roll spells (see class)
 5. Buy gear
 
