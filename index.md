@@ -1,12 +1,12 @@
-# Welcome
+# Into the Unknown
 
-`300 years have passed since the western annex was brought to an end by the
+***300 years have passed since the western annex was brought to an end by the
 eastern conflict.  During the 300 years since, the newly settled lands were cut
 off from usual supplies and communication ceased.  Now with the eastern
 conflict over for now, the west again becomes a prize.  Wealth of the 300 years
 since are free for the taking, and lands free to claim.  Adventurers, enticed
 by the past's treasures, are drawn by the from within the kingdom and beyond by
-the promise of the wonder of what was lost and what lies beyond.`
+the promise of the wonder of what was lost and what lies beyond.***
 
 # Planning Sessions
 Message chat times you want to play. 
