@@ -29,9 +29,7 @@ magic provides the 8th: octarine.
 2. Touch another caster’s illusion and make an opposed Intelligence test. If you succeed, you gain control of their illusion.
 3. You always know the position of the sun in the sky.
 
-### Spells
-
-##### Mishaps
+### Mishaps
 
 1d6 | Mishaps
 1 | MD only return to your pool on a 1-2 for 24hrs.
@@ -41,13 +39,14 @@ magic provides the 8th: octarine.
 5 | All sighted creatures are invisible to you for 24 hours.
 6 | Eruption of illusions from your hands. Everyone who can see you must Save to do anything relying on sight for 1d6 rounds.
 
-##### Dooms 
+### Dooms 
 
 | Dooms |
 | 1 | A 10’ square mirror appears and you are compelled to enter. You lose a random item, gain a random item of approximately equal value, and have 0 HP. You return the next morning, shivering and afraid.
 | 2 | You turn into an illusion for a day. You can make no sound and cannot be felt. Solid impacts pop you. You lose 1d6 permanent HP and reform the next day.
 | 3 | You turn into an illusion permanently.
 
+## Spells
 
 #### 1. Illusion
 

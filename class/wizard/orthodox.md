@@ -25,10 +25,7 @@ None.
 2. Create a tiny light as bright as a match on a fingertip.
 3. Move a light object with a wave of your finger. You could cause a coin to roll along the ground or turn the pages of a book.
 
-
-### Spells
-
-##### Mishaps
+### Mishaps
 
 1d6 | Mishaps
 1 | MD only return to your pool on a 1-2 for 24hrs.
@@ -38,13 +35,15 @@ None.
 5 | Agony for 1d6 rounds.
 6 | Cannot cast spells for 1d6 hours.
 
-# Dooms
+### Dooms
 
 | Dooms |
 | 1 | Lose the ability to cast spells for 1 day.
 | 2 | Lose the ability to cast spells for 3 days.
 | 3 | Lose the ability to cast spells permanently.
 
+
+## Spells
 
 
 #### 1. Lock
