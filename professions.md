@@ -1,11 +1,5 @@
 # Professions
 
-Working in a profession for a full month generates 5sp.
-High Status Professions (82-100) earn double income
-(1gp/month). Some might earn more. You are also treated better,
-even as an apprentice, than most other professions.
-
-
 1d100 | Profession | Guild? | Item
 1 | Armourer | G | Plate Helmet
 2 | Astrologer | | Book of Star Tables

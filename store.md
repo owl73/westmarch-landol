@@ -1,3 +1,9 @@
+# Westford market
+
+**Starting Money** = 1d10cp
+
+**Starting Equipment** = 1 blanket, 3 rations
+
 ## Armour
 
 Leather Armour (Defense 12) |  25sp 
