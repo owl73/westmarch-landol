@@ -2,7 +2,7 @@
 
 1d100 | Profession | Guild? | Item
 1 | Armourer | G | Plate Helmet
-2 | Astrologer | Book of Star Tables
+2 | Astrologer | | Book of Star Tables
 3 | Bag-maker | G | 3 Leather Bags
 4 | Baker | G | 3 Rations
 5 | Barber-Surgeon | | Needle and Thread
