@@ -1,4 +1,4 @@
-# Sorcerer
+# Summoner
 
 **Starting Equipment:** 2 sets of robes, dagger.
 **Starting Skill:** Roll on adjacent table.
