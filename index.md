@@ -12,7 +12,7 @@ Wealth of the ancients are free for the taking, and lands free to claim.***
 the kingdom of Landol and beyond by the promise of the wonder 
 of what was lost and what lies beyond.***
 
-[Setting](setting.md)
+#### [Setting](setting.md)
 
 ## Planning Sessions
 
@@ -35,9 +35,9 @@ No need to come prepaired for a character, it takes like 5 minutes.
 4. [Roll Profession](professions.md) (d100)
 5. [Buy gear](store.md)
 
-### [Main rules](rules/)
+## [Main rules](rules/)
 
-#### [Player Tips](playertips.md)
+### [Player Tips](playertips.md)
 
 Feel free to read them. They will help you out.
 Although, you might have just as much fun going in blind!
