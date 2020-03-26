@@ -1,6 +1,7 @@
 # Monk / Nun
 
 **Starting Equipment:** robes, holy book.
+
 **Starting Skill:** Religion. Also, roll on adjacent table.
 
 - **A:** Literacy, Restrictions of your Order, Unarmed Strike

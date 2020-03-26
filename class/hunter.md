@@ -1,6 +1,7 @@
 # Hunter
 
 **Starting Equipment:** bow, 40 arrows, dagger, leather armour.
+
 **Starting Skill:** Wilderness. Also, roll on adjacent table.
 
 - **A:** Range�nder, Wilderness Sense
