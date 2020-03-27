@@ -14,7 +14,7 @@ may be disloyal, cunning, or poor quality.
 Above any items required for their job, a hireling can carry 3
 Inventory Slots worth of items for the PC.
 
-There are different kinds of [standard hirelings](/store.md#hirelings) 
+There are different kinds of [standard hirelings](../store#hirelings) 
 you could hire for your journey. 
 These are faceless, usually nameless, hirelings. They won't normally join in
 combat or other activities outside of their profession without convincing. 
