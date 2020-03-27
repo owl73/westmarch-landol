@@ -32,8 +32,8 @@ Pick from below or roll randomly (d8 roll another d10 on an 8).
 
 1. [Fighter](class/fighter.md)
 2. [Thief](class/fighter.md)
-3. Wizard (Orthodox)
-4. Wizard (Illusionist)
+3. [Wizard](class/wizard) ([Orthodox](class/wizard/orthodox))
+4. [Wizard](class/wizard) ([Illusionist](class/wizard/illusionist))
 
 ### Background
 

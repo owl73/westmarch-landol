@@ -1,11 +1,11 @@
 # Advancement 
 
-You gain experience in a way of your choosing
+You gain experience in a way of your choosing.
 
 1. Looting
     1. 1 xp for each coin looted
 2. Killing
-    1. 50 xp for each HD of a monster killed
+    1. 50 xp for each HD of a monster killed divided by the number of creatures fighting it.
 3. Exploration
     1. 100 xp for each new location discovered
     2. 200 xp for each location cleared
@@ -15,7 +15,7 @@ You gain experience in a way of your choosing
 
 ## Leveling up
 
-Level | XP | HP (20 Max) | Class Templates | Attack
+Level | XP | HP (24 Max) | Class Templates | Attack
 1 | - | Con - 4 | 1 | 0
 2 | 200 | Con - 2 | 2 | 1
 3 | 400 | Con | 3 | 1
