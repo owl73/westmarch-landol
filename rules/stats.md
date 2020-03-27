@@ -36,11 +36,22 @@ Stat | Bonus
 **CON - 4**
 
 You start with your hp being equal to 4 less than your constitution.
-You gain 2 per level with a maximum hp of 24.
+You gain 2 per [level](level.md) with a maximum hp of 24.
+
+##### Healing
+
+1. Lunch heals a character for 1d6+Level HP. Lunch takes 1 hour, requires a safe place, and consumes 1 ration.
+2. A Good Night’s Rest. Restores all HP. Requires 8 hours of rest, a safe place, a �re or heat source, and consumes 1 ration.
+3. Magical Healing. Some spells or potions restore HP. Others can heal Injuries.
+
+If a character has negative HP (i.e. has taken [Lethal
+Damage](DeathDismemberment.md)),
+the next Lunch or Good Night’s Rest heals them to 0 and not
+over 0.
 
 #### Attack
 
-Starts at **0** and will increase as you level. 
+Starts at **0** and will increase as you [level](level.md). 
 
 Add your attack roll to a d20 to attack something.
 

@@ -4,7 +4,7 @@ Each item has a chance to deplete when you use it. Maybe it gets damaged or
 you're just running low. An item can deplete 3 times before it is broken/used. 
 During each use, roll the item's depletion die (sometimes the roll is the use).
 If you roll a 1, put an *X* next to the item to mark its use. 3 Xs mean the
-item is gone or broken. 
+item is gone or broken or used up. 
 
 ### Depletion dice 
 *weapons* = d20 your attack roll (a fumble is also damaging to your weapon)
@@ -13,6 +13,11 @@ item is gone or broken.
 *arrows* = d8 roll alongside attack (average of 24 arrows, might be able to
 recover some though)
 *torches*= d4 (rolled by me during dungeon exploration every 30 min, 3 torches per slot)
+
+Armor gets a -1 to defense after 1 *X*. 
+
+Weapons get a -1 to damage for every *X*, broken weapons are unusable (or might
+count as a smaller weapon).
 
 #### Examples:
 

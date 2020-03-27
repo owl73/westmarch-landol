@@ -32,18 +32,33 @@ Slots equal to 10 + STRbns.
 - 1 regular item per slot
 - 1/x of a large item per slot
 
-[store](store.md)
+#### [store](store.md)
 
 ### [Item Depletion](depletion.md)
+
+Roll depletion die when you use the item.
+On a 1, add an 'X' to the item. 
+3 Xs and the item is broken or used up.
+
 ### [Exploring](exploring.md)
 ### [Leveling](level.md)
+
+Advance through player's choice of killing, looting, goal based, or
+exploration.
+
+Every level roll to see if stats increase. 
+
 ### [Hirelings](hirelings.md)
+
+Hire someone to help on adventures.
+Standard hirelings only help with professional work. 
+Adventurer hirelings act like PCs and might be reoccuring.
+
 ### [Combat](combat.md)
     
 - d20 + atk vs defense
 - damage = die of weapon + STRbns
 
-
-[injury](DeathDismemberment.md)
+#### [injury](DeathDismemberment.md)
 
 

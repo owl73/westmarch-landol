@@ -85,6 +85,7 @@ maximum damage.
 A natural 1 is a miss, and damages the weapon of the attacker. 
 
 ## Damage
+
 • Light weapons (daggers) deal 1d6 + Strength bonus damage.
 • Medium weapons (swords) deal 1d8 + Strength bonus
     damage if wielded in one hand or 1d10 + Strength bonus
@@ -95,13 +96,15 @@ A natural 1 is a miss, and damages the weapon of the attacker.
 • Bows and Slings deal 1d6 damage.
 • Crossbows deal 1d12 damage.
 
-## Hit points
+## [Hit points](stats.md#hit-points)
+
 "Don't Get hit points"
 If you are at 0 you're fine.
 Negatives? Then we have a problem.
 See the [death and dismemberment table](DeathDismemberment.md)
 
 ## Weapon Proficiency
+
 All classes are proficient with daggers. A PC is also proficient
 with any weapons they gain from a class or background. A PC
 has -4 to Attack with a weapon until they gain proficiency by

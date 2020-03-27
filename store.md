@@ -4,7 +4,7 @@
 
 **Starting Equipment** = 1 blanket, 3 rations
 
-## Armour
+## [Armour](rules/stats.md#defense)
 
 Leather Armour (Defense 12) |  25sp 
 Chain Armour (Defense 14) | 10gp 
@@ -20,6 +20,8 @@ Sling (d6) | 3sp
 Bow (d6) | 25sp 
 Crossbow (d12) | 5gp 
 Arrows/Bolts (20/slot) | 5cp each 
+
+[Weapon proficiency](rules/stats.md#weapon-proficiency)
 
 ## Tools & Gear
 
