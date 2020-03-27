@@ -35,17 +35,14 @@ Slots equal to 10 + STRbns.
 [store](store.md)
 
 ### [Item Depletion](depletion.md)
-
 ### [Exploring](exploring.md)
-
 ### [Leveling](level.md)
-
+### [Hirelings](hirelings.md)
 ### [Combat](combat.md)
     
 - d20 + atk vs defense
 - damage = die of weapon + STRbns
 
-### [Hirelings](hirelings.md)
 
 [injury](DeathDismemberment.md)
 
