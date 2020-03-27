@@ -24,12 +24,12 @@ Pick from below or roll randomly (d50).
 
 3d6 in order. 
 
-- **Strength** (*Str*)
-- **Dexterity** (*Dex*)
-- **Constitution** (*Con*)
-- **Intelegence** (*Int*)
-- **Wisdom** (*Wis*)
-- **Charisma** (*Cha*)
+| **Strength** (*Str*) | 3d6 |
+| **Dexterity** (*Dex*) | 3d6 |
+| **Constitution** (*Con*) | 3d6 |
+| **Intelegence** (*Int*) | 3d6 |
+| **Wisdom** (*Wis*) | 3d6 |
+| **Charisma** (*Cha*) | 3d6 |
 
 Reroll one stat based on race and take the higher result.
 
