@@ -45,6 +45,8 @@ Slots equal to 10 + STRbns.
 - d20 + atk vs defense
 - damage = die of weapon + STRbns
 
+### [Hirelings](hirelings.md)
+
 [injury](DeathDismemberment.md)
 
 
