@@ -1,10 +1,10 @@
 # Character Creation
 
-1. Choose race (d50)
-2. Choose stats (3d6 x 6)
-3. Choose class (d8)
-4. Choose background / spells (see class)
-5. Buy gear
+1. Choose [race](#race) (d50)
+2. Roll [stats](#roll-stats) (3d6 x 6)
+3. Choose [class](#classes) (d8)
+4. Roll [background](#background)
+5. Buy [gear](#gear)
 
 ### Race
 
@@ -20,11 +20,25 @@ Pick from below or roll randomly (d50).
 | Mouse folk | WIS | Can very convincingly play dead. | -2 to Strength for Inventory Slots. | *Raised in humility and duty, mouselngs are frequently members of the First Estate.* |
 | Hound folk | CHA | Can track a creature by smell. | Save to avoid obeying direct commands for 1 round. | *Jowly. Found throughout Creation, but rarely in positions of power.* |
 
-### Roll Stats
+### Roll [Stats](rules/stats)
 
 3d6 in order. 
 
+- **Strength** (*Str*)
+- **Dexterity** (*Dex*)
+- **Constitution** (*Con*)
+- **Intelegence** (*Int*)
+- **Wisdom** (*Wis*)
+- **Charisma** (*Cha*)
+
 Reroll one stat based on race and take the higher result.
+
+- **Hit Points** (*HP*) = CON - 4
+- **Attack** (*Atk*) = 0
+- **Defense** (*Def*) = 10 + Dex bonus
+- **Movement** (*MV*) = 10 + Dex bonus + [Armor penalty](rules/stats#defense)
+- **Stealth** (*ST*) = 5 + Dex bonus + [Armor penalty](rules/stats#defense)
+- **Save** (*SV*) = 5 + Cha. bonus + level
 
 ### [Classes](class/)
 
@@ -37,7 +51,8 @@ Pick from below or roll randomly (d8 roll another d10 on an 8).
 
 ### Background
 
-See your class page for your option of backgrounds
+Roll on the [professions table](professions) to see what 
+failed profession you have.
 
 ### Gear
 

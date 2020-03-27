@@ -49,7 +49,7 @@ Damage](DeathDismemberment.md)),
 the next Lunch or Good Night’s Rest heals them to 0 and not
 over 0.
 
-#### Attack
+#### Attack Bonus
 
 Starts at **0** and will increase as you [level](level.md). 
 
@@ -73,7 +73,7 @@ This is the number an attack would need to roll to hit you.
 
 #### Movement
 
-**12 + Dex bns. +  Armor penalty.**
+**10 + Dex bns. +  Armor penalty.**
 
 This describes how fast your character can move. 
 
