@@ -8,7 +8,6 @@
 - **B:** Flighty, Stunning Fist
 - **C:** Evasion, Obscure Knowledge
 - **D:** Improved Dodge, Pronouncement
-- **A:** Literacy
 
 You can read and write exceptionally well. Your letters allow for
 Charisma tests at a distance. You can roll to see the intentions of
