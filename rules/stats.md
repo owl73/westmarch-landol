@@ -38,7 +38,7 @@ Stat | Bonus
 You start with your hp being equal to 4 less than your constitution.
 You gain 2 per [level](level.md) with a maximum hp of 24.
 
-##### Healing
+#### Healing
 
 1. Lunch heals a character for 1d6+Level HP. Lunch takes 1 hour, requires a safe place, and consumes 1 ration.
 2. A Good Night’s Rest. Restores all HP. Requires 8 hours of rest, a safe place, a �re or heat source, and consumes 1 ration.
@@ -49,13 +49,13 @@ Damage](DeathDismemberment.md)),
 the next Lunch or Good Night’s Rest heals them to 0 and not
 over 0.
 
-#### Attack Bonus
+### Attack Bonus
 
 Starts at **0** and will increase as you [level](level.md). 
 
 Add your attack roll to a d20 to attack something.
 
-#### Defense
+### Defense
 
 - **10 + Dex bns**
 
@@ -71,7 +71,7 @@ Shield | +1 | 0
 
 This is the number an attack would need to roll to hit you.
 
-#### Movement
+### Movement
 
 **10 + Dex bns. +  Armor penalty.**
 
@@ -79,13 +79,13 @@ This describes how fast your character can move.
 
 You might roll under this for chasing or running away.
 
-#### Stealth
+### Stealth
 
 **5 + Dex bns. +  Armor penalty.**
 
 Add this to your roll verses an opponent's wisdom to sneak past.
 
-#### Save
+### Save
 
 **5 + Cha bns. + level**
 
