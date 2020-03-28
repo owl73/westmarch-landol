@@ -4,6 +4,16 @@
 
 **Starting Equipment** = 1 blanket, 3 rations
 
+- [Armour](#armour)
+- [Weapons](#weapons)
+- [Tools & Gear](#tools-&-gear)
+- [Food and Cooking](#food-and-cooking)
+- [Books and Vanity Items](#books-and-vanity-items)
+- [Clothes](#clothes)
+- [Animals](#animals)
+- [Hirelings and Followers](#hirelings-and-followers)
+- [Transportation and Lodging](#transportation-and-lodging)
+
 ## [Armour](rules/stats.md#defense)
 
 Leather Armour (Defense 12) |  25sp 
@@ -143,6 +153,8 @@ Horse (war) | 75gp
 Donkey | 8sp 
 Sheep | 3sp 
 
+[Horse Quality](#horse-quality)
+
 ## Hirelings and Followers
 
 Also require a percent of treasure depending on skill level.
@@ -164,3 +176,27 @@ Raft | 5sp
 Wagon | 15gp 
 Galley | 800gp 
 Inn | 5sp/night 
+
+#### Horse quality
+
+1d20 | Horse Quality
+1 | Catastrophe | Roll for Horse Death. No refunds.
+2 | Lame | Unable to ride for 1d10 days
+3 | Mad | 1-in-6 chance of refusing to move.
+4 | Wobbly | Jelly legs. Nauseating.
+5 | Surly | Must be coaxed into action.
+6 | Vicious | Will bite 1d10 people per day.
+7 | Ugly | An odd assortment of features
+8 | Patchy | Missing some hair.
+9 | Mawkish | Sentimental and attached to owner.
+10 | Fisheyed | Stares in strange directions.
+11 | Hungry | Nips and licks things.
+12 | Stable | Utterly unremarkable.
+13 | Skittish | Startles at the strangest things.
+14 | Jumper | Clears fences and hedges easily.
+15 | Danger Sense | Senses ambushes, bad weather. 
+16 | Swift | Faster than most horses.
+17 | Lordly | Earns the respect of most horses.
+18 | Warrior | Delights in battle. Kicks accurately.
+19 | Stoic | Utterly unflappable.
+20 | Beautiful | Smart, loyal, and glossy.
