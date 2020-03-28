@@ -1,102 +1,101 @@
 # Entities
 
-- 1. Melchior, of Eyes Unblinded
-- 2. Cantopas, the Grey Mirage
-- 3. Thoriel, who Demands Reverence
-- 4. Rone, the Blade of Love
-- 5. Gornim, Lord of Vermin
-- 6. Malrane, the Scholar's Aide
-- 7. Esilan, the Keeper of Hours
-- 8. Simpulex, Carnal Bookkeeper
-- 9. Bantos, Life-Leech
-- 10. Hisbic, the Coin Counter
-- 11. Raspalan, the Urgent Guide
-- 12. Gemwick, Spell Tutor
-- 13. Banzatoul, the Morphing Chain
-- 14. Quen, the Truculent Goat
-- 15. Fizby, Friend of the Stars
-- 16. Doron, the Shield of the Righteous
-- 17. Astokepolos, Diagnosticator
-- 18. Orniel, the Ash Knight
-- 19. Weeblen, Blade Tamer
-- 20. Creston, who Adjudicates
-- 21. Jalpirtan, the First Assassin
-- 22. Antrac, the Dark Flame
-- 23. Louchan, the Scythe of Bones
-- 24. Sbendis, Helpful Vermin
-- 25. Hypanian, the Land-Ship
-- 26. Goamloamer, the Warming Beast
-- 27. Lukian, the Eye of the Gatekeeper
-- 28. Xeriandel, Whose Form is Agony
-- 29. Jentro, the Mirror of Life
-- 30. Kylon, Discord Manifest
-- 31. Uziam, the Creeping Death
-- 32. Krentos, Knight of Leaves
-- 33. Enti, Kite of Eyes
-- 34. Ophinania, Rot Butterfly
-- 35. Banalor, the Light of Creation
-- 36. Irukan, the Tick of Wakefulness
-- 37. Thosban, Cloak of Beasts
-- 38. Leticular, Stairway Between Realms
-- 39. Zantaliar, Lord of War
-- 40. Oswing, the Merchant of Delight
-- 41. Iescophcos, Arrowhead of Sorrow
-- 42. Antoban, the Harbinger of Winter
-- 43. Noroyo, the Useless Fish
-- 44. Uskip, Protector of the Virtuous
-- 45. Warlence, the Perpetual Relative
-- 46. Loswach, the Universal Chisel
-- 47. Benlib, Door of Possibilities
-- 48. Nauox, Tapestry of Lies
-- 49. Eb, the Tasting Lizard
-- 50. Yigmarial, the Soul Cache
-- 51. Rix, Bisector
-- 52. Dave
-- 53. Clippet, Lord of Ducks
-- 54. Cerein, The Sword of Strange Girdles
-- 55. Elorham, Wand of Repulsion
-- 56. Pentornax, Traitor's Friend
-- 57. Fasin-Gelth, the Zone of Madness
-- 58. Nessalor, Cloudlight
-- 59. Yorax, Avian Sommelier
-- 60. Fensington, the Consolation of Conscience
-- 61. Burchub, Bringer of Infatuation
-- 62. Pultrudia, Worm of Worry
-- 63. Robolotanobar, The Un-Cursed Sphere
-- 64. Kwis Bizmac, Swift Sustenance
-- 65. Lisnan, Solemn Guardian
-- 66. Orlinhorn, the Tree of Slumber
-- 67. Melwax, Protocherub
-- 68. Iplimble, She Who Denounces
-- 69. Bhors, Fire Crane
-- 70. Gundobart, Vision-Keeper
-- 71. Knorlian, Beast Trapper
-- 72. Xrim, He Who Desecrates
-- 73. M'tubana, the Wobbling Stone
-- 74. Postidon-Pru, the Telescope Worm
-- 75. Malo�n, Cursed Instigator
-- 76. Soriel, Monstrous Bat
-- 77. Moriana, whose Word is Peace
-- 78. Wilinspat, Chest of Torment
-- 79. Grenchan, Roving Limb
-- 80. Ieducomer, Cauldron of Uniformity
-- 81. Vorgar, Death's Harbinger
-- 82. Barlinfort, Spirit of Delight
-- 83. Caperlin, Avatar of Debauchery
-- 84. Subansu, the Rose of Luck
-- 85. Yingilnip, the Three Fingers of Regret
-- 86. Ootremak, Unquiet Spirit
-- 87. Murlspeth, Slaughtercaller
-- 88. Koilcren, who is Lost
-- 89. Joolsorel, the Ravenous Maw
-- 90. Koskalbanodan, First Among Horses
-- 91. Narthiel, the Sight that Binds
-- 92. Alifane, the Hat of Marvels
-- 93. Quis-Quispon, Immaculate Draughtsman
-- 94. Prokiglov, Master of the Dance
-- 95. Husbap, Sea-Speaker
-- 96. Krepsobar, the Laddermaker
-- 97. Valsbur, the Throne of Power
-- 98. Bowoworth, Primordial Slime
-- 99. Yeltran, Bearer of the Cups of Haste
-- 100.
+- 1 Melchior, of Eyes Unblinded
+- 2 Cantopas, the Grey Mirage
+- 3 Thoriel, who Demands Reverence
+- 4 Rone, the Blade of Love
+- 5 Gornim, Lord of Vermin
+- 6 Malrane, the Scholar's Aide
+- 7 Esilan, the Keeper of Hours
+- 8 Simpulex, Carnal Bookkeeper
+- 9 Bantos, Life-Leech
+- 10 Hisbic, the Coin Counter
+- 11 Raspalan, the Urgent Guide
+- 12 Gemwick, Spell Tutor
+- 13 Banzatoul, the Morphing Chain
+- 14 Quen, the Truculent Goat
+- 15 Fizby, Friend of the Stars
+- 16 Doron, the Shield of the Righteous
+- 17 Astokepolos, Diagnosticator
+- 18 Orniel, the Ash Knight
+- 19 Weeblen, Blade Tamer
+- 20 Creston, who Adjudicates
+- 21 Jalpirtan, the First Assassin
+- 22 Antrac, the Dark Flame
+- 23 Louchan, the Scythe of Bones
+- 24 Sbendis, Helpful Vermin
+- 25 Hypanian, the Land-Ship
+- 26 Goamloamer, the Warming Beast
+- 27 Lukian, the Eye of the Gatekeeper
+- 28 Xeriandel, Whose Form is Agony
+- 29 Jentro, the Mirror of Life
+- 30 Kylon, Discord Manifest
+- 31 Uziam, the Creeping Death
+- 32 Krentos, Knight of Leaves
+- 33 Enti, Kite of Eyes
+- 34 Ophinania, Rot Butterfly
+- 35 Banalor, the Light of Creation
+- 36 Irukan, the Tick of Wakefulness
+- 37 Thosban, Cloak of Beasts
+- 38 Leticular, Stairway Between Realms
+- 39 Zantaliar, Lord of War
+- 40 Oswing, the Merchant of Delight
+- 41 Iescophcos, Arrowhead of Sorrow
+- 42 Antoban, the Harbinger of Winter
+- 43 Noroyo, the Useless Fish
+- 44 Uskip, Protector of the Virtuous
+- 45 Warlence, the Perpetual Relative
+- 46 Loswach, the Universal Chisel
+- 47 Benlib, Door of Possibilities
+- 48 Nauox, Tapestry of Lies
+- 49 Eb, the Tasting Lizard
+- 50 Yigmarial, the Soul Cache
+- 51 Rix, Bisector
+- 52 Dave
+- 53 Clippet, Lord of Ducks
+- 54 Cerein, The Sword of Strange Girdles
+- 55 Elorham, Wand of Repulsion
+- 56 Pentornax, Traitor's Friend
+- 57 Fasin-Gelth, the Zone of Madness
+- 58 Nessalor, Cloudlight
+- 59 Yorax, Avian Sommelier
+- 60 Fensington, the Consolation of Conscience
+- 61 Burchub, Bringer of Infatuation
+- 62 Pultrudia, Worm of Worry
+- 63 Robolotanobar, The Un-Cursed Sphere
+- 64 Kwis Bizmac, Swift Sustenance
+- 65 Lisnan, Solemn Guardian
+- 66 Orlinhorn, the Tree of Slumber
+- 67 Melwax, Protocherub
+- 68 Iplimble, She Who Denounces
+- 69 Bhors, Fire Crane
+- 70 Gundobart, Vision-Keeper
+- 71 Knorlian, Beast Trapper
+- 72 Xrim, He Who Desecrates
+- 73 M'tubana, the Wobbling Stone
+- 74 Postidon-Pru, the Telescope Worm
+- 75 Malo�n, Cursed Instigator
+- 76 Soriel, Monstrous Bat
+- 77 Moriana, whose Word is Peace
+- 78 Wilinspat, Chest of Torment
+- 79 Grenchan, Roving Limb
+- 80 Ieducomer, Cauldron of Uniformity
+- 81 Vorgar, Death's Harbinger
+- 82 Barlinfort, Spirit of Delight
+- 83 Caperlin, Avatar of Debauchery
+- 84 Subansu, the Rose of Luck
+- 85 Yingilnip, the Three Fingers of Regret
+- 86 Ootremak, Unquiet Spirit
+- 87 Murlspeth, Slaughtercaller
+- 88 Koilcren, who is Lost
+- 89 Joolsorel, the Ravenous Maw
+- 90 Koskalbanodan, First Among Horses
+- 91 Narthiel, the Sight that Binds
+- 92 Alifane, the Hat of Marvels
+- 93 Quis-Quispon, Immaculate Draughtsman
+- 94 Prokiglov, Master of the Dance
+- 95 Husbap, Sea-Speaker
+- 96 Krepsobar, the Laddermaker
+- 97 Valsbur, the Throne of Power
+- 98 Bowoworth, Primordial Slime
+- 99 Yeltran, Bearer of the Cups of Haste
