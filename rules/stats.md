@@ -40,9 +40,11 @@ You gain 2 per [level](level.md) with a maximum hp of 24.
 
 #### Healing
 
-1. Lunch heals a character for 1d6+Level HP. Lunch takes 1 hour, requires a safe place, and consumes 1 ration.
-2. A Good Night’s Rest. Restores all HP. Requires 8 hours of rest, a safe place, a �re or heat source, and consumes 1 ration.
+1. Lunch heals a character for 1d6 HP. Lunch takes 1 hour, requires a safe place, and consumes 1 ration.
+2. A Good Night’s Rest. Restores all HP. Requires 8 hours of rest, a safe place, a fire or heat source, and consumes 1 ration.
 3. Magical Healing. Some spells or potions restore HP. Others can heal Injuries.
+
+Better food will heal you more.
 
 If a character has negative HP (i.e. has taken [Lethal
 Damage](DeathDismemberment.md)),
@@ -54,6 +56,13 @@ over 0.
 Starts at **0** and will increase as you [level](level.md). 
 
 Add your attack roll to a d20 to attack something.
+
+#### Weapon Proficiency
+
+If you are not proficient with a weapon, you have a -4 to attack. 
+You gain proficiency by landing 8 successful hits in combat. 
+All characters are proficient with daggers, and start with other 
+proficientcys based on class.
 
 ### Defense
 

@@ -92,6 +92,23 @@ Twine (300 ft) | 5cp
 Waterskin  | 5cp
 Whistle  | 5cp
 
+## Food and Cooking
+
+Small Beer | 1cp
+Bottle of Wine | 5cp
+Standard Meal | 3cp
+Fancy Meal | 3sp
+Ration (3/slot) | 1sp
+Animal Feed (per day) | 2cp
+Cheese (1lb) | 5cp
+Cookpot | 1sp
+Dried Fruit (bag) | 1sp
+Eggs (12) | 3cp
+Herbs (bag) | 1cp
+Lard (5lbs) | 1cp
+Soap (1lb) | 1cp
+Wooden Tub | 1sp
+
 ## Books and Vanity Items
 
 Book (blank) | 3gp 
