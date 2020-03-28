@@ -28,7 +28,7 @@ While in a rage:
 - You cannot do anything defensive, curative, or tactical with your allies. All you can do is attempt to kill things.
 
 You cannot stop fighting until you kill, subdue, or drive off all
-enemies. If an ally has injured you this �ght, they count as an
+enemies. If an ally has injured you this fight, they count as an
 enemy. To stop raging, Save at the start of your turn.
 
 #### B: Danger Sense
@@ -75,7 +75,7 @@ Mind Altering Effects.
 | | 6 | You searched the mountains for rare beasts. Gain fur robes worth 20gp that you won’t sell even if threatened with death.
 | 2 | Raider (You cannot wear plate armour.)
 | | 1 | Your appearance is so outlandish that people stare at you. Gain a situational +2 or -2 bonus to Reaction rolls.
-| | 2 | Your culture rewards glorious death in battle. You must Save to retreat from a �ght. Gain a +2 to Save vs Fear.
+| | 2 | Your culture rewards glorious death in battle. You must Save to retreat from a fight. Gain a +2 to Save vs Fear.
 | | 3 | You were an expert looter. You can evaluate the worth of looted treasure (as a Thief). Gain a brightly coloured silk cloak.
 | | 4 | You must spend at least 1 round chanting and painting your face before entering a rage. This may force your enemies to take a Morale check or Save vs Fear. Gain a pot of war paint.
 | | 5 | You are an expert slave-catcher. If you grapple a human-sized target, you can make an Attack roll to disarm them.
@@ -97,14 +97,14 @@ Mind Altering Effects.
 | 5 | Sailor (You cannot wear chain or plate armour.)
 | | 1 | You can swim, even in leather armour. You can hold your breath for twice as long as normal.
 | | 2 | Your ship was half wrecked in a storm and you drifted for months. Make up 1d6 ludicrous lies about Foreign Parts.
-| | 3 | You kissed a mermaid once. The �rst time you would die from drowning, you instead wash up with 0 HP.
+| | 3 | You kissed a mermaid once. The first time you would die from drowning, you instead wash up with 0 HP.
 | | 4 | You raided a monastery but underwent a miraculous conversion.  You will not harm any monk or nun. Start in the First Estate.
 | | 5 | You guarded a merchant who died on a sea voyage. Start with 1d10gp. You speak small fragments of a dozen languages.
 | | 6 | The horrifying things you saw at sea convinced you dry land was safer. Gain +2 to Save vs Fear.
 | 6 | Unusual (Gain the skill listed.)
-| | 1 | You were a holy warrior �ghting for an obscure cause. Gain the “Religion” skill and a small religious icon.
+| | 1 | You were a holy warrior fighting for an obscure cause. Gain the “Religion” skill and a small religious icon.
 | | 2 | You know a secret ritual. Gain the 1st Necromancer cantrip. You can use it once per day. Gain the “History” skill.
 | | 3 | You have hardened your soul. Gain a +2 bonus to Save vs all spells and the “Religion” skill.
 | | 4 | You are a natural leader. Your hirelings can reroll failed Morale checks or Saves vs Fear. Gain the “Speechmaker” skill.
-| | 5 | Once (ever), if a suitably dramatic event occurs, you can declare “the prophecy is ful�lled” and gain a +2 to all rolls for the rest of the encounter. Gain the “Farmer” skill.
+| | 5 | Once (ever), if a suitably dramatic event occurs, you can declare “the prophecy is fulfilled” and gain a +2 to all rolls for the rest of the encounter. Gain the “Farmer” skill.
 | | 6 | You cannot lie under any circumstances. Your oaths are iron.  Start with the “Law” skill.

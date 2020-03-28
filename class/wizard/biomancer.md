@@ -5,13 +5,13 @@ and 3 random potions (same type).
 
 Biomancy is forbidden. The Authority’s law is clear; mortals were
 meant to live for a time, age, and die. Flesh is temptation and
-corruption. Biomancers revel in the �esh, seeking power and
+corruption. Biomancers revel in the flesh, seeking power and
 immortality by adjusting their physical forms. Some masquerade
 as physicians, philosophers, or wizards of other schools.
 
 ##### Perk
 When you drink a potion, you have a 50% chance to recycle it
-via whatever ori�ce you prefer. You have 10 minutes to excrete
+via whatever orifice you prefer. You have 10 minutes to excrete
 the potion.
 ##### Drawback
 Whenever you receive magical healing (except for the

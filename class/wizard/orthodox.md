@@ -55,7 +55,7 @@ similar object, it will slam shut, dealing [sum] damage to any creature passing
 through it and then trapping them. This spell works on things that aren't
 technically portals (lock a sword in its scabbard, etc.). Requires Str
 10+[dice]x4
-to open. Alternatively, this spell can be cast on a creature's ori�ce. The
+to open. Alternatively, this spell can be cast on a creature's orifice. The
 creature
 gets a Save to resist, and another Save at the end of each of its turns.
 
@@ -108,7 +108,7 @@ R: 10’ T: [dice] creatures or objects D: 0I
 
 f you would take fall damage, you can cast this spell as a reaction to negate
 it.
-You �oat gently to the ground (possibly alarmingly late).
+You float gently to the ground (possibly alarmingly late).
 
 #### 8. Sleep
 

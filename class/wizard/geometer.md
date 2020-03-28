@@ -5,7 +5,7 @@ plumb line. You also have a magnetic compass and black robes
 marked with white starcharts.
 
 The procession of equinoxes, the rise and fall of constellations,
-the movement of �xed and wandering stars; all fascinate the
+the movement of fixed and wandering stars; all fascinate the
 Geometer. Some parts of the world seem to follow perfect
 mathematical laws.This is not a coincidence because nothing is
 ever a coincidence. Other parts are disordered, but perhaps
@@ -31,7 +31,7 @@ with 8 hours of effort and some basic tools.
 3 | Random mutation for 1d6 rounds, then Save. Permanent if you fail.
 4 | Blind for 1d6 rounds.
 5 | Can only move limbs at right angles for 1d6 rounds. -8 to Attack and Defense. -4 to Dexterity and Movement.
-6 | Spell targets you (if harmful) or an enemy (if helpful) or �zzles (if neutral).
+6 | Spell targets you (if harmful) or an enemy (if helpful) or fizzles (if neutral).
 
 ### Dooms
 

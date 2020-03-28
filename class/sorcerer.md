@@ -99,11 +99,11 @@ HD. Objects are person-sized or smaller.
 Creatures created cannot deal damage. You can create objects with magical
 effects (flying carpets, invisibility cloaks), but created objects cannot deal
 magical
-damage (you can make a regular sword but not a +10 vorpal sword of �re) or or
+damage (you can make a regular sword but not a +10 vorpal sword of fire) or or
 provide permanent effects (healing potions only heal for the duration listed,
 rings
 of permanent stat gain only work for the duration). You can make a sword that
-looks like a +10 vorpal sword of �re though.
+looks like a +10 vorpal sword of fire though.
 
 - +1 ID for each prior sorcerous effect you've used today.
 - +1 ID per additional object or creature created.

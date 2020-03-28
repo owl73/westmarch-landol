@@ -4,14 +4,14 @@
 
 **Starting Skill:** Wilderness. Also, roll on adjacent table.
 
-- **A:** Range�nder, Wilderness Sense
+- **A:** Rangefinder, Wilderness Sense
 - **B:** Crippling Shot, Precision
 - **C:** True Caution
 - **D:** Impossible Shot, Vanish
 
 You gain +1 to Stealth for each Hunter template you possess.
 
-#### A: Range�nder
+#### A: Rangefinder
 You get -1 to attack with ranged weapons for every 20’ past the
 listed range, instead of every 10’.
 #### A: Wilderness Sense
@@ -79,7 +79,7 @@ emerging from a shrub, etc.
 | 6 | You robbed from the rich and gave to the poor, sometimes on purpose. You have a reputation in a nearby city or town.
 5 | Scum (Gain the skill listed.)
 | 1 | You lured someone to the woods to kill them. Unfortunately, you became rather attached. Gain a random camp follower and the “Poison” skill.
-| 2 | You �ed a town after spectacularly failing at a profession. Roll on the Table of Professions and gain the skill listed.
+| 2 | You fled a town after spectacularly failing at a profession. Roll on the Table of Professions and gain the skill listed.
 | 3 | You tracked another PC. Make up 1d6 rumours about them.  Players vote if the rumour is true or false. Gain the “Spy” skill.
 | 4 | You prefer finishing off your quarry up close. Gain a heavy weapon and the “Butcher” skill.
 | 5 | You hunt at close range with thrown weapons. Replace your bow and arrows with 9 daggers. Gain the “Juggler” skill.

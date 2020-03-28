@@ -20,10 +20,10 @@ make stats better (except by list roll).
 7 | More TEEF | Mouth is daggers now. Can chew rocks, sticks.
 8 | Not Dead | Fatal Woonds go away on 1, 2, or 3, not just 1.
 9 | Beetle Friend | Can ride it. If dead, is sad, find new beetle next day.
-10 | Sticky | +4 climb. Easy climb but �ngs get gummed up.
+10 | Sticky | +4 climb. Easy climb but fings get gummed up.
 11 | Weird Goblan | Newtate one time.
 12 | Ankle Bite | If fight thing bigger than you, 1 Attack a Round.
-13 | Goblin Friend | Is good. Mebe make more goblans? If dead, sad, but �nd new friend next day.
+13 | Goblin Friend | Is good. Mebe make more goblans? If dead, sad, but find new friend next day.
 14 | Bug Barf | One time in day, barf up big sack of spider, worms.
 15 | Wut? | Never afraids. No thinks to read or control.
 16 | Lucky Goblan | +2 Save. Also, one time in day, reroll big round dice.

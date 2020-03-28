@@ -59,7 +59,7 @@ learn details about spells or magic items, roll under Intelligence.
 
 You can cast from a scroll or a spellbook in a way that does not
 consume the scroll. This allows you to cast directly from your
-spellbook without loading the spell into your brain �rst. You do
+spellbook without loading the spell into your brain first. You do
 not gain the bonus MD that consuming a scroll generates. You
 must declare you are casting a spell from a book before
 initiatives are rolled for the turn.You automatically go last in the

@@ -76,7 +76,7 @@ R: 200' T: [dice] creatures or objects D: 0
 
 Target suffers a different effect depending on which color strikes the target.
 Roll
-1d10: 1. Red. Target takes [sum] �re damage, Save for half. 2. Orange. Target
+1d10: 1. Red. Target takes [sum] fire damage, Save for half. 2. Orange. Target
 takes [sum] bludgeoning damage and is knocked prone. Save negates. 3.
 Yellow. Target takes [sum] lightning damage, Save for half. 4. Green. Target
 takes [sum] acid damage, Save for half. 5. Blue. Target takes [sum] ice damage,
@@ -105,7 +105,7 @@ You reach into a mirror-like surface and pull out a copy of an object adjacent
 to
 the mirror. The object that you pull out must be within reach of the mirror (as
 if it
-were a window), small enough to �t through the mirror (as if it were a window)
+were a window), small enough to fit through the mirror (as if it were a window)
 and light enough for you to pull through with one hand. The mirror object looks
 and feels exactly like the object it copied. It doesn't copy any magical
 properties
@@ -115,7 +115,7 @@ pops like a bubble if it suffers a solid blow. If you invest at least 4 [dice]
 into this
 spell, it can copy the magical properties of an item, but those magical
 properties
-will only function once. For items with continuous properties, such as a �ying
+will only function once. For items with continuous properties, such as a flying
 carpet, the magic properties will last no longer than 10 minutes.
 
 #### 6. Light
@@ -157,7 +157,7 @@ R: [dice]x10' cone T: sighted creatures D: 0 / varies
 If [sum] is equal or greater to the creature's HD, it is befuddled for 1d6
 rounds. If
 [sum] is three times the creature's HD or more, it is stunned for a round, then
-befuddled for 1d6 rounds. If [sum] is �ve times the creature's HD, it is
+befuddled for 1d6 rounds. If [sum] is five times the creature's HD, it is
 stunned for
 1d6 rounds, then befuddled for 1d6 rounds.
 
@@ -214,7 +214,7 @@ like a bubble if it suffers a solid blow.
 R: 50' T: creature or object D: [sum] rounds
 
 Target phases out and becomes unable to affect the world in any way except
-visually. It stands or �oats like an illusion until the spell concludes. Not
+visually. It stands or floats like an illusion until the spell concludes. Not
 even
 magic can affect the target. If they would be in a solid object when the spell
 expires, they are harmlessly shunted into the nearest open space. The maximum

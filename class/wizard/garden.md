@@ -11,7 +11,7 @@ and-coming merchants and landowners want to marry them.
 Peasants leave them gifts and come to them with all sorts of
 problems. Alone, among wizards, they are beloved.
 Except by druids. The garden is the antithesis of the forest.
-Gardens are shrines to domesticated plants. A big wheat �eld is
+Gardens are shrines to domesticated plants. A big wheat field is
 impressive, but a garden is a tiny segment of the wilderness
 made perfect and smooth. Dogs are tamed wolves. Gardens are
 tamed forests. We tell stories about how real life ought to be,
@@ -34,8 +34,8 @@ on a rock counts. You must describe this to other players.
 2 | Take 1d6 damage.
 3 | Random mutation for 1d6 rounds, then Save. Permanent if you fail.
 4 | Plants wither in a 5xd20’ radius around you.
-5 | Save vs Fear against �re for the next 24hrs.
-6 | Plants erupt from your �ngers and toes. Everyone in a 50’ radius must roll
+5 | Save vs Fear against fire for the next 24hrs.
+6 | Plants erupt from your fingers and toes. Everyone in a 50’ radius must roll
 under Dexterity or be entangled and slowed. The plants fade in 1 hour.ooms
 
 ### Dooms

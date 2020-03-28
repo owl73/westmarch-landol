@@ -57,12 +57,7 @@ Starts at **0** and will increase as you [level](level.md).
 
 Add your attack roll to a d20 to attack something.
 
-#### Weapon Proficiency
-
-If you are not proficient with a weapon, you have a -4 to attack. 
-You gain proficiency by landing 8 successful hits in combat. 
-All characters are proficient with daggers, and start with other 
-proficientcys based on class.
+*[Weapon Proficiency](combat#weapon-proficiency)*
 
 ### Defense
 

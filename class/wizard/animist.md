@@ -20,7 +20,7 @@ You cannot bathe. You cannot return another person’s love.
 
 ##### Cantrips
 
-1. Transform into an oily formless creature with your face that has either a) a �y speed of 2x Movement, b) 3x Movement, c) a swim speed of 2x Movement, d) a burrow speed of Movement, e) the ability to squeeze through gaps smaller than a human head.
+1. Transform into an oily formless creature with your face that has either a) a fly speed of 2x Movement, b) 3x Movement, c) a swim speed of 2x Movement, d) a burrow speed of Movement, e) the ability to squeeze through gaps smaller than a human head.
 2. Dim or extinguish all non-magical light sources in a 20’ radius.
 3. Touch someone to learn if they have killed another sentient creature in the last 24hrs.
 
@@ -31,7 +31,7 @@ You cannot bathe. You cannot return another person’s love.
 3 | Random mutation for 1d6 rounds, then Save. Permanent if you fail.  Resembles your transformation.
 4 | Blind for 1d6 rounds.
 5 | Deafened for 1d6 rounds.
-6 | Spell targets you (if harmful) or enemy (if bene�cial) or �zzles (if neutral).
+6 | Spell targets you (if harmful) or enemy (if beneficial) or fizzles (if neutral).
 
 ### Dooms
 

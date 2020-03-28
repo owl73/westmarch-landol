@@ -22,26 +22,26 @@ practice celibacy, and live righteously. Make up at least 2 other
 behavioural restrictions. In practice, do what you want, as long
 as you don’t get caught.
 #### A: Unarmed Strike
-You do not start with pro�ciency in any weapons, even daggers.
-(You have -4 to Attack with a weapon until you gain pro�ciency
+You do not start with proficiency in any weapons, even daggers.
+(You have -4 to Attack with a weapon until you gain proficiency
 by landing 8 successful hits in combat.) On a successful Attack
 roll you deal a maximum of 1 damage. If you gain a template in a
-�ghter-type class, this restriction no longer applies.
+fighter-type class, this restriction no longer applies.
 #### B: Flighty
 If you choose to Act Defensively instead of attacking in a combat
 round, you count as wearing plate armour (16 Defence).
 #### B: Stunning Fist
-If you hit a target with an attack on the �rst round of combat and
+If you hit a target with an attack on the first round of combat and
 the target wasn’t expecting it, you deal normal damage
 (1+Strength Bonus for a punch, 1d6+Strength Bonus for a
 dagger, etc.). If the target had total trust in your non-violent
 ways, they must also Save or be Stunned for 1 round.
 #### C: Evasion
-You can never be pinned in a corner by dif�cult topics or
+You can never be pinned in a corner by difficult topics or
 arguments. You can always retreat to authority, throw up textual
 obstacles, or deploy dogma. No one can make you admit
 something in conversation that you did not intend to admit; any
-accidental disclosures are retroactively �xed, if possible.
+accidental disclosures are retroactively fixed, if possible.
 #### C: Obscure Knowledge
 Once per session, you can declare something is to be true
 because you read it in a book. The base chance of the thing

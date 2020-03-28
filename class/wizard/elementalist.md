@@ -7,11 +7,11 @@ apprentice, black if an archmage or ambitious wizard).
 Elementalist Wizards speak to and rely on elemental spirits.
 They are a wild bunch, disreputable and windblown, but trained
 in formal colleges and fully integrated into society. In rural areas,
-they are beloved as rain-bringers and �ood-calmers, but they are
-also run out of town or hung following forest �res and
+they are beloved as rain-bringers and flood-calmers, but they are
+also run out of town or hung following forest fires and
 earthquakes. This is not always ignorant superstition. Attracting
 the attention of powerful elemental spirits is very dangerous.
-The elements are acid, air, �re, ice, lightning, stone, and water.
+The elements are acid, air, fire, ice, lightning, stone, and water.
 ##### Perk
 Reduce all incoming damage from a chosen elemental source
 by 2. You can choose the element after rolling for spells, but you

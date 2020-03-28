@@ -36,7 +36,7 @@ opponent for one round on a critical hit. The GM decides what
 counts as a kill.
 
 #### C: Quick Learner
-You can become pro�cient with a new weapon after 4 successful
+You can become proficient with a new weapon after 4 successful
 hits (instead of 8). If your first attack is a critical hit, you
 immediately become proficient.
 #### D: Impress
@@ -84,7 +84,7 @@ Level in a single round.
 | | 2 | Your parents were new arrivals, seeking a better life in a newly conquered area. It didn’t go well.
 | | 3 | You were a street rat or a wilderness child. Replace your bow and arrows a sling and 20 rocks.
 | | 4 | Your village was so small and isolated that you and 1d6 of your sisters were trained in archery and swordsfighting.
-| | 5 | Your parents were barbarian mercenaries. You have a slightly exotic look. You can �re a bow from horseback without penalty.
+| | 5 | Your parents were barbarian mercenaries. You have a slightly exotic look. You can fire a bow from horseback without penalty.
 | | 6 | You escaped from a nunnery and took up arms to defend yourself. Gain the “Religion” skill and an old habit.
 | 2 | Soldier
 | | 1 | You followed your husband or lover to war but returned alone.  Gain a wheelbarrow, 50’ of rope, and a bundle of rags.

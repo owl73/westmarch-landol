@@ -21,7 +21,7 @@ Bow (d6) | 25sp
 Crossbow (d12) | 5gp 
 Arrows/Bolts (20/slot) | 5cp each 
 
-[Weapon proficiency](rules/stats.md#weapon-proficiency)
+[Weapon proficiency](rules/combat.md#weapon-proficiency)
 
 ## Tools & Gear
 

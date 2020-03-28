@@ -1,8 +1,8 @@
 # Necromancer
 
 **Starting Equipment:** spellbook, ink and quill, dagger, ritual
-ingredient (1 slot). You may �ll as many inventory slots as you’d
-like with corpse fragments (bones, dried �esh, etc.).
+ingredient (1 slot). You may fill as many inventory slots as you’d
+like with corpse fragments (bones, dried flesh, etc.).
 
 Necromancers are outlawed and outcast wizards. Their
 profession is a curse; their very name a byword for unholy acts
@@ -16,7 +16,7 @@ tests. If a creature successfully removes a Fatal Wound because
 of a reroll you provided, they permanently lose 1 HP.
 ##### Drawback
 You require a ritual ingredient (salt, herbs, etc.) to cast your
-spells. The ingredient costs 2cp and is not consumed, but �re,
+spells. The ingredient costs 2cp and is not consumed, but fire,
 water, or isolation could render you unable to cast spells.
 ##### Cantrips
 
