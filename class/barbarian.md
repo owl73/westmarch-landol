@@ -65,6 +65,7 @@ Reduce all incoming damage by 1 point. Gain +2 to Save vs.
 Mind Altering Effects.
 
 ## Backgrounds
+
 1d6 | 1d6 | Barbarian Skills
 | 1 | Mountaineer (You cannot wear chain or plate armour.)
 | | 1 | You lived in the high alpine passes, feuding with your neighbours. Gain a set of winter clothes and 1 goat.
