@@ -1,9 +1,18 @@
 # Death and Dismemberment Roll
 
-## When hit roll
-1d12+ Lethal Damage + Number of Current Injuries
+## Lethal damage
 
-#### Hit by Weapon
+
+**Lethal damage** is any damage that brings you into the negatives.
+Whenever you take lethal damage roll for what injury you incur. 
+
+**1d12 + Lethal Damage**
+
+To gain an injury, roll d12 and
+add the ammount of lethal damage you have (your negative hp).
+Interperate the result on the tables below.
+
+### Hit by Weapon
 
 If required, roll 1d6 for hit location.
 
@@ -13,7 +22,7 @@ If required, roll 1d6 for hit location.
 | **11+** | 1 *Fatal Wound* [Mangled](#mangled) | 1 *Fatal Wound* [Mangled](#mangled) | 1 *Fatal Wound* [Crushed](#crushed) | 1 *Fatal Wound* [Skullcracked](#skullcracked) |
 | **16+** | X-15 *Fatal Wounds* | X-15 *Fatal Wounds* | X-15 *Fatal Wounds* | X-15 *Fatal Wounds* |
 
-#### Different damage
+### Different damage
 
 | Result | Acid, Fire / Cold, Ice | Lightning | Venom / Toxin | Magic |
 |--------|:-:|:-:|:-:|:-:|
@@ -23,7 +32,7 @@ If required, roll 1d6 for hit location.
 
 [Example](#example) at the bottom
 
-## Fatal Wounds
+# Fatal Wounds
 A PC has 3 rounds to clear all their Fatal Wounds or they die. They can attempt
 to remove a Fatal Wound on their turn by rolling 1 on a d6. PCs with Fatal
 Wounds are unconscious. This does not mean they are quiet or asleep (they can
@@ -38,16 +47,16 @@ Intelligence (unless they have a useful skill).
 Some injuries on this list aren’t on the Death and Dismemberment table. They
 can be accumulated by other means, GM choice, or deliberate actions.
 
-##### Anathema
+#### Anathema
 Cannot benefit from magical healing or be the target of beneficial
 magic.
 
-##### Blind
+#### Blind
 Cannot see. -8 to Attack and Defense. Automatically hit by
 area-of-effect
 attacks.
 
-##### Burned or Frozen: 
+#### Burned or Frozen: 
 Save. If failed, roll on the table below. If passed, lose 1d6
 digits (roll randomly using a d20) and reduce all future damage of the
 appropriate
@@ -59,10 +68,10 @@ type (acid, fire, ice, etc.) by 2.
 5. Lose both hands, both feet, and nose. -2 Charisma.
 6. Lose both hands, both feet, nose, and both eyes. Blind. -2 Charisma.
 
-##### Cracked Ribs
+#### Cracked Ribs
 The PC’s maximum HP is reduced by 4 (to a minimum of 1).
 
-##### Crushed
+#### Crushed
 Save. If failed, roll on the table below. If passed, gain an [Interesting Scar](#interesting-scars).
 1. Permanently lose 1 Strength.
 2. Permanently lose 1 Dexterity.
@@ -75,18 +84,18 @@ If failed, Save again after 1d6 weeks. If both Saves are failed, the PC is
 permanently paralyzed.
 
 
-##### Concussed
+#### Concussed
 The PC’s Wisdom becomes 4 for Initiative.
-##### Deaf
+#### Deaf
 Cannot hear. If ambushed, always act last.
-##### Disabled
+#### Disabled
 The injured limb becomes unusable. A Disabled arm cannot hold
 anything; held items are dropped. A Disabled leg cannot support the PC’s
 weight.
 A PC with two working arms but no working legs can move at 1/20th their normal
 Movement.
 
-##### Fried
+#### Fried
  Save. If failed, roll on the table below. If passed, reduce all future
 lightning
 damage by 2 and gain an [Interesting Scar](#interesting-scars).
@@ -97,20 +106,20 @@ damage by 2 and gain an [Interesting Scar](#interesting-scars).
 5. Palsied. Permanent -2 to Attack and Defense.
 6. Lose one hand, one foot, and both eyes. Blind. -2 Charisma.
 
-##### Mangled
+#### Mangled
 Save. If failed, lose the limb. If passed, Save again. If failed, lose
 1
 digit. If passed, gain an [Interesting Scar](#interesting-scars).
-##### Marked
+#### Marked
 Save. If failed, any magical attack against the PC automatically deals
 double damage or applies a -4 penalty to Save. If passed, the PC has a
 permanent -2 to Save against magic, but reduces all incoming magic damage by 2. 
 They also gain an [Interesting Scar](#interesting-scars) (known as a curse-mark).
 
-##### Scorched or Frostbite
+#### Scorched or Frostbite
 Cannot wear armour. Difficulty gripping or climbing.
 
-##### Skullcracked
+#### Skullcracked
 Save. If failed, roll on the table below. If passed, gain an
 [Interesting Scar](#interesting-scars).
 1. Permanently lose 1 Intelligence.
@@ -122,7 +131,7 @@ Save. If failed, roll on the table below. If passed, gain an
    after
    1d6 weeks. If both Saves are failed, the PC is permanently unconscious.
 
-##### Wracked
+#### Wracked
 Save. If failed, roll on the table below. If passed, reduce all
 future
 poison / toxin damage from the same or similar sources by 2 and gain an
@@ -155,5 +164,5 @@ gain 4 Fatal Wounds, the leg is Mangled, and also Disabled for
 18 days.
 
 If they took a further 1 point of damage (-9 HP), they would roll
-1d12 + 9 (Lethal Damage) + 1 (Mangled) + 1 (Disabled) for
-1d12+11.
+1d12 + 9 (Lethal Damage) for
+1d12+9.

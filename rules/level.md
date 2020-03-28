@@ -1,17 +1,10 @@
 # Advancement 
 
-You gain experience in a way of your choosing.
+*1gp = 1xp*
 
-1. Looting
-    1. 1 xp for each coin looted
-2. Killing
-    1. 50 xp for each HD of a monster killed divided by the number of creatures fighting it.
-3. Exploration
-    1. 100 xp for each new location discovered
-    2. 200 xp for each location cleared
-4. Goal based 
-    1. You come up with a set of goal(s)
-    2. I'll assign xp values to them based on difficulty
+Characters advance by gaining loot. 
+For every 1gp equivalent of loot they bring back to town, a character earns
+1xp.
 
 ## Leveling up
 
