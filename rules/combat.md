@@ -3,7 +3,24 @@
 No one likes waiting for their turns.
 Lets speed this up.
 
+## Reactions 
+
+When you meet someone, combat doesn't just start. 
+The GM will roll a reaction roll for the other creature using the charisma
+bonus of the most visible character.
+
+*2d6 + Cha bns.*
+
+2d6+ | Result | Notes
+2 or less | Immediate Attack | Offended or disgusted.
+3-7 | Unfavourable | May attack if victory likely.
+8-11 | Favourable | Parley or bargaining.
+12 or more  | Very Favourable | May choose to cooperate.
+
+## Combat Begins
+
 ### Steps (subject to change based on player preference)
+
 0. Initiative 
     1d6 : 1-3 enemies first (some player bonuses may apply)
 
