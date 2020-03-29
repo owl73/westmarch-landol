@@ -6,8 +6,8 @@
 
 - **A:** Literacy, Restrictions of your Order, Unarmed Strike
 - **B:** Flighty, Stunning Fist
-- **C:** Evasion, Obscure Knowledge
-- **D:** Improved Dodge, Pronouncement
+- **C:** Evasion, Pronouncement 
+- **D:** Improved Dodge, Obscure Knowledge
 
 You can read and write exceptionally well. Your letters allow for
 Charisma tests at a distance. You can roll to see the intentions of
@@ -41,7 +41,17 @@ arguments. You can always retreat to authority, throw up textual
 obstacles, or deploy dogma. No one can make you admit
 something in conversation that you did not intend to admit; any
 accidental disclosures are retroactively fixed, if possible.
-#### C: Obscure Knowledge
+#### C: Pronouncement
+You can speak for up to 3 hours without pause on a given topic.
+No tests required. Peasants, nobles, and other sensible people
+will hear you out politely, unless they've got something better to
+do. Monsters will still devour you, dragons might argue with you.
+
+#### D: Improved Dodge
+Once per session, you can declare that an attack that hit you
+missed you instead. This won’t save you from falls or landslides,
+but traps will fail and spells will turn away.
+#### D: Obscure Knowledge
 Once per session, you can declare something is to be true
 because you read it in a book. The base chance of the thing
 actually being true is 50%. There has to be a plausible way you
@@ -51,15 +61,6 @@ whether or not it is true right away; the GM will roll when it
 matters. You might only be partially correct, but you will never be
 catastrophically wrong. If you have access to a library of 50
 books, the base chance increases to 80%.
-#### D: Improved Dodge
-Once per session, you can declare that an attack that hit you
-missed you instead. This won’t save you from falls or landslides,
-but traps will fail and spells will turn away.
-#### D: Pronouncement
-You can speak for up to 3 hours without pause on a given topic.
-No tests required. Peasants, nobles, and other sensible people
-will hear you out politely, unless they've got something better to
-do. Monsters will still devour you, dragons might argue with you.
 
 ## Backgrounds
 
