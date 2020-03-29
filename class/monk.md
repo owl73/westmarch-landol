@@ -54,7 +54,8 @@ but traps will fail and spells will turn away.
 #### D: Obscure Knowledge
 Once per session, you can declare something is to be true
 because you read it in a book. The base chance of the thing
-actually being true is 50%. There has to be a plausible way you
+actually being true is 50%.
+There has to be a plausible way you
 could know about it from reading books (new discoveries, minor
 details, and personal secrets are unlikely). You don't know
 whether or not it is true right away; the GM will roll when it

@@ -155,7 +155,7 @@ Sheep | 3sp
 
 [Horse Quality](#horse-quality)
 
-## Hirelings and Followers
+## [Hirelings and Followers](rules/hirelings)
 
 Also require a percent of treasure depending on skill level.
 
