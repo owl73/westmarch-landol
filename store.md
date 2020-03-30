@@ -14,6 +14,10 @@
 - [Hirelings and Followers](#hirelings-and-followers)
 - [Transportation and Lodging](#transportation-and-lodging)
 
+Money Conversions:
+
+100cp = 10sp = 1gp
+
 ## [Armour](rules/stats.md#defense)
 
 Leather Armour (Defense 12) |  25sp 

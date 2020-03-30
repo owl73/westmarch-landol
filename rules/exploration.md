@@ -12,6 +12,8 @@ During 6 hours you can
 
 After traveling for 6h on foot, any other shift of travel without resting 
 first will exaust you 1 inventory slot. 
+Roads let you travel twice as fast. 
+Mounts let you travel an extra 6h without resting.
 You can gain them back by resting.
 
 While traveling and searching you might encounter things living out there. 

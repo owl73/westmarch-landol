@@ -16,6 +16,7 @@ An Inventory Slot can contain:
 - 1 Lantern
 - 3 Books
 - 3 Rations
+- 60 coins
 
 The first 3 Inventory Slots are Quick-Draw Slots, and can be
 accessed at any time. It takes 1 round to retrieve an item from
