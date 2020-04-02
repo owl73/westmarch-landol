@@ -94,7 +94,7 @@ Add this to your roll verses an opponent's wisdom to sneak past.
 **5 + Cha bns. + level**
 
 If an effect, attack,
-or challenge doesn’t fall under any of the other stats or values,
+or challenge doesn't fall under any of the other stats or values,
 roll a d20 + save. 
 Less than 20 is a failure. 
 This represents a character’s luck and determination
