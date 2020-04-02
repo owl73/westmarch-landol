@@ -32,7 +32,7 @@ Slots equal to 10 + STRbns.
 - 1 regular item per slot
 - 1/x of a large item per slot
 
-#### [store](store.md)
+#### [store](../store.md)
 
 ### [Item Depletion](depletion.md)
 
