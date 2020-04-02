@@ -21,7 +21,7 @@ Camping is safer, but not completely.
 
 For each 8 hour block, the DM rolls an encounter die
 
-**d8 | Travel | Search | Camp**
+**d8** | **Travel** | **Search** | **Camp**
 1 | Encounter | Encounter | Encounter
 2 | Encounter | Trace     | -
 3 | Trace     | Trace     | -
