@@ -40,7 +40,7 @@ Roll depletion die when you use the item.
 On a 1, add an 'X' to the item. 
 3 Xs and the item is broken or used up.
 
-### [Exploring](exploring.md)
+### [Exploring](exploration.md)
 ### [Leveling](level.md)
 
 Advance through player's choice of killing, looting, goal based, or
