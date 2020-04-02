@@ -2,22 +2,34 @@
 
 # Wilderness
 
-Time is tracked in 6 hour blocks
+Time is tracked in 8 hour blocks
 
-During 6 hours you can
+During 8 hours you can
 
 - Travel
 - Search the area
 - Rest / Camp
 
-After traveling for 6h on foot, any other shift of travel without resting 
-first will exaust you 1 inventory slot. 
+After traveling for 8h on foot, you exhaust you 1 inventory slot. 
 Roads let you travel twice as fast. 
-Mounts let you travel an extra 6h without resting.
+Mounts let you travel an extra 8h without before exhausting an inventory slot.
 You can gain them back by resting.
 
 While traveling and searching you might encounter things living out there. 
-Camping is safer, but not completly.
+Camping is safer, but not completely.
+
+
+For each 8 hour block, the DM rolls an encounter die
+
+d8 | Travel | Search | Camp
+1 | Encounter | Encounter | Encounter
+2 | Encounter | Trace     | -
+3 | Trace     | Trace     | -
+4 | Hazard    | Hazard    | -
+5 | -         | -         | -
+6 | -         | Discovery | -
+7 | -         | Discovery | -
+8 | Discovery | Discovery | -
 
 # Dungeons
 
