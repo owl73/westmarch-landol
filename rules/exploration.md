@@ -45,3 +45,11 @@ Differrent actions take different ammounts of time.
 
  Multiple PCs can combine their efforts to search a larger
  room in the same time or a smaller room in less time.
+
+ For each 10 min block the DM rolls an encounter die
+
+ **d4** | **Unlit** | **Lit**
+ 1 | encounter | encounter |
+ 2 | encounter | torch goes out |
+ 3 | - | - |
+ 4 | - | - |
