@@ -3,6 +3,8 @@
 No one likes waiting for their turns.
 Lets speed this up.
 
+During comabat time is measured in rounds. Each round is a few seconds. 
+
 ## Reactions 
 
 When you meet someone, combat doesn't just start. 

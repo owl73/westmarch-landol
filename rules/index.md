@@ -41,12 +41,20 @@ On a 1, add an 'X' to the item.
 3 Xs and the item is broken or used up.
 
 ### [Exploring](exploration.md)
+
+#### Wilderness
+
+6 h watches. Chance for an encounter each watch. Travel, search or camp.
+
+#### Dungeon
+
+Turns measure time. Encounter check every 3 turns. 
+
 ### [Leveling](level.md)
 
-Advance through player's choice of killing, looting, goal based, or
-exploration.
+Advance through looting.
 
-Every level roll to see if stats increase. 
+Every level, roll to see if stats increase. 
 
 ### [Hirelings](hirelings.md)
 
