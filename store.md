@@ -1,6 +1,6 @@
 # Westford market
 
-**Starting Money** = 1d10cp
+**Starting Money** = 1d10 + 10cp
 
 **Starting Equipment** = 1 blanket, 3 rations
 
