@@ -34,11 +34,12 @@ bonus of the most visible character.
     Everyone rolls for success 
 3. Resolution 
     The actions resolve in order of initiative
-4. Other 
+4. Finish round
     - Morale (if applicable)
     - Other effects...
     - Spells?
     - Go to step 1
+    - Combat over?
 
 ### Initiative 
 d6
