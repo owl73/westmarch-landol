@@ -37,6 +37,15 @@ Arrows/Bolts (20/slot) | 5cp each
 
 [Weapon proficiency](rules/combat.md#weapon-proficiency)
 
+## Light
+
+Light Candle (small, 1hr) (3/slot) | 1cp
+Reading Candle (3hrs) | 5cp
+Lantern | 3sp
+Lamp Oil (flask, 3/slot, 3hrs) | 5cp
+Tinderbox 1sp
+Torch (3hrs) (3/slot) | 1cp
+
 ## Tools & Gear
 
 Air Bladder | 5cp
