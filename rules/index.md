@@ -24,7 +24,7 @@ Nat 1 misses.
 
 ### [Inventory](inventory.md)
 
-Slots equal to 10 + STRbns.
+Slots equal to your strength score.
 
 3 slots are quick access. Others take a round to reach during combat.
 
