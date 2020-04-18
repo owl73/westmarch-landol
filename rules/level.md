@@ -24,7 +24,7 @@ Level | XP | HP (24 Max) | Class Templates | Attack
 Whenever a PC levels, increase their HP, Attack, and base Save
 (before their Charisma bonus is added). 
 
-##### Increase stats
+#### Increase stats
 
 A PC can also test to improve 3 stats. 
 

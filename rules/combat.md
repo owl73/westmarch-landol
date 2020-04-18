@@ -15,8 +15,9 @@ bonus of the most visible character.
 
 2d6+ | Result | Notes
 2 or less | Immediate Attack | Offended or disgusted.
-3-7 | Unfavourable | May attack if victory likely.
-8-11 | Favourable | Parley or bargaining.
+3-5 | Unfavourable | May attack if victory likely.
+6-8 | Unsure | Cautionary or suspicious
+9-11 | Favourable | Parley or bargaining.
 12 or more  | Very Favourable | May choose to cooperate.
 
 ## Combat Begins
