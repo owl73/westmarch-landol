@@ -43,7 +43,7 @@ Light Candle (small, 1hr) (3/slot) | 1cp
 Reading Candle (3hrs) | 5cp
 Lantern | 3sp
 Lamp Oil (flask, 3/slot, 3hrs) | 5cp
-Tinderbox 1sp
+Tinderbox | 1sp
 Torch (3hrs) (3/slot) | 1cp
 
 ## Tools & Gear
