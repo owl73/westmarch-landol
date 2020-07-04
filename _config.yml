@@ -3,4 +3,4 @@ description: A GLOG hack Westmarch
 baseurl: "/westmarch-landol" # the subpath of your site, e.g. /blog
 url: "https://owl73.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
-theme: just-the-docs
+remote_theme: just-the-docs
