@@ -18,13 +18,16 @@ Money Conversions:
 
 100cp = 10sp = 1gp
 
-## [Armor](rules/combat.md#Armor)
+## [Armor](rules/combat.md#armor)
 See combat section for Damage reduction.
 
-Leather Armor |  25sp 
-Chain Armor | 10gp 
-Plate Armor | 100gp 
-Shield (Defense +2) | 5sp 
+**Armor Type** | **DR** | **Inventory** | **Penalty** | **Price**
+Leather Armor | -3S | 2 | 0 | 25sp 
+Chain Armor | -6S -2P | 4 | 2 | 10gp 
+Plate Armor | -6SB -4P | 6 | 4 |100gp 
+Shield (Defense +2) | -2SBP | 1 | 0 * |5sp 
+
+ * Must be held
 
 ## Weapons
 
