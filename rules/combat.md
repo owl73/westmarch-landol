@@ -54,8 +54,9 @@ In the event of neither players or enemies are aware,
 either the dice decide or both are surprised.
 
 ## Actions in combat
-On Their Turn
+
 A PC or enemy can do one of the following:
+
 + Make an Attack roll against a target.
 + Move from one area to another.
 + Cast a spell or activate a magic item.
@@ -72,10 +73,10 @@ Monsters may telegraph attacks if players have initiative.
 You cannot use ranged attacks when engaged in melee.
 A spell will fail and mishap if you're damaged while casting.
 
-## Resolution
+### Resolution
 If an enemy has initiative, you might die before that strike!
 
-## Attack
+### Attack
 Roll under or equal to your attack stat. (Nat 1 is crit, nat 20 is a fail)
 If there is a success, the player rolls the damage of their weapon
 and the enemy takes that damage.
@@ -86,30 +87,45 @@ Every time you roll a ranged attack roll a 1d8. If you roll a 1 put an X next
 to an ammo slot. At 3 Xs the slot is used up and you have no more ammunition.
 (slings can be replenished out of combat if you have rocks around you.)
 
-## Defense
+### Defense
 If an enemy attacks you, roll under Defense or get hit. 
 
-## Manuver
+### Manuver
 Make a relavent stat check to succeed. 
 If it is against an enemy, such as trip or push, you might have a penalty if
 they are extra strong or agile. 
 
-## Morale
+### Morale
 All NPCs have a morale score from 2 to 12 (monsters, hirelings etc.).  
 When their morale is tested they get a 2d6 roll.  
 If their roll beats their morale they will flee. 
 
-## Combat advantage
+### Combat advantage
 2d20 take the best roll (or +4 to stat). 
 This can be gained through ANY tactical advantage.
 Examples include attacking an unaware enemy, higher ground, unbalance. 
 This may be rewarded without the player asking, but only on rare occasions.
 The player must be actively looking for advantage to gain it.
 
-## Crits
+### Crits
 A natural 1 is a hit, and damages the armor of the defender, also automatic
 maximum damage.
 A natural 20 is a miss, and damages the weapon of the attacker. 
+
+## [Hit points](stats.md#hit-points)
+
+"Don't Get hit points"
+If you are at 0 or more you're fine.
+Negatives? Then we have a problem.
+See the [death and dismemberment table](DeathDismemberment.md)
+
+## Weapon Proficiency
+
+All classes are proficient with daggers. A PC is also proficient
+with any weapons they gain from a class or background. A PC
+has -4 to Attack with a weapon until they gain proficiency by
+landing 8 successful hits or one crit in combat.
+
 
 ## Damage
 
@@ -206,17 +222,4 @@ requirements, penalties and bonuses.
 Amulets, bracelets, caps, and charms are other possible magical armors. 
 The enchantment on the armor might provide resistance to magic as well. 
 
-## [Hit points](stats.md#hit-points)
-
-"Don't Get hit points"
-If you are at 0 or more you're fine.
-Negatives? Then we have a problem.
-See the [death and dismemberment table](DeathDismemberment.md)
-
-## Weapon Proficiency
-
-All classes are proficient with daggers. A PC is also proficient
-with any weapons they gain from a class or background. A PC
-has -4 to Attack with a weapon until they gain proficiency by
-landing 8 successful hits or one crit in combat.
 
