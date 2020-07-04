@@ -4,5 +4,3 @@ baseurl: "/westmarch-landol" # the subpath of your site, e.g. /blog
 url: "https://owl73.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 remote_theme: just-the-docs
-
-color_scheme: dark
