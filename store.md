@@ -24,23 +24,30 @@ See combat section for Damage reduction.
 **Armor Type** | **DR** | **Inventory** | **Penalty** | **Price**
 Leather Armor | -3S | 2 | 0 | 25sp 
 Chain Armor | -6S -2P | 4 | 2 | 10gp 
-Plate Armor | -6SB -4P | 6 | 4 |100gp 
-Shield (Defense +2) | -2SBP | 1 | 0 * |5sp 
+Plate Armor | -6SB -4P | 6 | 4 | 100gp 
+Shield (Defense +2) | -2SBP | 1 (must be held) | 0 | 5sp 
 
- * Must be held
+* B = Bludgeoning
+* P = Piercing
+* S = Slashing
 
 ## Weapons
 
 **Weapon** | **Damage** | **Type** * | **Inventory** |**Price**
+*Light Weapon (can be thrown)* 
 Dagger | 1d6 | P | 1/3 | 5sp
+*Medium Weapons*
 Hammers | 1d8 (1d10) | B | 1 | 3gp
 Swords | 1d8 (1d10) | P S | 1 | 5gp
 Axes | 1d8 (1d10) | S | 1 | 2gp
+*Heavy Weapons*
 Big Hammers | 1d12 | B | 2 | 5gp
 Big Swords | 1d12 | P S | 2 | 9gp
 Big Axes | 1d12 | S | 2 | 5gp
+*Reach Weapons*
 Spear | 1d8 | P | 2 | 4gp
 Polearm | 1d8 | Pick 2 (P B S) | 6gp (8gp if B)
+*Ranged Weapons*
 Slings | 1d6 | B | 2 | 3sp
 Bows | 1d6 damage | P | 2 | 25sp
 Crossbows | 1d12 | P | 2 | 5gp
