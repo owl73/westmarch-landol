@@ -1,6 +1,6 @@
 # Westford market
 
-**Starting Money** = 1d10 + 10cp
+**Starting Money** = 1d10 + 1gp
 
 **Starting Equipment** = 1 blanket, 3 rations
 
@@ -18,22 +18,34 @@ Money Conversions:
 
 100cp = 10sp = 1gp
 
-## [Armour](rules/stats.md#defense)
+## [Armor](rules/combat.md#Armor)
+See combat section for Damage reduction.
 
-Leather Armour (Defense 12) |  25sp 
-Chain Armour (Defense 14) | 10gp 
-Plate Armour (Defense 16) | 100gp 
-Shield (Defense +1) | 5sp 
+Leather Armor |  25sp 
+Chain Armor | 10gp 
+Plate Armor | 100gp 
+Shield (Defense +2) | 5sp 
 
 ## Weapons
 
-Light Weapon (d6+Str. B) (3/slot) | 5sp 
-Medium Weapon (d8/d10+Str. B) | 2gp 
-Heavy Weapon (d12+Str. B) (0.5/slot) | 5gp 
-Sling (d6) | 3sp 
-Bow (d6) | 25sp 
-Crossbow (d12) | 5gp 
-Arrows/Bolts (20/slot) | 5cp each 
+**Weapon** | **Damage** | **Type** * | **Inventory** |**Price**
+Dagger | 1d6 | P | 1/3 | 5sp
+Hammers | 1d8 (1d10) | B | 1 | 3gp
+Swords | 1d8 (1d10) | P S | 1 | 5gp
+Axes | 1d8 (1d10) | S | 1 | 2gp
+Big Hammers | 1d12 | B | 2 | 5gp
+Big Swords | 1d12 | P S | 2 | 9gp
+Big Axes | 1d12 | S | 2 | 5gp
+Spear | 1d8 | P | 2 | 4gp
+Polearm | 1d8 | Pick 2 (P B S) | 6gp (8gp if B)
+Slings | 1d6 | B | 2 | 3sp
+Bows | 1d6 damage | P | 2 | 25sp
+Crossbows | 1d12 | P | 2 | 5gp
+Arrows/Bolts (d8 expendeture die) | | | 1 | 5cp each 
+
+* B = Bludgeoning
+* P = Piercing
+* S = Slashing
 
 [Weapon proficiency](rules/combat.md#weapon-proficiency)
 

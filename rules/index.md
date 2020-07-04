@@ -3,26 +3,26 @@
 These may change after playtesting and consideration. 
 All input from players is welcome.
 
-### [Stats](stats.md)
+## [Stats](stats.md)
 
-#### Ability checks
+### Ability checks
 
 Roll d20 less than or equal to your stat for success.
 
-#### Skill Checks
+### Skill Checks
 
 If you have a skill you can do it. 
 Checks only required in extreme circumsances.
 
 Check is 2d6. 10 or more is a success. 
 
-#### Attacks
+### Attacks
 
 d20 + atk stat. Beat the opposing defense to hit.
 Nat 20 hits.
 Nat 1 misses.
 
-### [Inventory](inventory.md)
+## [Inventory](inventory.md)
 
 Slots equal to your strength score.
 
@@ -30,43 +30,46 @@ Slots equal to your strength score.
 
 - 3 small items per slot
 - 1 regular item per slot
-- 1/x of a large item per slot
+- large items take more than one slot
 
-#### [store](../store.md)
+### [store](../store.md)
 
-### [Item Depletion](depletion.md)
+## [Item Depletion](depletion.md)
 
 Roll depletion die when you use the item.
 On a 1, add an 'X' to the item. 
 3 Xs and the item is broken or used up.
 
-### [Exploring](exploration.md)
+## [Exploring](exploration.md)
 
-#### Wilderness
+### Wilderness
 
-6 h watches. Chance for an encounter each watch. Travel, search or camp.
+6 h watches. 
+Chance for an encounter each watch. 
+Travel, search or camp.
 
-#### Dungeon
+### Dungeon
 
 Turns measure time. Encounter check every 3 turns. 
 
-### [Leveling](level.md)
+## [Leveling](level.md)
 
 Advance through looting.
 
 Every level, roll to see if stats increase. 
+Consult the chart to see what else changes.
 
-### [Hirelings](hirelings.md)
+## [Hirelings](hirelings.md)
 
 Hire someone to help on adventures.
 Standard hirelings only help with professional work. 
 Adventurer hirelings act like PCs and might be reoccuring.
 
-### [Combat](combat.md)
+## [Combat](combat.md)
     
 - d20 + atk vs defense
 - damage = die of weapon + STRbns
 
-#### [injury](DeathDismemberment.md)
+### [injury](DeathDismemberment.md)
 
 

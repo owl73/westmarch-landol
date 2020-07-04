@@ -32,7 +32,7 @@ If required, roll 1d6 for hit location.
 
 [Example](#example) at the bottom
 
-# Fatal Wounds
+## Fatal Wounds
 A PC has 3 rounds to clear all their Fatal Wounds or they die. They can attempt
 to remove a Fatal Wound on their turn by rolling 1 on a d6. PCs with Fatal
 Wounds are unconscious. This does not mean they are quiet or asleep (they can
