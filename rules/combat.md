@@ -1,3 +1,9 @@
+---
+title: Combat
+has_children: true
+parent: Core Rules
+---
+
 # Combat
 
 No one likes waiting for their turns.

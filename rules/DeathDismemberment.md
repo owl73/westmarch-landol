@@ -1,3 +1,8 @@
+---
+title: Injury
+parent: Combat
+---
+
 # Death and Dismemberment Roll
 
 ## Lethal damage

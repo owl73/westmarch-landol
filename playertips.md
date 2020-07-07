@@ -1,3 +1,7 @@
+---
+title: Player Tips
+nav_order: 6
+---
 # Leathality
 
 This kind of play is known for being more leathal to the point of character

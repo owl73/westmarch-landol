@@ -1,3 +1,8 @@
+---
+title: Setting
+parent: Home
+----
+
 # Westford and Beyond
 
 You live in Westford, 

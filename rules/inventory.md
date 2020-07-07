@@ -1,3 +1,7 @@
+---
+title: Inventory
+parent: Core Rules
+---
 # Inventory and Items
 
 PCs have a number of Inventory Slots equal to their Strength.

@@ -1,3 +1,9 @@
+---
+title: Wizard
+parent: Class
+has_children: true
+---
+
 # Wizard
 
 **Starting Equipment:** varies by Wizard School. Select a school or

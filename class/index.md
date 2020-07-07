@@ -1,3 +1,8 @@
+---
+title: Classes
+parent: Character Creation
+nav_order: 1
+---
 # Classes
 
 Feel free to pick from the classes below. 

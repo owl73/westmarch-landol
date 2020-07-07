@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 # Many goblins
 
 Many Goblins act as one character. There are a lot of them

@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 # Homunculator
 
 **Starting Equipment**: dagger, 3 flasks, 3 syringes

@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 # Hunter
 
 **Starting Equipment:** bow, 40 arrows, dagger, leather armour.

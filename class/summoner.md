@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 # Summoner
 
 **Starting Equipment:** 2 sets of robes, dagger.

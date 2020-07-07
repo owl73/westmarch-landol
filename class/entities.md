@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 # Entities
 
 - 1 Melchior, of Eyes Unblinded

@@ -1,3 +1,9 @@
+---
+title: Home
+nav_order: 1
+has_children: true
+---
+
 # Into the Unknown
 
 ***Three centuries before, the western annex was brought to an end.

@@ -1,3 +1,7 @@
+---
+title: Stats
+parent: Core Rules
+---
 # Stats
 
 ## 6 Core Atributes
@@ -61,19 +65,15 @@ Add your attack roll to a d20 to attack something.
 
 ### Defense
 
-- **10 + Dex bns**
+- **10 + Dex bns + armor penalty**
 
-OR
+Armor | penalty
+Leather | 0
+Chain | -1
+Plate | -2
+Shield | +1 
 
-- **10 + Armor bns**
-
-Armor | Bonus | penalty
-Leather | +2 | 0
-Chain | +4 | -2
-Plate | +6 | -4
-Shield | +1 | 0
-
-This is the number an attack would need to roll to hit you.
+Roll under this number for defense
 
 ### Movement
 

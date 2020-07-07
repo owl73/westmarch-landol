@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 # Monk / Nun
 
 **Starting Equipment:** robes, holy book.

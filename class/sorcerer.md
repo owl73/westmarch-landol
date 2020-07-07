@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 # Sorcerer
 
 **Starting Equipment:** Outlandish costume worth 1sp.

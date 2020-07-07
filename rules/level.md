@@ -1,3 +1,7 @@
+---
+title: Leveling Up
+parent: Core Rules
+---
 # Advancement 
 
 *1gp = 1xp*

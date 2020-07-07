@@ -1,3 +1,8 @@
+---
+title: Depletion
+parent: Core Rules
+---
+
 # Item Depletion
 
 Each item has a chance to deplete when you use it. Maybe it gets damaged or

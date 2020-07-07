@@ -1,3 +1,9 @@
+---
+title: Core Rules
+has_children: true
+nav_order: 3
+---
+
 # Core Rules
 
 These may change after playtesting and consideration. 

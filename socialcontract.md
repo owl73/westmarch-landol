@@ -1,3 +1,7 @@
+---
+title: Social Contract
+nav_order: 5
+---
 # Table Rules
 
 ### Be compfortable

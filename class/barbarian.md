@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 # Barbarian
 
 **Starting Equipment:** heavy weapon, leather armour.

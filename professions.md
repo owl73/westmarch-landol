@@ -1,3 +1,9 @@
+---
+title: Professions
+parent: Character Creation
+nav_order: 2
+---
+
 # Professions
 
 1d100 | Profession | Guild? | Item

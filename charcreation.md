@@ -1,3 +1,9 @@
+---
+title: Character Creation
+nav_order: 2
+has_children: true
+---
+
 # Character Creation
 
 1. Choose [race](#race) (d50)

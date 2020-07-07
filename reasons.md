@@ -1,3 +1,7 @@
+---
+title: Why Adventure
+parent: Character Creation
+---
 # Adventureing reasons
 
 1 | Accused of a crime you didn't commit

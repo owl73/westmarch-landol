@@ -1,3 +1,7 @@
+---
+title: Hirelings
+parent: Core Rules
+---
 # Hirelings 
 
 ### Standard Hirelings

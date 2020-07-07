@@ -1,3 +1,7 @@
+---
+title: Exploration
+parent: Core Rules
+---
 # Exploration
 
 # Wilderness

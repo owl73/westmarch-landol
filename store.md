@@ -1,3 +1,8 @@
+---
+title: Gear
+nav_order: 4
+---
+
 # Westford market
 
 **Starting Money** = 1d10 + 1gp

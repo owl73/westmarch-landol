@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 # Knight
 
 **Starting Equipment:** chainmail, shield, sword, horse, 5sp.
