@@ -4,11 +4,24 @@ parent: Core Rules
 ---
 # Advancement 
 
+## Class Goals
+
+If you complete a class goal, you level up. Immediately.
+Regardless of your experience points.
+
+## Experience
+
 *1gp = 1xp*
 
 Characters advance by gaining loot. 
 For every 1gp equivalent of loot they bring back to town, a character earns
 1xp.
+
+You level up 1 time per return to town. 
+
+*example*: you return with 400 gold, so you level up from level 1 to level 2.
+The next time you adventure, you will achieve level 3 on return to town
+regardless of treasure secured. 
 
 ## Leveling up
 
