@@ -1,6 +1,7 @@
 ---
 title: Illusionist
 parent: Wizard
+grand_parent: Classes
 ---
 # Illusionist 
 

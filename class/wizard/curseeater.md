@@ -1,6 +1,7 @@
 ---
 title: Curse Eater
 parent: Wizard
+grand_parent: Classes
 nav_exclude: true
 ---
 # Curse-Eater

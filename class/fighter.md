@@ -1,6 +1,7 @@
 ---
 title: Fighter
 parent: Classes
+grand_parent: Character Creation
 ---
 # Fighter
 

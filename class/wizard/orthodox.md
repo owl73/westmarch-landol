@@ -1,6 +1,7 @@
 ---
 title: Orthodox
 parent: Wizard
+grand_parent: Classes
 ---
 # Orhthodox
 

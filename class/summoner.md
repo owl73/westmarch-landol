@@ -2,6 +2,7 @@
 title: Summoner
 parent: Classes
 has_children: true
+grand_parent: Character Creation
 nav_exclude: true
 ---
 

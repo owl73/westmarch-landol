@@ -1,6 +1,7 @@
 ---
 title: Thief
 parent: Classes
+grand_parent: Character Creation
 ---
 # Thief
 

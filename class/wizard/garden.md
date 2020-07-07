@@ -1,5 +1,6 @@
 ---
 title: Garden
+grand_parent: Classes
 parent: Wizard
 nav_exclude: true
 ---

@@ -1,6 +1,7 @@
 ---
 title: Goblan
 parent: Classes
+grand_parent: Character Creation
 nav_exclude: true
 ---
 

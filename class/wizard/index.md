@@ -1,6 +1,7 @@
 ---
 title: Wizard
 parent: Classes
+grand_parent: Character Creation
 has_children: true
 ---
 
