@@ -1,8 +1,6 @@
 ---
 title: Barbarian
 nav_exclude: true
-parent: Classes
-grand_parent: Character Creation
 ---
 
 # Barbarian

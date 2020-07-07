@@ -1,8 +1,6 @@
 ---
 title: Homunculator
 nav_exclude: true
-parent: Classes
-grand_parent: Character Creation
 ---
 
 # Homunculator

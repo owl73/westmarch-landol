@@ -1,7 +1,5 @@
 ---
 title: White Hand
-parent: Wizard
-grand_parent: Classes
 nav_exclude: true
 ---
 # White Hand

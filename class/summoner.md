@@ -1,9 +1,6 @@
 ---
 title: Summoner
 nav_exclude: true
-parent: Classes
-has_children: true
-grand_parent: Character Creation
 ---
 
 # Summoner

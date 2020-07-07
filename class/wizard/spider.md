@@ -1,7 +1,5 @@
 ---
 title: Spider
-parent: Wizard
-grand_parent: Classes
 nav_exclude: true
 ---
 # Spider

@@ -1,8 +1,6 @@
 ---
 title: Entities
 nav_exclude: true
-parent: Summoner
-grand_parent: Classes
 ---
 
 # Entities

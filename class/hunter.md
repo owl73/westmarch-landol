@@ -1,8 +1,6 @@
 ---
 title: Hunter
 nav_exclude: true
-parent: Classes
-grand_parent: Character Creation
 ---
 
 # Hunter

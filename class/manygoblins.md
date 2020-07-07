@@ -1,8 +1,6 @@
 ---
 title: Many Goblins
 nav_exclude: true
-parent: Classes
-grand_parent: Character Creation
 ---
 
 # Many goblins
