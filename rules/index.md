@@ -73,8 +73,9 @@ Adventurer hirelings act like PCs and might be reoccuring.
 
 ## [Combat](combat.md)
     
-- d20 + atk vs defense
-- damage = die of weapon + STRbns
+- d20 under Atk to hit
+    - Roll damage = dmg of weapon + str bns!
+- d20 under Def to not get hit
 
 ### [injury](DeathDismemberment.md)
 

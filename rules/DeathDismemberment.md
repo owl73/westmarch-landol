@@ -1,6 +1,7 @@
 ---
 title: Injury
 parent: Combat
+grand_parent: Core Rules
 ---
 
 # Death and Dismemberment Roll
