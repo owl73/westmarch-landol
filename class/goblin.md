@@ -1,4 +1,6 @@
 ---
+title: Goblan
+parent: Classes
 nav_exclude: true
 ---
 

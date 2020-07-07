@@ -1,4 +1,7 @@
 ---
+title: Summoner
+parent: Classes
+has_children: true
 nav_exclude: true
 ---
 

@@ -1,4 +1,6 @@
 ---
+title: Monk
+parent: Classes
 nav_exclude: true
 ---
 

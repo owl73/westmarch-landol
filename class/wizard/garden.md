@@ -1,3 +1,8 @@
+---
+title: Garden
+parent: Wizard
+nav_exclude: true
+---
 # Garden 
 
 **Starting Equipment:** spellbook, ink and quill, quarterstaff, spade,

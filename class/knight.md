@@ -1,4 +1,6 @@
 ---
+title: Knight
+parent: Classes
 nav_exclude: true
 ---
 

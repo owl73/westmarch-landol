@@ -1,4 +1,6 @@
 ---
+title: Many Goblins
+parent: Classes
 nav_exclude: true
 ---
 

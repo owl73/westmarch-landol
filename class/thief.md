@@ -1,3 +1,7 @@
+---
+title: Thief
+parent: Classes
+---
 # Thief
 
 **Starting Equipment:** leather armour, lockpicks, dagger.

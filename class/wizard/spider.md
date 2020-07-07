@@ -1,3 +1,8 @@
+---
+title: Spider
+parent: Wizard
+nav_exclude: true
+---
 # Spider
 
 **Starting Equipment:** spellbook, ink and quill, dagger, red robes.

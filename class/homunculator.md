@@ -1,4 +1,6 @@
 ---
+title: Homunculator
+parent: Classes
 nav_exclude: true
 ---
 

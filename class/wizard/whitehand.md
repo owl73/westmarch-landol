@@ -1,3 +1,8 @@
+---
+title: White Hand
+parent: Wizard
+nav_exclude: true
+---
 # White Hand
 
 **Starting Equipment:** spellbook, ink and quill, grey robes with a

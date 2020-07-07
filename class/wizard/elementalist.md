@@ -1,3 +1,8 @@
+---
+title: Elementalist
+parent: Wizard
+nav_exclude: true
+---
 # Elementalist
 
 **Starting Equipment:** spellbook, ink and quill, grey robes hemmed

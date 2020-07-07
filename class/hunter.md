@@ -1,4 +1,6 @@
 ---
+title: Hunter
+parent: Classes
 nav_exclude: true
 ---
 

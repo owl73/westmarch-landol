@@ -1,4 +1,6 @@
 ---
+title: Barbarian
+parent: Classes
 nav_exclude: true
 ---
 

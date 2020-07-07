@@ -1,3 +1,8 @@
+---
+title: Biomancer
+parent: Wizard
+nav_exclude: true
+---
 # Biomancer
 
 **Starting Equipment:** spellbook, ink and quill, 2 black thumb rings,

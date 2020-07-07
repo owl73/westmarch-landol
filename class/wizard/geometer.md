@@ -1,3 +1,8 @@
+---
+title: Geometer
+parent: Wizard
+nav_exclude: true
+---
 # Geometer
 
 **Starting Equipment:** spellbook, ink and quill, protractor, ruler,

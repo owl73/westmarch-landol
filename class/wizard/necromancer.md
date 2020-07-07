@@ -1,3 +1,8 @@
+---
+title: Necromancer
+parent: Wizard
+nav_exclude: true
+---
 # Necromancer
 
 **Starting Equipment:** spellbook, ink and quill, dagger, ritual

@@ -1,3 +1,7 @@
+---
+title: Orthodox
+parent: Wizard
+---
 # Orhthodox
 
 **Starting Equipment:** spellbook, ink and quill, dagger, red robes.

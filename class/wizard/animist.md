@@ -1,3 +1,9 @@
+---
+title: Animist
+parent: Wizard
+nav_exclude: true
+---
+
 # Animist 
 
 **Starting Equipment:** dagger, spellbook, ink and quill. You dress for concealment.

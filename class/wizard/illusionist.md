@@ -1,3 +1,7 @@
+---
+title: Illusionist
+parent: Wizard
+---
 # Illusionist 
 
 **Starting Equipment:** spellbook, ink and quill, rainbow-coloured

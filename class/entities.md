@@ -1,4 +1,6 @@
 ---
+title: Entities
+parent: Summoner
 nav_exclude: true
 ---
 

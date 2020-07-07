@@ -1,3 +1,8 @@
+---
+title: Curse Eater
+parent: Wizard
+nav_exclude: true
+---
 # Curse-Eater
 
 **Starting Equipment:** spellbook, ink and quill. Both your smallest
