@@ -1,8 +1,8 @@
 ---
 title: Monk
+nav_exclude: true
 parent: Classes
 grand_parent: Character Creation
-nav_exclude: true
 ---
 
 # Monk / Nun
