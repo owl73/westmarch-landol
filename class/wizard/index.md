@@ -1,6 +1,6 @@
 ---
 title: Wizard
-parent: Class
+parent: Classes
 has_children: true
 ---
 
