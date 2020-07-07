@@ -135,6 +135,8 @@ landing 8 successful hits or one crit in combat.
 
 ## Damage
 
+Damage die of Weapon + Strength Bonus (Ranged add nothing)
+
 ### Light weapons 
 Can be thrown
 
@@ -180,10 +182,10 @@ Polearm | Pick 2 (Piercing, Bludgeoning, Slashing)
 * 2 Inventory Slots
 * [Roll a ammo die per attack]
 
-Weapon | Damage | Type | Notes
+Weapon | Damage | Type 
 Slings | 1d6 | Bludgeoning
 Bows | 1d6 damage | Piercing
-Crossbows | 1d12 | Piercing | takes 1 round to reload
+Crossbows | 1d12 (takes 1 round to reload) | Piercing 
 
 ## Armor
 
