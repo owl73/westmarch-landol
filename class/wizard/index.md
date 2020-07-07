@@ -12,6 +12,8 @@ roll for one on the adjacent table.
 **Starting Skill:** Roll on the appropriate adjacent table for the
 school’s status (Chartered, Outsider, or Outlaw).
 
+**Level Goal**: Uncover New Lore
+
 - **A:** Spellcasting, +1 MD, +1 Spell Slot, +2 Spells (1-6)
 - **B:** +1 MD, +1 Spell Slot, +1 Spell (1-8), Book Casting
 - **C:** +1 MD, +1 Spell Slot, +1 Spell (1-10), Friendly Spell

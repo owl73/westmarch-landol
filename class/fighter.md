@@ -8,6 +8,8 @@ parent: Classes
 
 **Starting Skill:** Roll on adjacent table.
 
+**Level Goal**: Kill a Named Beast
+
 + **A:** Parry, +1 attack per round
 + **B:** Notches
 + **C:** Quick Learner, +2 Attack stat

@@ -11,6 +11,8 @@ grand_parent: Character Creation
 adjacent table. You may roll on the Table of Professions for a
 cover story. Gain the item but not the skill listed.
 
+**Level Goal**: Secure a Named Treasure
+
 - **A:** Always Prepared, Evaluate, Wall Crawler
 - **B:** Lucky, Quick Draw
 - **C:** Backstab
