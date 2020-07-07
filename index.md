@@ -3,8 +3,6 @@ title: Home
 nav_order: 1
 ---
 
-# Into the Unknown
-
 ***Three centuries before, the western annex was brought to an end.
 The Eastern Conflict was deemed more important.
 During the 300 years since, the newly settled lands were cut off. 
