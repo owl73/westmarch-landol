@@ -1,7 +1,7 @@
 ---
 title: Setting
 parent: Home
-----
+---
 
 # Westford and Beyond
 
