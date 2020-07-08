@@ -29,6 +29,14 @@ Knight named Tarion leads them with the help of his great riches.*
 *They say a dwarf lives at the foot of the mountains allong the river. I think
 its a bloody lie. But who knows, if he's real, I'd love to buy magic from him.*
 
+*They say the sisters reside in the forest to the south. I'd stay clear of
+spending too much time there if I were you.*
+
+*The forest to the north has some weird magic to it. Ever since that magician
+Tulf dissapeard into there, I've got strange feelings from it.*
+
+*The alchemist just north of here hasn't come into town in a while. I wonder if
+him and his wife are doing alright.*
 
 ## Legends
 
