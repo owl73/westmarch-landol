@@ -3,17 +3,22 @@ title: Home
 nav_order: 1
 ---
 
-***Three centuries before, the western annex was brought to an end.
-The Eastern Conflict was deemed more important.
-During the 300 years since, the newly settled lands were cut off. 
-Supply lines and communication ceased.***
+***After 300 years, The Eastern Conflict over for now, 
+the Western Lands again become a prize.***
 
-***Now, with the eastern conflict over for now, the west again becomes a prize.
-Wealth of the ancients are free for the taking, and lands free to claim.***
+***Wealth of the ancients are free for the taking, and lands free to claim.
+Or are they?***
 
 ***Adventurers, enticed by the past's treasures, are drawn by the from within 
 the kingdom of Landol and beyond by the promise of the wonder 
 of what was lost and what lies beyond.***
+
+***The Angstrom Sword! Metri's lore! The Knowledge of the Vat people! 
+The Tales of Old can again be discovered!***
+
+***But Adventurers Beware! Many Things lurk in the unknown. 
+Echos of the past, and monsters sealed
+away. Beware The Golem, The Sisters, and the one named Nekus.***
 
 #### [Setting](setting.md)
 
