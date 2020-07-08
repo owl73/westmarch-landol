@@ -9,14 +9,14 @@ the Western Lands again become a prize.***
 ***Wealth of the ancients are free for the taking, and lands free to claim.
 Or are they?***
 
-***Adventurers, enticed by the past's treasures, are drawn by the from within 
+***Adventurers, enticed by the treasures of the past, are drawn from within 
 the kingdom of Landol and beyond by the promise of the wonder 
 of what was lost and what lies beyond.***
 
 ***The Angstrom Sword! Metri's lore! The Knowledge of the Vat people! 
 The Tales of Old can again be discovered!***
 
-***But Adventurers Beware! Many Things lurk in the unknown. 
+***But Adventurers Beware! Many Things lurk in The Unknown. 
 Echos of the past, and monsters sealed
 away. Beware The Golem, The Sisters, and the one named Nekus.***
 
