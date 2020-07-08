@@ -5,13 +5,14 @@ nav_order: 4
 
 # Westford market
 
-**Starting Money** = 1d10 + 1gp
+**Starting Money** = 1d5 + 1gp
 
-**Starting Equipment** = 1 blanket, 3 rations
+**Starting Equipment** = 1 blanket, 3 rations, 1 torch
 
-- [Armour](#armour)
+- [Armor](#armor)
 - [Weapons](#weapons)
-- [Tools & Gear](#tools-&-gear)
+- [Light](#light)
+- [Tools & Gear](#tools--gear)
 - [Food and Cooking](#food-and-cooking)
 - [Books and Vanity Items](#books-and-vanity-items)
 - [Clothes](#clothes)
