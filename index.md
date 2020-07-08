@@ -1,5 +1,6 @@
 ---
 title: Home
+has_children: true
 nav_order: 1
 ---
 
@@ -13,7 +14,9 @@ Or are they?***
 the kingdom of Landol and beyond by the promise of the wonder 
 of what was lost and what lies beyond.***
 
-***The Angstrom Sword! Metri's lore! The Knowledge of the Vat people! 
+***The Angstrom Sword! 
+Metri's lore! 
+Knowledge of the Vat person! 
 The Tales of Old can again be discovered!***
 
 ***But Adventurers Beware! Many Things lurk in The Unknown. 
@@ -21,31 +24,3 @@ Echos of the past, and monsters sealed
 away. Beware The Golem, The Sisters, and the one named Nekus.***
 
 #### [Setting](setting.md)
-
-## Planning Sessions
-
-Message chat times you want to play. 
-Ask me when I'm free. I'll try to be as accomendating as possible.
-Get some players together. 
-No need to come prepaired for a character, it takes like 5 minutes.
-(sometimes less).
-
-### Rules for sessions
-
-- No more than 5 players
-- [Social contract](socialcontract.md)
-
-### [Character Creation](charcreation.md/)
-
-1. [Choose race](charcreation.md#race) (d50)
-2. [Roll stats](rules/stats.md) (3d6 x 6)
-3. [Choose class and skill](class/) (d8)
-4. [Roll Profession](professions.md) (d100)
-5. [Buy gear](store.md)
-
-## [Main rules](rules/)
-
-### [Player Tips](playertips.md)
-
-Feel free to read them. They will help you out.
-Although, you might have just as much fun going in blind!
