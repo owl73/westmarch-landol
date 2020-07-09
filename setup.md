@@ -34,5 +34,29 @@ Be prepared.
 
 The idea is to explore. It helps if your character, or you personally, have a
 goal in mind. It might be hard to find a goal without info of whats out there
-so check the setting page for rumors, or
+so check the setting page or inn for rumors, or
 give it a session and it might spark something.
+
+## New Content
+
+The Character Options will change based on what happens in the world. 
+
+### Rolling 
+
+Rolling for your character provides the opportunity for a race or class that
+isn't available for choice. (you can't roll over and over though, one and done)
+
+##### Adding Classes to the Table
+
+A Class will be added to the choosable classes if you
+- Get 4 templates of that class
+- Complete the class goal of that class
+- Return with something pertaining to that class
+    - i.e. The necromancer's Tome
+
+##### Adding Races to the Table 
+
+A Class will be added to the choosable classes if you
+- Level up to level 3
+- Earn Good favor with a group of that race
+- Capture and return with a specimen 

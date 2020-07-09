@@ -6,8 +6,8 @@ parent: Core Rules
 
 ## Class Goals
 
-If you complete a class goal, you level up. Immediately.
-Regardless of your experience points.
+**If you complete a class goal, you level up. Immediately.
+Regardless of your experience points.**
 
 ## Experience
 

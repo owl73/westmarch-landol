@@ -47,18 +47,18 @@ tiring activities inflict Fatigue. Each level of Fatigue takes up 1
 Inventory Slot. It is usually removed by resting.
 
 ## Armour
-- **Leather armour** takes up 0 Inventory Slots and provides +2 to Defense.
-- **Chain armour** takes up 2 Inventory Slots and provides a +4 bonus to Defense. It also imposes a -2 penalty to Movement and Stealth.
-- **Plate armour** takes up 4 Inventory Slots and provides a +6 bonus to Defense. It also imposes a -4 penalty to Movement and Stealth.
-- **Shields** take up 1 Inventory Slot and provide a +1 bonus to Defense. A PC can sunder their shield to reduce incoming damage by 1d12. The shield is broken afterwards.  Melee Weapons
+- **Leather armour** takes up 0 Inventory Slots 
+- **Chain armour** takes up 2 Inventory Slots 
+- **Plate armour** takes up 4 Inventory Slots 
+- **Shields** take up 1 Inventory Slot and must be held to take effect
 
 ## Weapons
 
 ### Melee
 
-- **Light weapons** (daggers) take up 1/3rd of an Inventory Slot and deal 1d6 + Strength bonus damage in melee.
-- **Medium weapons** (swords) take up 1 Inventory Slot and deal 1d8 + Strength bonus damage if wielded in one hand or 1d10 + Strength bonus damage if wielded in both hands.
-- **Heavy weapons** (hammers) deal 1d12 + Strength bonus damage but must be wielded in both hands.
+- **Light weapons** take up 1/3rd of an Inventory Slot and deal 1d6 + Strength bonus damage in melee.
+- **Medium weapons** take up 1 Inventory Slot and deal 1d8 + Strength bonus damage if wielded in one hand or 1d10 + Strength bonus damage if wielded in both hands.
+- **Heavy weapons** deal 1d12 + Strength bonus damage but must be wielded in both hands.
 
 ### Ranged
 Ranged weapons get -1 to Attack for every 10’ beyond their
