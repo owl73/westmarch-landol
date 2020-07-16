@@ -26,17 +26,17 @@ regardless of treasure secured.
 ## Leveling up
 
 Level | XP | HP (24 Max) | Class Templates | Attack
-1 | - | Con - 4 | 1 | 0
-2 | 200 | Con - 2 | 2 | 1
-3 | 400 | Con | 3 | 1
-4 | 700 | Con + 2 | 4 | 2
-5 | 1,000 | Con + 4 | - | 2
-6 | 1,400 | Con + 6 | - | 3
-7 | 1,800 | Con + 7 | - | 3
-8 | 2,200 | Con + 8 | - | 4
-9 | 2,600 | Con + 9 | - | 4
-10 | 3,000 | Con + 10 | - | 5
-+1 | +500 | +1 | - | 5
+1 | - | Con - 4 | 1 | 11
+2 | 200 | Con - 2 | 2 | 12
+3 | 400 | Con | 3 | 1 | 12
+4 | 700 | Con + 2 | 4 | 13
+5 | 1,000 | Con + 4 | - | 13
+6 | 1,400 | Con + 6 | - | 14
+7 | 1,800 | Con + 7 | - | 14
+8 | 2,200 | Con + 8 | - | 15
+9 | 2,600 | Con + 9 | - | 15
+10 | 3,000 | Con + 10 | - | 15
++1 | +500 | +1 | - | 15
 
 Whenever a PC levels, increase their HP, Attack, and base Save
 (before their Charisma bonus is added). 
