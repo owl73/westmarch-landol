@@ -40,8 +40,8 @@ Pick from below or roll randomly (d50).
 Reroll one stat based on race and take the higher result.
 
 | **Hit Points** (*HP*) | CON - 4
-| **Attack** (*Atk*) | 0
-| **Defense** (*Def*) | 10 + Dex bonus
+| **Attack** (*Atk*) | 11
+| **Defense** (*Def*) | 8 + Dex bonus
 | **Movement** (*MV*) | 10 + Dex bonus + [Armor penalty](rules/stats#defense)
 | **Stealth** (*ST*) | 5 + Dex bonus + [Armor penalty](rules/stats#defense)
 | **Save** (*SV*) | 5 + Cha. bonus + level

@@ -57,15 +57,15 @@ over 0.
 
 ### Attack Bonus
 
-Starts at **0** and will increase as you [level](level.md). 
+Starts at **11** and will increase as you [level](level.md). 
 
-Add your attack roll to a d20 to attack something.
+Roll under attack to hit.
 
 *[Weapon Proficiency](combat#weapon-proficiency)*
 
 ### Defense
 
-- **10 + Dex bns + armor penalty**
+- **8 + Dex bns + armor penalty**
 
 Armor | penalty
 Leather | 0
