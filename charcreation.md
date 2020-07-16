@@ -63,8 +63,9 @@ failed profession you have.
 ### Gear
 
 You start with:
-- 1d10 + 10 copper coins (cp)
+- 1d6gp
 - 1 blanket
 - 3 rations
+- 1 torch (1/3 slots)
 
 [Here is the gear list.](store.md)

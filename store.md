@@ -5,7 +5,7 @@ nav_order: 4
 
 # Westford market
 
-**Starting Money** = 1d5 + 1gp
+**Starting Money** = 1d6gp
 
 **Starting Equipment** = 1 blanket, 3 rations, 1 torch
 
