@@ -28,7 +28,7 @@ regardless of treasure secured.
 Level | XP | HP (24 Max) | Class Templates | Attack
 1 | - | Con - 4 | 1 | 11
 2 | 200 | Con - 2 | 2 | 12
-3 | 400 | Con | 3 | 1 | 12
+3 | 400 | Con | 3 | 12 
 4 | 700 | Con + 2 | 4 | 13
 5 | 1,000 | Con + 4 | - | 13
 6 | 1,400 | Con + 6 | - | 14
