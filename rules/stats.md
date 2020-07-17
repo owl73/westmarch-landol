@@ -6,7 +6,7 @@ parent: Core Rules
 
 ## Rolling stats
 
-#### Basic check
+### Basic check
 
 Roll a d20 equal or under the value of your relevant stat. 
 
@@ -14,7 +14,7 @@ Example: You roll a 16, your strength is 16. You moved the bolder.
 
 Example: You roll a 13, your movement is 12. You trip and lose the chase.
 
-#### Contest Check
+### Contest Check
 
 Each party rolls a d20 equal or under the relevant stat. (like a basic check)
 
@@ -22,7 +22,7 @@ Each party rolls a d20 equal or under the relevant stat. (like a basic check)
 - If one succeeds, the other wins the contest
 - If both succeed, the higher roll wins the contents 
 
-#### Special Check
+### Special Check
 
 These are rare. But in the case that there is something very difficult that not
 just anyone smart or strong could do. You might be asked to roll one of these. 
