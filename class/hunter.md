@@ -17,33 +17,46 @@ nav_exclude: true
 You gain +1 to Stealth for each Hunter template you possess.
 
 #### A: Rangefinder
+
 You get -1 to attack with ranged weapons for every 20’ past the
 listed range, instead of every 10’.
+
 #### A: Wilderness Sense
+
 After the GM gives you the Omen for an encounter, you can
 choose to reroll the encounter and get a different Omen. You
 must accept the new result. You have a 50% chance to act in
 surprise rounds.
+
 #### B: Crippling Shot
+
 If you hit an enemy with a ranged weapon, you can choose to
 deal 1 damage instead of rolling for damage. The next attack
 made by the enemy deals ½ normal damage.
+
 #### B: Precision
+
 When you gain this template, choose either Strength or
 Dexterity. Add the chosen stat’s bonus to damage rolls made
 with ranged weapons (bows, crossbows, thrown daggers, etc.)
+
 #### C: True Caution
+
 After the GM gives you the Omen for an encounter, you can
 choose to reroll the encounter and get a different Omen. You can
 choose between the two Omens (and Encounters). You can
 always act in a surprise round.
+
 #### D: Impossible Shot
+
 Once per combat, you can make an impossible shot with a
 ranged weapon. The attack automatically hits the target,
 provided it is within 2x the weapon’s listed rage. The attack can
 bounce around corners, cut a coin in half, or part a single hair on
 a target’s head.
+
 #### D: Vanish
+
 If you are in dense forests, hills, caves, or other terrain with
 abundant line-of-sight-blocking features, you can choose to
 vanish. While vanished, you cannot affect the world or be

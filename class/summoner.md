@@ -48,10 +48,13 @@ unnatural effects if you are not distracted. To learn details about
 the effect, roll under Intelligence.
 
 #### B: Powerful Hold
+
 Choose one Entity you know how to summon. The Entity is
 summoned for [sum]x2 hours instead of [sum] hours. Whenever
 you gain a level, you can change which Entity this effect targets.
+
 #### C: Soul Vision
+
 You can see the souls of living creatures. This allows you to
 guess the approximate location of invisible creatures. You can
 also immediately tell if a person is possessed, undead, protected
@@ -59,7 +62,9 @@ by the Authority, or a spellcaster. The price for this gift is your
 connection to others. You permanently lose 1d6 Wisdom (as the
 constant scrutiny of souls warps your mind) or 1d6 Charisma (as
 you become callous and jaded).
+
 #### D: Banish
+
 Point at an unnatural or summoned creature within 100’ and
 invest any number of SD. If [sum] is equal to or greater than the
 creature’s HD, it is banished to wherever it came from.

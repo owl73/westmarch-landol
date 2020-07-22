@@ -16,11 +16,14 @@ night, when your very soul burns, then you are in need of an
 Animist Wizard... or ready to become one.
 
 ##### Perk
+
 If someone makes a bargain with you and breaks it, Save. If you
 pass, you instantly know they have broken the bargain. Your
 spells can target parasites and unborn children without targeting
 their hosts.
+
 ##### Drawback
+
 You cannot bathe. You cannot return another person’s love.
 
 ##### Cantrips

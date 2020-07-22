@@ -81,12 +81,15 @@ urchins, drunkards, wastrels, and particularly cunning feral dogs
 to fill out the ranks. Goblinism is contagious.
 
 #### C: Use Thing
+
 Many Goblins can now be given magic items or special tools.
 They can use them once per encounter, collectively. This could
 be a Goblin Warlord action. The goblin with the magic wand �res
 it, the goblin with the serrated weasel-thrower uses it, then steps
 back into the crowd.
+
 #### D: New Thing
+
 Many Goblins gain a special 6th inventory slot that contains a
 random item rolled on the Table of Professions. Roll the item
 randomly each encounter. If the Many Goblins run into another

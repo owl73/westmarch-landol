@@ -16,6 +16,7 @@ nav_exclude: true
 
 
 #### A: Homunculus
+
 You have an obedient servant. You made it from a newborn bear. It is, in a
 way, your child. It is as intelligent as a well-trained dog.
 
@@ -46,9 +47,11 @@ failure, it dies instead. It uses your Save. You can take 1d12 damage to let
 the Homunculus reroll a failed Save.
 
 #### C: Shared Senses
+
 You share senses with your Homunculus. This ability has a 500' range.
 
 #### C: Regeneration
+
 Instead of healing like a PC, a Homunculus heals 1 HP every 10 minutes. If you
 are touching your Homunculus, you can transfer 1 HP from it to you per round.
 
