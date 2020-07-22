@@ -28,8 +28,6 @@ The DM is rooting for you.
 But the DM's job is to make a realistic (fantasy) world, and the world is
 against you.
 
-
-
 ## Learn When To Run
 
 Old school adventures often present
@@ -88,6 +86,7 @@ and a survivor will have real tales to tell,
 and experience to take pride in.
 
 # Power Is Earned, Heroism Proven
+
 Unlike many modern RPGs, your
 character starts with little power. Your
 meager means and abilities at first level
@@ -95,10 +94,8 @@ encourage lateral thinking to get you
 out of trouble. Rising to a challenge (or
 fleeing it) means more when their life is
 on the line.
-
 Likewise, if you wish to play a true
 hero, don’t expect anyone to salute you
-
 when you first ride into town. Prove
 your heroism through your character’s
 actions.
@@ -114,9 +111,7 @@ more. Take notes on them! Make maps
 of them! Information is leverage, my
 crafty friend. Those details can save
 your life.
-
 Interrogate The Fiction
-
 If you were in a room with a heavy
 vase in one corner, and you wanted to
 know what was behind it, what would
