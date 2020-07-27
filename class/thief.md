@@ -33,8 +33,10 @@ Packages at a time.
 
 #### A: Evaluate
 
-You automatically know the worth of mundane items. Unique
-items may require you to roll under Intelligence.
+You automatically know the worth of non-treasure items. 
+You can roll to evaluate the worth of treasure [template]x2 times 
+before returning to sell them.
+Unique items may require you to roll under Intelligence to glean their worth.
 
 #### A: Wall Crawler
 
