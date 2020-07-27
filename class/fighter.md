@@ -18,7 +18,7 @@ parent: Classes
 You gain +1 HP for each Fighter template you possess.
 
 
-#### A: Notches
+### A: Notches
 
 Each time you attain a total of 10, 20, 30, and 50 kills with a
 weapon type (such as 10 kills with a dagger), you unlock a new
@@ -38,30 +38,30 @@ For example, a Fighter with 50 flail kills (4 notches) could have
 opponent for one round on a critical hit. The GM decides what
 counts as a kill.
 
-#### B: Parry
+### B: Parry
 
 Once per day you can reduce incoming damage by 1d12 points.
 If you also choose to sunder your shield, you can reduce the
 damage by 12 points instead of 1d12.
 
-#### B: Boast
+### B: Boast
 
 Once per day you can flaunt your deeds and notches to a creature that can
 understand you, allowing a +[Template] bonus to a reaction roll with an 
 extra +1 per named beast killed. 
 
-#### C: Quick Learner
+### C: Quick Learner
 
 You can become proficient with a new weapon after 4 successful
 hits (instead of 8). If your first attack is a critical hit, you
 immediately become proficient.
 
-#### C: Intimidate
+### C: Intimidate
 
 Once per day you can atempt to scare foes away with your demeanor or words,
 forcing them to make a morale check. 
 
-#### D: Cleave
+### D: Cleave
 
 Whenever you reduce a creature to 0 HP with an attack, you can
 make another attack with the same weapon against a target
