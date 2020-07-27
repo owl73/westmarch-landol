@@ -20,7 +20,7 @@ cover story. Gain the item but not the skill listed.
 
 You gain +1 to Stealth for each Thief template you possess.
 
-#### A: Always Prepared
+### A: Always Prepared
 
 In town, you may spend any amount of money to buy an
 Unlabelled Package. When the package is unwrapped, you
@@ -31,40 +31,40 @@ items inside a large Unlabelled Package, including smaller
 Unlabelled Packages. You can have up to two Unlabelled
 Packages at a time.
 
-#### A: Evaluate
+### A: Evaluate
 
 You automatically know the worth of non-treasure items. 
 You can roll to evaluate the worth of treasure [template]x2 times 
 before returning to sell them.
 Unique items may require you to roll under Intelligence to glean their worth.
 
-#### A: Wall Crawler
+### A: Wall Crawler
 
 You can climb as well without climbing gear as most people can
 with climbing gear. Simple climbs do not require a test. You can
 attempt impossible climbs.
 
-#### B: Lucky
+### B: Lucky
 
 You may reroll 1 d20 roll per day.
 
-#### B: Quick Draw
+### B: Quick Draw
 
 Gain an additional 3 Quick Draw Slots.
 
-#### C: Backstab
+### C: Backstab
 
 Whenever you have a situational bonus to an Attack roll, attacks
 that hit deal +1d6 damage.
 
-#### D: Great Escape
+### D: Great Escape
 
 Once per day, you can automatically escape from something
 that is restraining you and that you could plausibly escape from.
 This includes grapples, lynchings, pit traps, and awkward social
 situations, but not sealed coffins.
 
-#### D: Very Lucky
+### D: Very Lucky
 
 You may use your Lucky ability twice per day. An adjacent ally
 can use one of your rerolls, provided you could have plausibly
