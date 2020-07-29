@@ -1,6 +1,6 @@
 ---
 title: Alchemist
-parent: Classes
+nav_exclude: true
 ---
 
 # Alchemist
