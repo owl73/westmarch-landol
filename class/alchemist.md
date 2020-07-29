@@ -1,8 +1,15 @@
+# Alchemist
 
-A: +1 Poison, +1 Recipie
-B: Field Brew, +1 Recipie
-C: Explosives, +1 Poison
-D: Mutations, Reverse Engineer
+**Starting Equipment:** 
+
+**Starting Skill:** 
+
+- **A:** Field Brew, +1 Poison, +1 Recipie
+- **B:** Explosives, +1 Recipie
+- **C:** Reverse Engineer, +1 Poison
+- **D:** Mutations 
+
+
 
 ### A: Poison
 
@@ -21,11 +28,14 @@ poison. You know how to make one of the poisons below.
 |  8. | Heart Attack
 
 
-### B: Field Brew 
+### A: Field Brew 
 
-Your knowledge allows you to 
+Your knowledge allows you to brew without a dedicated labratory. 
 
-### C: Explosives
+You have one use of alchemist supplies per slot you buy (10g). 
+Each is enough for one potion (the vial comes with the supplies).
+
+### B: Explosives
 
 Use some supplies to make a bomb. Only takes about 20 min. 
 But careful, carry it too long and it might explode on you. 
@@ -36,11 +46,11 @@ You could light a fuse, or just toss it as an attack.
 d6 damage per use of supplies, up to [template] dice. Its very loud. 
 If you attack with it, a crit-fail and it explodes in your face. 
 
+### C: Reverse Engineer
 
-and free recipies
-and some bombs maybe
-Disease
-Plague doctor
+If you find a random potion, you can learn how to reverse engineer the potion
+to find it's recipie. This requires a mind check, and consumes the potion in
+the process. 
 
 ### D: Mutations
 
@@ -51,9 +61,4 @@ mutation is applied to the creature.
 Roll a intelegence check to apply the last mutation result to another specimin. 
 A failure results in a random one as normal. 
 
-### D: Reverse Engineer
-
-If you find a random potion, you can learn how to reverse engineer the potion
-to find it's recipie. This requires a mind check, and consumes the potion in
-the process. 
 
