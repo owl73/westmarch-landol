@@ -1,3 +1,8 @@
+---
+title: Alchemist
+parent: Classes
+---
+
 # Alchemist
 
 **Starting Equipment:** 
