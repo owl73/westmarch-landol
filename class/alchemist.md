@@ -3,23 +3,30 @@ title: Alchemist
 nav_exclude: true
 ---
 
-**Starting Equipment:** spellbook, ink and quill, 2 black thumb rings,
-and 3 random potions (same type).
-
 # Alchemist
 
-**Starting Equipment:** 1 random potion, 1 random poison, a dagger, lab coat
+**Starting Equipment:** 1 random potion, 1 random poison, a dagger, lab coat, 2 
+slots of alchemist supplies
 
 **Starting Skill:** TBD
 
-- **A:** Field Brew, +1 Poison, +1 Recipie
-- **B:** Explosives, +1Recipie
-- **C:** Reverse Engineer, +1 Poison
-- **D:** Mutations 
+- **A:** Field Brew, +1 Poison, +1 Recipe
+- **B:** Explosives, +1 Recipe
+- **D:** Mutations, Dilute, +1 Poison
+- **C:** Reverse Engineer,
+
+
+### A: Field Brew 
+
+Your knowledge allows you to brew without a dedicated laboratory. 
+
+You have one use of alchemist supplies per slot you buy (15g). 
+Each is enough for one potion (the vial comes with the supplies).
 
 ### A: Poison
 
-All alchemists know how to make poison. No check needed. 
+All alchemists know how to make poison. No check needed. Making poisons
+requires alchemical supplies just like a potion. 
 Some poisons have different effects, and most potions could be considered
 poison. You know how to make one of the poisons below. 
 
@@ -31,13 +38,6 @@ poison. You know how to make one of the poisons below.
 |  5. | Flatulence
 |  6. | Coughing fit
 
-
-### A: Field Brew 
-
-Your knowledge allows you to brew without a dedicated labratory. 
-
-You have one use of alchemist supplies per slot you buy (10g). 
-Each is enough for one potion (the vial comes with the supplies).
 
 ### B: Explosives
 
@@ -53,11 +53,16 @@ If you attack with it, a crit-fail and it explodes in your face.
 ### C: Mutations
 
 What alchemist doesn't like to experiment. Once a day, you can spend 1 hour
-experementing on a creature by using the supplies for one potion. A random
+experimenting on a creature by using the supplies for one potion. A random
 mutation is applied to the creature. 
 
-Roll a intelegence check to apply the last mutation result to another specimin. 
+Roll a intelligence check to apply the last mutation result to another specimen. 
 A failure results in a random one as normal. 
+
+### C: Dilute
+
+You can take a potion and dilute it into two, this consumes an alchemist
+supply and cannot be done again to the resulting potions.
 
 ### D: Reverse Engineer
 
