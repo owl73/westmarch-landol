@@ -13,7 +13,7 @@ slots of alchemist supplies
 - **A:** Field Brew, +1 Poison, +1 Recipe
 - **B:** Explosives, +1 Recipe
 - **D:** Mutations, Dilute, +1 Poison
-- **C:** Reverse Engineer,
+- **C:** Reverse Engineer, +2 Recipes, +1 Poison
 
 
 ### A: Field Brew 
