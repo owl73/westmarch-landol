@@ -20,9 +20,9 @@ nav_order: 4
 - [Hirelings and Followers](#hirelings-and-followers)
 - [Transportation and Lodging](#transportation-and-lodging)
 
-Money Conversions:
+### Money Conversions:
 
-12cp = 4sp = 1gp
+**12cp = 4sp = 1gp**
 
 ## [Armor](rules/combat.md#armor)
 See combat section for Damage reduction.
