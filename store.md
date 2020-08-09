@@ -22,7 +22,7 @@ nav_order: 4
 
 Money Conversions:
 
-100cp = 10sp = 1gp
+12cp = 4sp = 1gp
 
 ## [Armor](rules/combat.md#armor)
 See combat section for Damage reduction.
