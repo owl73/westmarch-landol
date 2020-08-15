@@ -8,32 +8,37 @@ parent: Core Rules
 
 ### Basic check
 
-Roll a d20 equal or under the value of your relevant stat. 
+Roll a d20 under (or equal) the value of your relevant stat. 
 
 Example: You roll a 16, your strength is 16. You moved the bolder. 
 
 Example: You roll a 13, your movement is 12. You trip and lose the chase.
+
+You roll a critical when you roll exactly equal to your relavent stat. 
+
+You critical fail when you roll a 20 naturally. 
 
 ### Contest Check
 
 Each party rolls a d20 equal or under the relevant stat. (like a basic check)
 
 - If both fail, no one makes progress. 
-- If one succeeds, the other wins the contest
-- If both succeed, the higher roll wins the contents 
+- If only one succeeds, they win the contest
+- If both succeed, the higher roll wins the contest
+- If one critical failes, they extra fail
 
-### Special Check
-
-These are rare. But in the case that there is something very difficult that not
-just anyone smart or strong could do. You might be asked to roll one of these. 
-However, you can play without worrying 
+### Threshold Check
 
 Roll a basic check as normal but not *too low*. 
 If you roll under your stat you *might* succeed.
 The DM will tell you how low is a failure. 
 
+These are rare. But in the case that there is something very difficult that not
+just anyone smart or strong could do. You might be asked to roll one of these. 
+However, you can play without worrying 
+
 Example. 
-*Benching a dragon is tough, roll a strength check **above 6**.*
+*Benching a dragon is tough, roll a strength check **threshold above 6**.*
 Your strength is 14, you roll a 4. 
 This would normally be a success, but you rolled below 6 so for this challenge
 this would be a failure. If you rolled a 7-14 you would have succeeded. 

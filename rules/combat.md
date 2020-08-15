@@ -83,7 +83,7 @@ A spell will fail and mishap if you're damaged while casting.
 If an enemy has initiative, you might die before that strike!
 
 ### Attack
-Roll under or equal to your attack stat. (Nat 1 is crit, nat 20 is a fail)
+Roll under or equal to your attack stat. 
 If there is a success, the player rolls the damage of their weapon
 and the enemy takes that damage.
 
