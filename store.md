@@ -27,11 +27,11 @@ nav_order: 4
 ## [Armor](rules/combat.md#armor)
 See combat section for Damage reduction.
 
-**Armor Type** | **DR** | **Inventory** | **Penalty** | **Price**
-Leather Armor | -3S | 2 | 0 | 25sp 
-Chain Armor | -6S -2P | 4 | 2 | 10gp 
-Plate Armor | -6SB -4P | 6 | 4 | 100gp 
-Shield (Defense +2) | -2SBP | 1 (must be held) | 0 | 5sp 
+**Armor Type** | **DR** | **Penalty** | **Price**
+Leather Armor | -3S | 0 | 25sp 
+Chain Armor | -6S -2P | 2 | 10gp 
+Plate Armor | -6SB -4P | 4 | 100gp 
+Shield (Defense +2) | -2SBP | 0 (must be held) | 5sp 
 
 * B = Bludgeoning
 * P = Piercing

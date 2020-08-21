@@ -190,11 +190,16 @@ Crossbows | 1d12 (takes 1 round to reload) | Piercing
 ## Armor
 
 Armor will decrease the damage taken from certain sources of damage, at the
-cost of inventory slots. 
-Shields will increase your defense as well.
+cost of inventory slots movement and stealth. 
+
+When wearing an armor, subtract the penalty cost from your movement, defense,
+stealth, and inventory slots.
+
+Shields will increase your defense as well and have no penalty 
+but must be held in hand to work. 
 
 ### Shields 
-1 Inventory Slot, must be in hand to be effective.
+1 Inventory Slot no penalty, must be in hand to be effective.
 
 * +2 Defense 
 * Damage Reduction
@@ -204,24 +209,30 @@ Shields will increase your defense as well.
 * -1d12 damage from an attack by sundering your shield. 
 
 ### Leather Armor
-2 Inventory Slots, No penalty to stealth or movement
 
-* -3 Slashing Damage
+* **Damage Reduction**
+    * -3 Slashing Damage
+* **Penalty**
+    * 0
 
 ### Mail Armor
-4 Inventory Slots, 2 penalty to stealth and movement
+2 penalty to stealth and movement and inventory
 
-* Damage Reduction
+* **Damage Reduction**
     * -6 Slashing 
     * -2 Piercing
+* **Penalty**
+    * 2
 
 ### Plate Armor
-6 Inventory Slots, 4 penalty to stealth and movement
+4 penalty to stealth and movement and inventory
 
-* Damage Reduction
+* **Damage Reduction**
     * -6 Slashing
     * -6 Bludgeoning
     * -4 Piercing
+* **Penalty**
+    * 4
 
 ### Magic Armor
 Acts as specific to the magical properties, but unless specified, has same
