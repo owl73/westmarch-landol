@@ -13,7 +13,7 @@ possess.
 
 + **A**: Dog, Best Friends, +1 Attack
 + **B**: Lick, Wag
-+ **C**: Sniff, Growl, +1 Attack
++ **C**: Sniff, Growl, damage die d8
 + **D**: Takedown, Epic Nose
 
 #### Dog
@@ -50,14 +50,14 @@ them to give them a new save against the effect.
 #### Wag
 When you wag your tail, humanoid children of all 
 species must save as if vs charm person.
-Sniff
+
+#### Sniff
 As detect evil and detect magic except range is 3”.
 
 #### Growl
 
 A single enemy must Save vs Fear or be unable to 
-attack or approach you for one turn. Doesn'
-t work if 
+attack or approach you for one turn. Doesn' t work if 
 you are non-threatening.  Growling is a standard 
 action.
 
@@ -67,7 +67,9 @@ Whenever you bite an opponent and get a 2 or a 3 on
 the Attack Roll, you may make a Str check opposed by
 your targets Str or Dex (whichever is higher).  If you 
 succeed, you trip your target.
-Epic Nose
+
+#### Epic Nose
+
 If you spend a minute sniffing a creature, you can 
 learn a terrific amount of things about it.  You learn 
 the answers to 1 question about the creature'
@@ -76,7 +78,7 @@ s habits
 level is it from?”).  If it is possible to follow a trail by 
 scent, you can follow that trail by scent.
 
-#### Dog Quest
+### Dog Quest
 
 At some point in your career, you will attract the 
 attention of the Dog Barons, who will give you a quest
