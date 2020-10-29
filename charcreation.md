@@ -25,10 +25,9 @@ Pick from below or roll randomly (d50).
 | Rat folk | INT | Can crawl through narrow spaces. | Save vs Fear when alone. | *Acts of bravery in war have redeemed the ratling in the eyes of many.* |
 | Mouse folk | WIS | Can very convincingly play dead. | -2 to Strength for Inventory Slots. | *Raised in humility and duty, mouselngs are frequently members of the First Estate.* |
 | Hound folk | CHA | Can track a creature by smell. | Save to avoid obeying direct commands for 1 round. | *Jowly. Found throughout Creation, but rarely in positions of power.* |
-| Fly Folk | Dex | Can eat rotten food as rations. | Will not notice details unless they move. | *Farmers and merchants. Half don’t mind being seen as dung-eaters | half frantically try to “improve” their reputation* |
+| Fly Folk | Dex | Can eat rotten food as rations. | Will not notice details unless they move. | *Farmers and merchants. Half don’t mind being seen as dung-eaters half frantically try to “improve” their reputation* |
 | Halfling | CHA | +1 stealth | -1 strength to inventory slots | *Traditionaly break tradition* |
-| Shroomoid | CON | Don't need to sleep | -2 movement | *Not considered a ling
-or folk, but great advocates of plant rights* |
+| Shroomoid | CON | Don't need to sleep | -2 movement | *Not considered a ling or folk, but great advocates of plant rights* |
 
 ### Roll [Stats](rules/stats)
 
