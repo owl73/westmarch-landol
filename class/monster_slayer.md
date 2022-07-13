@@ -5,11 +5,11 @@ nav_exclude: true
 
 # Monster Slayer
 
-**Starting Equipment:** Spear, Leather Armor, Pet Dog
+**Starting Equipment:** Spear, Leather Armor, 3 rations
 
 **Starting Skill:** Tracking, 
 
-**Level Goal**: 
+**Level Goal**: Slay a monster equal your HD without taking damage
 
 + **A:** Research, Tracking
 + **B:** Beast slaying, 
