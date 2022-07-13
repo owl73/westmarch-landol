@@ -1,6 +1,6 @@
 ---
 title: Monster Slayer
-nav_exclude: true
+parent: Classes
 ---
 
 # Monster Slayer
