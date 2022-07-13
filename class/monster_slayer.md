@@ -5,14 +5,14 @@ parent: Classes
 
 # Monster Slayer
 
-**Starting Equipment:** Spear, Leather Armor, 3 rations
+**Starting Equipment:** Spear, Leather Armor, Feathered Hat, 3 rations
 
 **Starting Skill:** Tracking, 
 
 **Level Goal**: Slay a monster equal your HD without taking damage
 
-+ **A:** Research, Tracking
-+ **B:** Beast slaying, 
++ **A:** Research, Personal Interest, +1 attack per round vs Beasts
++ **B:** Tracking, 
 + **C:** Traps, 
 + **D:** Vitals 
 
