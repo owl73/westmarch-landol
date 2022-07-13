@@ -41,7 +41,7 @@ On a success you either:
 
 ### B: Fighting Dirty
 
-Once per combat, instead of attacking yo you can choose to stun, blind or
+Once per combat, instead of attacking you can choose to stun, blind or
 deafen an enemy for a round. 
 
 ### C: Come Quietly
@@ -58,15 +58,15 @@ Pick how you want your target. Each gives a different bonus.
 - Dead 
 
 ###### Alive
-You don't have to worry about accidentaly killing your target. Whenever you or
+You don't have to worry about accidentally killing your target. Whenever you or
 someone fighting alongside you would kill your target, instead, you can decide
-that they survive and are knocked uncosious. This applies to any damage, even
-ones that seem unsurvivable. 
+that they survive and are knocked unconscious. This applies to any damage, even
+ones that seem un-survivable. 
 
 ###### Dead
 
-Your first hit against your target does maximum damage. This can be done once a
-day. 
+Your first hit against your target does additional maximum damage. 
+This can be done once a day. 
 
 ## Backgrounds 
 
