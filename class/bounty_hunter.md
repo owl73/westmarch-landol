@@ -1,3 +1,8 @@
+---
+title: Bounty Hunter
+parent: Classes
+---
+
 # Bounty Hunter
 
 **Starting Equipment:** Hand Axe, Net, Handcuffs, leather armor
