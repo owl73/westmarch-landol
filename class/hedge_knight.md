@@ -1,4 +1,9 @@
+---
+title: Hedge Knight
+parent: Classes
+---
 # Hedge Knight
+
 A wandering knight with no master.
 
 **Starting Equipment:** Chainmail, longsword, mace
