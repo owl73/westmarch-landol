@@ -47,7 +47,23 @@ After seeing a monster, you can track that specific monster without a check so
 long as it is trackable (hasn't flown away or teleported or otherwise hasn't
 left some trail) 
 
-### C: Trapping expert. 
+### B: Trophies 
+
+Once you have killed a monster of personal interest, you can take part of 
+its corpse as a trophy. This trophy, will be worth 30 gold per hit die of the
+killed monster. 
+
+You can choose to keep and wear the trophy as good luck instead. This will
+provide you +1 defense and +1 attack against a monster of the same species. 
+
+You can wear 5 trophies at a time. 
+
+A trophy can be a tattoo referencing your kill if you wish. This
+counts as permanently wearing the trophy but not toward your total trophies
+worn. 
+
+
+### C: Trapping expert
 
 With some materials you can set up a trap for a beast you have a personal
 interest in. You must invest 10gold in the trap for materials and set it up
