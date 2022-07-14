@@ -42,8 +42,8 @@ or Hedge Knights.
 
 
 ### C: Iron Clad
-You are tough as nails, iron clad and combat tested. Increase your defense by
-1. You take 1 less damage from all damage types when in medium or heavy armor.
+You are tough as nails, iron clad and combat tested. Increase your defense by 1.
+You take 1 less damage from all damage types when in medium or heavy armor.
 
 ### C: Decapitation
 Once each combat when you kill a foe, you may choose to decapitate them. All
