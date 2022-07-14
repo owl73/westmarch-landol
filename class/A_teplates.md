@@ -9,6 +9,7 @@ You adopt a dog.
 Give your dog a name, and breed. 
 
 The dog's defense 17
+The dog's attack [owner's attack value]
 
 ### Tracker
 
@@ -22,14 +23,15 @@ people, but is always edible for your dog.
 
 ### Protect and Attack
 
-With a command, your dog will attack someone you point at. They use your attack
-to hit and deal d6 damage. 
+With a command, your dog will attack someone you point at. They attack on their
+own using your attack stat to hit and deal d6 damage. 
 
 Your dog will hang onto some limb of their target hindering either movement or
 attacking. 
 
-Your dog will automatically attack someone who is attacking you if not given a
-command to do otherwise. 
+Your dog will automatically guard you against an attacker unless command to do 
+otherwise. This will give you +1 bonus to defense. Your dog can defend and
+attack so long as it is against the same enemy.
 
 ### Tricks
 
