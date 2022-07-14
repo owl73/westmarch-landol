@@ -26,8 +26,8 @@ people, but is always edible for your dog.
 With a command, your dog will attack someone you point at. They attack on their
 own using your attack stat to hit and deal d4 damage. 
 
-Your dog will hang onto some limb of their target hindering either movement or
-attacking. 
+Your dog will hang onto some limb of their target giving them -1 to either
+movement, attack or defense.
 
 Your dog will automatically guard you against an attacker unless command to do 
 otherwise. This will give you +1 bonus to defense. Your dog can defend and
