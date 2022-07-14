@@ -24,7 +24,7 @@ people, but is always edible for your dog.
 ### Protect and Attack
 
 With a command, your dog will attack someone you point at. They attack on their
-own using your attack stat to hit and deal d6 damage. 
+own using your attack stat to hit and deal d4 damage. 
 
 Your dog will hang onto some limb of their target hindering either movement or
 attacking. 
