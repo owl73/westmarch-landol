@@ -16,10 +16,12 @@ The dog's attack [owner's attack value]
 With a piece of clothing, a drop of blood, or a personal item, 
 your dog can track the owner of that item so long as they can be tracked. 
 
-### Scrounge
+### Found a stick
 
-Your dog can lead you to food. The food has a 50% chance of being edible for
-people, but is always edible for your dog. 
+Your dog will find sticks and show you them. 
+
+Occationally, your dog will bring you something that it thinks is a stick but
+is definitely not a stick. 
 
 ### Protect and Attack
 
