@@ -12,8 +12,8 @@ parent: Classes
 
 + **A:** Hit list,  Conceal
 + **B:** Blood money, Disguise
-+ **C:** Cutthroat
-+ **D:** Poisoner, Dead Silent
++ **C:** Poisoner, Dead Silent
++ **D:** Cutthroat
 
 For each template of assassin gain +1 stealth
 
@@ -52,20 +52,21 @@ Your disguise fools anyone but the close friends and family of the
 subject of your disguise, will start to notice something wrong after a minute
 of interaction. 
 
-### C: Cutthroat 
-
-If a enemy is helpless against you and bleed, 
-you can execute them with a blade. 
-
-### D: Poisoner
+### C: Poisoner
 
 You know poisons. You know antidotes. 
 You can always find some sort of poison, for cheap. 
 You can always find a way to cure poisons. 
 
-### D: Dead Silent
+### C: Dead Silent
 
 Every kill you do is silent. 
+
+### D: Cutthroat 
+
+If a enemy is helpless against you and they can bleed, 
+you can execute them with a blade. 
+
 
 ## Backgrounds 
 
