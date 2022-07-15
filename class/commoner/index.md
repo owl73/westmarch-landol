@@ -1,5 +1,5 @@
 ---
-title: Commoner Classes
+title: Commoner
 parent: Classes
 has_children: true
 ---
