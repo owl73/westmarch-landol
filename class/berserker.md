@@ -53,11 +53,12 @@ benefits of that animal...
 You have a sense for the emotions of the natural world, it breathes through
 you. You can spend an hour accommodating to the natural world around you to
 gain the answer to one of the following questions or a question of your own...
-	- What happened here?
-	- Is something out of balance?
-	- Where are other Wildmen?
-	- Is danger near?
-	- What is the attitude of the wildlife?
+
+	 What happened here?
+	 Is something out of balance?
+	 Where are other Wildmen?
+	 Is danger near?
+	 What is the attitude of the wildlife?
 
 ### C: Carnivorous Feast
 Consumption of raw flesh is not unusual for the Berserker, they are after all,
