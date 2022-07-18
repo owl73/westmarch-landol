@@ -59,16 +59,15 @@ talk with. You may hire Witch Hunters at a rate of 15 gold per week.
 Being funded by nobles has its benefits, granting you the best weapons money
 can buy. You can choose two qualities for each your crossbow and longsword.
 
-Deadly: +2 damage
-Tuned: +1 to attack
-Ornate: +1 to charisma when dealing with nobility or potential employers
-Sturdy: Immune to broken condition
-Heavy Winch (Crossbow): increase base damage to 2d8
-Long Ranged (Crossbow): Double range
-Double Barreled (Crossbow): Fire twice without reloading
-Keened (Sword): Critical hit on natural 1s
-Balanced (Sword): Gain an additional attack
-Reactive (Sword): +1 defense
+- Deadly: +2 damage
+- Tuned: +1 to attack
+- Ornate: +1 to charisma when dealing with nobility or potential employers
+- Sturdy: Immune to broken condition
+- Heavy Winch (Crossbow): increase base damage to 2d8
+- Long Ranged (Crossbow): Double range
+- Double Barreled (Crossbow): Fire twice without reloading
+- Keened (Sword): Critical hit on natural 1s
+- Reactive (Sword): +1 defense
 
 ### C:	Silver Treated Weapons
 
