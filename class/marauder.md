@@ -1,0 +1,68 @@
+---
+title: Marauder
+parent: Classes
+---
+
+# Marauder #
+
+A seafaring warrior bringing destruction in his wake to unsuspecting towns. A
+man seeking blood and gold.
+
+**Starting Equipment:** Chainmail, War Axe, Round Shield
+
+**Starting Skill:** Survival, Seafaring
+
++ **A:** Northman, Shieldbrother
++ **B:** Bloodshed
++ **C:** Warpaint, War Cry
++ **D:** Warlord
+
+**Level Goal:** 
+
++ **A:** Join a ship and join in a raid on a coastal village.
++ **B:** Kill a local hero, kill a local villain, or loot 500 gold worth of
+goods
++ **C:** Capture a fortress, raid a village, or kill a town's leader
++ **D:** Obtain 1500 gold and spend it on a massive feast for you and your
+companions taking place in a place you have just conquered after a glorious
+victory
+
++1 Damage per Template of Marauder
+
+### A: Northman###
+You are from the freezing northlands. You are immune to the effects of cold and
+can easily survive in cold environments. 
+
+### A: Shieldbrother###
+Shields are a multipurpose tool, for protection and blunt force. You may make
+an additional attack with your shield each turn, dealing 1d6 Blunt damage. You
+nay choose to break your shield to negate 1d12 + your Marauder Template worth
+of damage. You cannot use a broken shield.
+
+### B: Bloodshed###
+You are a being of violence and destruction. Whenever you take damage in a
+combat increase the amount of damage you do by 1 for the duration of that
+combat.
+
+### C: War Cry###
+Many cower at the war cries of the Marauder. Once per combat you may bellow
+your war cry, all enemies must save agains morale or flee.
+
+### C: Warpaint###
+You can decorate yourself and your companions with tribal warpaint. This takes
+one hour. Select one of the patterns below.
+
+	Symbols of Rage: Increase all damage dealt by 1 for the next combat
+	Symbols of Vitality: Reduce damage taken by 1 for the next combat
+	Symbol of the Mystic: Reroll a save against magic or reroll a spell cast
+
+
+### D: Warlord###
+You are a true warlord, a hero amongst mortals. Others like you seek to follow
+you into the tides of war, reveling in your wake of bloodshed and ill-gotten
+gains. You gain a longboat and a flowing of 10 loyal Marauders. You may gain
+more marauders from other barbaric settlements. You are not welcome into most
+civilized settlements but have earned the respect of other northern Warlords.
+
+
+
