@@ -8,7 +8,7 @@ has_children: true
 
 Classes for less than special player characters, or for NPCs. 
 
-These classess have 2 templates only and are meant for characters with lower
+These classes have 2 templates only and are meant for characters with lower
 stats. 
 
 

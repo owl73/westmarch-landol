@@ -11,8 +11,8 @@ A low life, and thug, up to no good by choice or necessity.
 
 **Starting Skill:** Sneak
 
-**Bonus:** Your dex and intelligence become 10
-Restriction: may not have more than one stat over 10 upon selection
+**Bonus:** Your dexterity and intelligence become 10
+**Restriction:** may not have more than one stat over 10 upon selection
 
 ### A: Slippery
 You’re hard to get a hold of and equally hard to hit. Once per combat you may

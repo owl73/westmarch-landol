@@ -5,7 +5,7 @@ grand_parent: Classes
 ---
 # Thug
 
-Nothing but a a petty criminal of nefarious intent.
+Nothing but a petty criminal of nefarious intent.
 
 **Starting Equipment:** leather armor, brass knuckles, stolen necklace (worth 5d6
 gold)
@@ -13,7 +13,7 @@ gold)
 **Starting Skill:** Intimidation
 
 **Bonus:** Your strength and charisma become 10
-Restriction: may not have more than one stat over 10 upon selection
+**Restriction:** may not have more than one stat over 10 upon selection
 
 ### A: Thick as Thieves
 You’ve always got other thugs hanging around. In cities and town you can easily

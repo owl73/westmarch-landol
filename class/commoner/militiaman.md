@@ -15,7 +15,9 @@ Gambeson, spear, crossbow, bolts
 Athletics
 
 **Bonus:** you’ve got good conditioning, your strength and constitution 
-become 10 Restriction: may not have more than one stat over 10 upon selection.
+become 10 
+
+**Restriction:** may not have more than one stat over 10 upon selection.
 
 ### A: Basic Tactics
 You’re taught two things, how to fight and how to survive, neither very well.
