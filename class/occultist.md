@@ -16,7 +16,7 @@ parent: Classes
 
 **Level Goal**: 
 
-+ A: 
++ A: Wound yourself with an ornate dagger during an occult ritual. 
 + B: 
 + C: 
 + D: 
@@ -44,14 +44,14 @@ must roll a morale or be frightened.
 
 ### Eldrich Whispers
 
-
-### Insane Visions
-
 By taking drugs and muttering to yourself for 10 minutes, you gain a vision of
 the future or of the now. You can specify a place or specify a time, but not
 both. The DM will tell you information of what is or what could be. 
 
 You lose 1 HP each time you perform this. 
+
+### Insane Visions
+
 
 ### Occult relic
 
