@@ -18,7 +18,7 @@ your gruesome end.
 + **C:** Foreshadowing, Visions of Doom
 + **D:** Day's Undoing, Blood Telling
 
-Level Goals: 
+**Level Goals:**
 - A: Stain fortune cards with another soothsayer's blood. Or steal the cards
   from another soothsayer
 - B: Use a small fragile trinket and essence of an enemy in a ritual calling

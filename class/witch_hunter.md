@@ -1,51 +1,92 @@
-# Witch Hunter
+---
+title: Witch Hunter
+parent: Classes
+---
 
-A zealot often hired to hunt and kill the witches and mages of the land.
+# Witch Hunter 
 
-Starting Equipment: Crossbow, Longsword, Bolts, Leather Armor, Leather Hat
+A zealot, part of a powerful guild, often hired to hunt and kill the witches
+and mages of the land for the protection of its good people.
 
-Starting Skill: Arcane, Persuasion
+**Starting Equipment:** Crossbow, Longsword, Bolts, Leather Armor, Leather Hat
 
-Bonus: You always know when witches or other dark magicians are present in a
-settlement
+**Starting Skill:** Arcane, Persuasion, Tracking
 
-A: Witch Hunt
+You always know when witches or other dark magicians are present in a settlement
+
++ **A:** Witch Hunt,Superstition
++ **B:** Tools of the Trade, Guild Membership
++ **C:** Silver Tuned Weapons
++ **D:** Adorned Symbol, Custom Tools
+
+
+**Level Goals**
+
++ **A:** Vow on a superstitious symbol to never cast a spell or seek magical 
+    knowledge by burning a scroll in front of a witch hunter. 
++ **B:** Turn in a witch or dark wizard's head for a reward.
++ **C:** Bring in a caster, then partake in burning the lodging and research of
+    that caster
++ **D:** Capture and turn in a caster alive. Then get your symbol adorned in a
+  manner of your choosing by the guild. 
+
+
+### A:	Witch Hunt
+
 When seeking witches or other dark magicians, you have the support of most
 citizens and can get away with some bending of local laws if they result in the
-slaying of a witch.
+slaying of a witch. You are paid 1d10 x 5 gold per witch or dark magician’s
+head you bring to any ruler of a settlement.
 
-A: Silver Treated Weapons
-You have a supply of alchemical silver to apply to your weapons. All silver
-lined weapons deal an addition 1d4 damage to spell casters and 1d6 damage to
-lycanthropes. You must spend and hour to silver treat all your weapons each
-day.
+You have or can find knowledge of any current witch hunts. 
 
-Level Goal: Behead a witch or publicly execute an evil magician
+### A: Superstitious Symbol
 
-B: Superstition
-You are weary of all Magic. You gain +1 per 2 templates of Witch Hunter to
-saves against magic effects and must save against all spells, helpful or
-harmful. 
+Your charm bering your superstious symbol, grants you a resistance to magic 
+with a bonus of +1 per template to saves verses magic.
 
-Level Goal: Defeat a magic cult or turn a town against the local magician’s
-guild 
+The charm is cool, and only warms when an active spell is near.
+The warmer the charm the more powerful the spell.
 
-C: Tools of the Trade
-Being funded by nobles has its benefits, granting you the best weapons money
-can buy. You can choose a quality for each your crossbow and longsword:
-Keened: Critical hit on natural 1s
-Balanced: Gain an additional attack
-Sharpened: +2 damage
-Maneuverable: +1 to attack
+### B: Guild Membership
 
-C: Guild Membership
 You gain access to the prestigious guild of Witch Hunters. You have access to
 guild resources, lodging, and knowledge in all major towns. There is a 1/3
 chance that any town will have at least one Witch Hunter whom you can find and
 talk with. You may hire Witch Hunters at a rate of 15 gold per week.
 
-Level Goal: Overthrow an Arch Magician or defeat a witch of The Cult of The
-Twisted Branch
+### B: Tools of the Trade
+Being funded by nobles has its benefits, granting you the best weapons money
+can buy. You can choose two qualities for each your crossbow and longsword.
 
-D:
+Deadly: +2 damage
+Tuned: +1 to attack
+Ornate: +1 to charisma when dealing with nobility or potential employers
+Sturdy: Immune to broken condition
+Heavy Winch (Crossbow): increase base damage to 2d8
+Long Ranged (Crossbow): Double range
+Double Barreled (Crossbow): Fire twice without reloading
+Keened (Sword): Critical hit on natural 1s
+Balanced (Sword): Gain an additional attack
+Reactive (Sword): +1 defense
 
+### C:	Silver Treated Weapons
+
+You have a supply of alchemical silver to apply to your weapons. All silver
+lined weapons deal an addition 1d6 damage to magic users and 1d8 damage to
+lycanthropes. You must spend and hour to silver treat all your weapons each
+day.
+
+### D: Adorned Symbol
+
+Your Superstitous symbol becomes a powerful antimagic item. 
+
+When hit with a spell, you can choose to rebuke it by presenting your symbol. 
+The rebuke causes the spell to rebound and the [sum] of the magic dice involved
+harm the caster. The spell is nullified and your symbol breaks in the process. 
+
+A new symbol will be provided when you make contact with your guild.
+
+### D: Custom Tools
+
+Choose another 2 qualities from tools of the trade. 
