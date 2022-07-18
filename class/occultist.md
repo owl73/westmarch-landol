@@ -21,7 +21,7 @@ parent: Classes
 + C: 
 + D: 
 
-### Sacrificial Ritual 
+### A: Sacrificial Ritual 
 
 Spend 1 hour performing a ritual involving sacrifices, a name of an dark god
 and a goal. 
@@ -32,17 +32,20 @@ Rituals can summon entities or provide boons for recipients.
 Possible boons:
 
     +[sum] bonus HP
-    +[dice] bonus damage
+    +[dice] bonus damage with your ritual dagger
     summon an entity you know the name of (as the summoner class)
     cast a spell
     Maddening Secrets incapacitate instead of cause fear to [sum] listeners
+    gain an extra attack per turn
+    Your insane visions grant an extra [dice] wisdom and stun for the same
+    number of rounds
 
-### Maddening Secrets
+A ritual can only be performed 1 time a day. 
 
-You can speak frightening and maddening words and secrets. Any who hears them
-must roll a morale or be frightened. 
+You can choose to acomplish multiple boons in 1 ritual. MD must be assigned to
+each boon before rolling.
 
-### Eldrich Whispers
+### A: Eldrich Whispers
 
 By taking drugs and muttering to yourself for 10 minutes, you gain a vision of
 the future or of the now. You can specify a place or specify a time, but not
@@ -50,30 +53,33 @@ both. The DM will tell you information of what is or what could be.
 
 You lose 1 HP each time you perform this. 
 
-### Insane Visions
+### B: Maddening Secrets
 
+You can speak frightening and maddening words and secrets. Any who hears them
+must roll a morale or be frightened. 
 
-### Occult relic
+### B: Insane Visions
+
+Those struck by your dagger recive strange visions. They gain 1 wisdom for an
+hour but are stunned. 
+
+### C: Dark Pact
+
+After performing a ritual to link yourself and another using their essence. 
+you can wound yourself to heal them or harm them. 
+
+### C: Occult relic
 
 Your relic can store [template] MD for an damaging effect or storing a spell. 
 
 This can also be used in a ritual for an extra MD. 
 
-### Dark Pact
-
-After performing a ritual to link yourself and another you can wound yourself
-to heal them. 
-
-### Esoteric Incense
-
-Your Incense has an effect
-
-### Final Ritual
+### D: Final Ritual
 
 You can choose to sacrifice yourself in the ritual, this allows the ritual to
 have no limit on MD involved. 
 
-### Forbidden Ritual
+### D: Forbidden Ritual
 
 Add *Open rift* to your list of things you can do with your sacrificial ritual. 
 This will only succeed on a [sum] of 24. 
