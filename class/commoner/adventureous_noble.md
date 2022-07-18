@@ -9,7 +9,7 @@ A wealthy noble seeking more than a life fed to him by the silver spoon.
 **Starting Equipment:** Fine leather armor, Arming Sword, Area Map, Purse (contains
 4d6x10 gold)
 
-**Starting Skill:** Intimidation
+**Starting Skill:** Persuasion
 
 **Bonus:** Your strength and charisma become 10
 
