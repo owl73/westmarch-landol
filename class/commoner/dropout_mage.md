@@ -22,7 +22,7 @@ debt of 500 gold
 ### A: Broken Magic Knowledge
 You know some aspects of casting and were once promising to the academic mages;
 however, you never got the hand movements down. If you roll a 1 on a die when
-you cast a spell that spell fails and the MD is immediately lost. You have one
+you cast a spell that spell mishaps and the MD is immediately lost. You have one
 MD and know one spell per template of Dropout Mage.
 
 ### A: Spell Sword
