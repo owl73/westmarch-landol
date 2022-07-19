@@ -8,14 +8,22 @@ parent: Classes
 
 **Starting Skill:** Hide, 
 
-**Level Goal**: Murder for personal gain without anyone suspecting you
-
 + **A:** Hit list,  Conceal
 + **B:** Blood money, Disguise
 + **C:** Poisoner, Dead Silent
 + **D:** Cutthroat
 
 For each template of assassin gain +1 stealth
+
+**Level Goals**
+
++ **A:** Order a hit on yourself and then avoid being seen for 1 day. Exchange
+  your bounty for a copy of the hit list. 
++ **B:** Turn in 3 hits on the hit list with a symbol you made for yourself. 
++ **C:** Poison 3 people without killing them, strangle 3 people. 
++ **D:** For 3 Kills in a row Incapacitate the target for a day, then kill
+  them.
+
 
 ### A: Hit list
 
@@ -66,7 +74,3 @@ Every kill you do is silent.
 
 If a enemy is helpless against you and they can bleed, 
 you can execute them with a blade. 
-
-
-## Backgrounds 
-
