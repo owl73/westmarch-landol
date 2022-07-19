@@ -18,6 +18,8 @@ A savage warrior fighting in a bloodthirsty, trance like state.
 
 **Level Goal**: 
 
++ **A:** Kill a game animal with your bare hands, then don't sleep inside for a
+  week.
 + **B:** Slay a dire wolf, dire bear, dire boar, or dire panther
 + **C:** Commune with a powerful fey, forest spirit, beast, or dryad
 + **D:** Unite three tribes of Berserkers to reclaim land lost to civilization
