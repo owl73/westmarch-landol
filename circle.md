@@ -6,7 +6,7 @@ title: Inner Circles
 After completing all the templates of one class, a character can then start
 making their own Inner Circle. 
 
-An inner circle is an organization of made up of player characters with one or 
+An inner circle is an organization made up of player characters with one or 
 more characters serving as Heads. 
 
 The character who achieves the template for an Inner Circle gains their own
