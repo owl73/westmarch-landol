@@ -1,6 +1,7 @@
 ---
 title: Zweihänder
-parent: Classes
+parent: Adept
+grand_parent: Classes
 ---
 
 # Zweihänder
@@ -40,6 +41,7 @@ You are immune to fear and receive +1 to saves against anything causing physical
 
 ### D: Renowned 
 Your name is known by many across the land. Pick a title for yourself highlighting one of your accomplishments. You gain one of the following boons...
+
 	- Your services are more valuable, you gain 50% more money from contracts and mercenary work.
 	- You are feared by those weaker than you, at the start of battle enemies with fewer templates than you must save agains morale or be shaken for two rounds.
 	- You are viewed as a hero, you no longer pay for your own meals or lodging anywhere you go and are often invited to noble parties. If you wish you may always have a willing following of cohorts and lovers by your side in towns and cities.

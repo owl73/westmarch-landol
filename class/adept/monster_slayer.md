@@ -1,6 +1,7 @@
 ---
 title: Monster Slayer
-parent: Classes
+parent: Adept
+grand_parent: Classes
 ---
 
 # Monster Slayer

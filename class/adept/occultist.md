@@ -1,6 +1,7 @@
 ---
 title: Occultist
-parent: Classes
+parent: Adept
+grand_parent: Classes
 ---
 
 # Occultist

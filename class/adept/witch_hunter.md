@@ -1,6 +1,7 @@
 ---
 title: Witch Hunter
-parent: Classes
+parent: Adept
+grand_parent: Classes
 ---
 
 # Witch Hunter 

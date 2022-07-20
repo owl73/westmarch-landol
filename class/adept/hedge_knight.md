@@ -1,6 +1,7 @@
 ---
 title: Hedge Knight
-parent: Classes
+parent: Adept
+grand_parent: Classes
 ---
 # Hedge Knight
 

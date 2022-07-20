@@ -1,6 +1,7 @@
 ---
 title: Thief
-parent: Classes
+parent: Adept
+grand_parent: Classes
 ---
 # Thief
 
