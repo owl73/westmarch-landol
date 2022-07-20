@@ -1,6 +1,5 @@
 ---
 title: Inner Circles
-has_children: true
 ---
 # Inner Circles
 
