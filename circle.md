@@ -1,3 +1,7 @@
+---
+title: Inner Circles
+has_children: true
+---
 # Inner Circles
 
 After completing all the templates of one class, a character can then start
