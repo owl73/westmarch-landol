@@ -1,6 +1,7 @@
 ---
 title: Wizard
 parent: Adept
+grand_parent: Classes
 has_children: true
 ---
 
