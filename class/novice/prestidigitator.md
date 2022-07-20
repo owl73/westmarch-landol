@@ -1,6 +1,6 @@
 ---
 title: Prestidigitator
-parent: Commoner
+parent: Novice
 grand_parent: Classes
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Scoundrel
-parent: Commoner
+parent: Novice
 grand_parent: Classes
 ---
 # Scoundrel

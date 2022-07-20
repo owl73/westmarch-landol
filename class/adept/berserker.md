@@ -1,6 +1,7 @@
 ---
 title: Berserker
-parent: Classes
+parent: Adept
+grand_parent: Classes
 ---
 
 # Berserker

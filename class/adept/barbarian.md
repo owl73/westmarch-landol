@@ -1,6 +1,7 @@
 ---
 title: Barbarian
-nav_exclude: true
+parent: Adept
+grand_parent: Classes
 ---
 
 # Barbarian

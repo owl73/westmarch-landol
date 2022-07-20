@@ -1,6 +1,6 @@
 ---
 title: Militiaman
-parent: Commoner
+parent: Novice
 grand_parent: Classes
 ---
 # Militiaman

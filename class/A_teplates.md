@@ -5,8 +5,8 @@ parent: Classes
 
 # Dog Companion
 
-**Template goal:** adopt a dog and live alongside it for a week. It must go on
-at least 1 adventure with you. 
+**Template goal:** Rescue a dying dog and live alongside it for a week. 
+It must go on at least 1 adventure with you. 
 
 You adopt a dog. 
 Give your dog a name, and breed. 

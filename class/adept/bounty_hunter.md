@@ -1,6 +1,7 @@
 ---
 title: Bounty Hunter
-parent: Classes
+parent: Adept
+grand_parent: Classes
 ---
 
 # Bounty Hunter
@@ -9,15 +10,19 @@ parent: Classes
 
 **Starting Skill:** lockpicking, 
 
-**Level Goal**: Secure a bounty worth 10gold times 10 for each template of
-Bounty Hunter
-
 + **A:** Just Business, Gathering info
 + **B:** Fighting Dirty, 
 + **C:** Come Quietly, 
 + **D:** Dead or alive
 
 For each template of Bounty Hunter You can have 1 active target
+
+**Level Goals**
+
++ **A:** Get another bounty hunter to subcontract you for a target. 
++ **B:** Fighting Dirty, 
++ **C:** Come Quietly, 
++ **D:** Dead or alive
 
 
 ### A: Just Business
@@ -67,6 +72,3 @@ ones that seem un-survivable.
 
 Your first hit against your target does additional maximum damage. 
 This can be done once a day. 
-
-## Backgrounds 
-

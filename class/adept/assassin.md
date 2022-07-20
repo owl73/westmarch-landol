@@ -1,6 +1,7 @@
 ---
 title: Assassin
-parent: Classes
+parent: Adept
+grand_parent: Classes
 ---
 # Assassin
 

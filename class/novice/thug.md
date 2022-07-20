@@ -1,6 +1,6 @@
 ---
 title: Thug
-parent: Commoner
+parent: Novice
 grand_parent: Classes
 ---
 # Thug

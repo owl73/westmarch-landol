@@ -1,6 +1,7 @@
 ---
 title: Fighter
-parent: Classes
+parent: Adept
+grand_parent: Classes
 ---
 # Fighter
 

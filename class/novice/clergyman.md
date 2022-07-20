@@ -1,6 +1,6 @@
 ---
 title: Clergyman
-parent: Commoner
+parent: Novice
 grand_parent: Classes
 ---
 # Clergyman 

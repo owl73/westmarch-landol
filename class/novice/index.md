@@ -1,5 +1,5 @@
 ---
-title: Commoner
+title: Novice
 parent: Classes
 has_children: true
 ---

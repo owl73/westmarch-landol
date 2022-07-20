@@ -1,6 +1,6 @@
 ---
 title: Adventurous Noble
-parent: Commoner
+parent: Novice
 grand_parent: Classes
 ---
 # Dropout Mage
