@@ -1,5 +1,5 @@
 ---
-title: Adventurous Noble
+title: Dropout Mage
 parent: Novice
 grand_parent: Classes
 ---
