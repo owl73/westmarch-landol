@@ -1,7 +1,6 @@
 ---
 title: Entities
-parent: Adept
-grand_parent: Classes
+nav_exclude: true
 ---
 
 # Entities
