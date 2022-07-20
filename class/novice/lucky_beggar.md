@@ -1,3 +1,9 @@
+---
+title: Lucky Beggar
+parent: Novice
+grand_parent: Classes
+---
+
 # Lucky Beggar
 A filthy peasant living amongst the mud and ilk. Unremarkable and ignored, yet
 this man still has a twinkle in his eye.
