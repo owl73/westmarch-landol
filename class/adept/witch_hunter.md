@@ -87,6 +87,18 @@ harm the caster. The spell is nullified and your symbol breaks in the process.
 
 A new symbol will be provided when you make contact with your guild.
 
-### D: Custom Tools
+### D: Signature Weapon
 
-Choose another 2 qualities from tools of the trade. 
+
+You have commissioned a weapon perfected for your purpose, crafted by one of the
+finest blacksmiths of the time. You gain any weapon of your choice. You may
+select 3 customizations for it (two from the Tools of the Trade list and one
+from the list below).
+
+    Vorpal (Slashing): on critical hits enemy must make a constitution save or be beheaded
+    Flaming: can be activated to be set aflame dealing 1d4 additional fire damage
+    Spiteful: Deals +2 damage
+    Bleeding (Piercing or Slashing): deals 1 bleed damage for 1d4 turns
+    Stunning (Blunt): on critical hits enemy must make a constitution save or be
+    stunned for 1d2 rounds
+
