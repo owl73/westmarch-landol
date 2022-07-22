@@ -1,3 +1,9 @@
+---
+title: Musketeer
+parent: Adept
+grand_parent: Classes
+---
+
 # Musketeer
 Odd and flamboyant, high on the power of black powder. You’d need to be aloof
 to hold something that explodes inches from your head.
