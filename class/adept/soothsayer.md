@@ -49,6 +49,8 @@ Roll for each character starting with your alies.
 
 You can reroll a number of times per day equal to your template
 
+Each effect lasts until the next dawn. 
+
 ### A: Foretell
 
 Make a prediction at the begining of the session. This prediction must be 1

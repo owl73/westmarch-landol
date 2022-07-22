@@ -18,11 +18,17 @@ during rumors or during gameplay.
 The player of the Head of the circle as well as all players in the same
 party can choose for their characters to become members of this Inner Circle. 
 
+
+
+
 + **E:** 
   - Network
   - Base of Operation
   - Steady Income
   - Hirelings 
+
+**Note:** This E template can be earned by any who achieved a D template. Or
+any who have achieved a novice B template. 
 
 ### Base of Operation
 
