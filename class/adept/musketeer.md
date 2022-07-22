@@ -60,10 +60,12 @@ panache into everything, you can choose to re roll any check once each
 day, putting some extra oomph and show into it strictly for
 entertainment value.
 
-### B: Bayonet 
+### B: Duelist’s Repost
 
-Whenever you use your musket as a melee weapon, you can inistead stab with a
-bayonet for piercing for 1d8 damage. 
+Musketeers may parry melee attack and immediately repost. Once each round if
+you defend against a melee attack you may repost, making a free attack but
+using your defense stat as your Attack stat.
+
 
 ### C: Musketeer’s Vogue 
 
