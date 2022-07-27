@@ -18,6 +18,7 @@ A wandering knight with no master.
 + **D:** Infamous Crest
 
 **Level Goal**: 
+- A. Make a vow against the noble class publicly after martial training. 
 - B. Kill an equal opponent in a duel on the behalf of someone else
 - C. Defeat a knight or kill a noble
 - D. Cause the collapse of a noble house
