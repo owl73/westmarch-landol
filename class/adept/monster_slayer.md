@@ -10,12 +10,19 @@ grand_parent: Classes
 
 **Starting Skill:** Tracking, 
 
-**Level Goal**: Slay a monster equal your HD without taking damage
-
 + **A:** Research, Personal Interest, +1 attack per round vs Beasts
 + **B:** Tracking, 
 + **C:** Traps, 
 + **D:** Vitals 
+
+**Level Goal**: 
+
+Slay a monster equal your HD without taking damage
+
++ **A:** Study a type of monster then kill and take and bear a trophy. 
++ **B:** Track a monster back to its lair and slay it there.
++ **C:** Lure a monster from its lair to its trap, and slay it there.
++ **D:** Collect 3 monster corpses, then publish research on their anatomy
 
 For each template of Monster Slayer you gain 1 
 

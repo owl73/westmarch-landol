@@ -35,7 +35,6 @@ there before.
 
 For each template of [] ...
 
-
 ### A: 
 
 ### B: 
