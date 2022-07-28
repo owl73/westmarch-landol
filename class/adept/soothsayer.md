@@ -79,7 +79,7 @@ in some benificial way.
 You have a vision of some fortune available this session. 
 The DM describes it and gives you some clue of its location. 
 
-The Fortune is worth at least 50gp x [10 for each template of Soothsayer]
+The Fortune is worth at least 20gp x [10 for each template of Soothsayer]
 
 ### C: Foreshadowing
 
