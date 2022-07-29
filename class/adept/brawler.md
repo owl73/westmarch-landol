@@ -1,6 +1,7 @@
 ---
 title: Brawler
-parent: Classes
+parent: Adept
+grand_parent: Classes
 ---
 
 # Brawler
