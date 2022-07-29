@@ -15,18 +15,18 @@ and improved. You are not a medic, you are a mechanic of the flesh.
 
 
 + **A:** 
-Surgical Experimenting
-Weird Repair
+Surgical Experimenting,
+Weird Repair,
 + **B:** 
-Self Altering
-Vitals
+Self Altering,
+Vitals,
 + **C:** 
-Internal Bleeding
-Monstrous Alteration
+Internal Bleeding,
+Monstrous Alteration,
 + **D:** 
-Additional Organ
-Aberration
-Design Improvement
+Additional Organ,
+Aberration,
+Design Improvement,
 
 **Level Goals**: 
 To aquire a template you must complete the goal for that template. 
