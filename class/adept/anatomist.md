@@ -77,7 +77,7 @@ Mutation
 18. Efficent Sleep: only need 1h of sleep
 19. Sensitive Touch: feel humidity, wind, detect magic with touch
 20. Acute Awareness: never surprised, +1 wis, feel nearby magic
-21. Healing Factor: wounds take half as long to recover
+[//]: # (21. Healing Factor: wounds take half as long to recover)
 
 Side Effects
 1. Mutilated limb 
