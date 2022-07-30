@@ -56,29 +56,50 @@ You can modify this target in the following ways:
     +3 for living donor 
     +1 for expending spare biological components
 
-- sight 
-- reflexes
-- food consumption
-- strength
-- focus
-- memory
-- awareness
-- hearing
-- smell
-- weather resistance
-- more HP
-- agility
-- attractive
-- Alcohol resistance
-- Youth / old
-- disease 
-- fatigue
-- sleep
-- pheromones
-- touch
+Mutation
+1. Larger Pupils: low light vision, advantage to notice things
+2. Jumpy Reflexes: quicker and nervous, act in all surprise rounds
+3. Longer Digestion: Get more from every meal, you comsume half rations
+4. Bulk: +d4 Strength
+5. Calm focus: +d4 Wisdom
+6. Memory synthesis: +d4 Intelegence
+7. Precice movements: +d4 Dexterity
+8. Larger Ears: hear small details, make out small sounds
+9. Olfactory size: smell as good as a dog.
+10. Lethary Skin: resistant to weather
+11. Extra blood: +d6 max HP 
+12. Lighter frame: +1 Dex, +1 Def
+13. Larger Liver: +d3 con, alcohol resistance
+14. Plesant appearance: +d3 charisma, more attractive
+15. Younger: -d6 years 
+16. Bolstered Immunity: disease resistance
+17. Fuller Breath: Hold breath for 5 min, fatigue half as fast
+18. Efficent Sleep: only need 1h of sleep
+19. Sensitive Touch: feel humidity, wind, detect magic with touch
+20. Acute Awareness: never surprised, +1 wis, feel nearby magic
+21. Healing Factor: wounds take half as long to recover
 
-- - limb
-- - Hole
+Side Effects
+1. Mutilated limb 
+2. A hole in torso
+3. Unresponsive body: -d2 Dexterity
+4. Constant Hunger: eat twice as much
+5. Aged: +d10 years
+6. Weakened: -d2 Strength
+7. Mood Swings: -d2 Wisdom
+8. Faulty Memory: -d2 Intelegence
+9. Botched Nose: loss of smell
+10. Thin Skin: -d3 HP
+11. Weakened heart: -d2 Constitution.
+12. Shortened breath: can't hold breath more than 10sec, Quick to fatigue
+13. Cautorized Ears: hard of hearing
+14. Malformed eyes: need glasses, difficult to see, 
+15. Mutilated appearance: -d2 Charisma, very ugly
+16. Reduced resistance: Poisons have more effect, -d2 Constitution
+17. Sickly: vunurable to disease
+18. Dead nerves: Unable to feel with a certain limb. 
+19. Tired: need to sleep every night for 8h or d6 damage
+20. Slower healing: wounds heal at half the rate
 
 ### A: Harvest Specimen 
 You extract an organ or other biological component from a corpse. 
