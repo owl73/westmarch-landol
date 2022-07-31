@@ -15,9 +15,6 @@ grand_parent: Classes
 + **C:** animals, Weather Prediction
 + **D:** Nature's Ally
 
-
-
-
 **Level Goal**: 
 
 + **A:** 
@@ -79,19 +76,29 @@ your will, but cannot make any sound or smell. Illusions can only add, not
 subtract. They can cover up a hole, but not create the illusion of a hole. At 1
 [dice] you can create a 6’ tall illusory humanoid.
 
-#### Weather Change
+#### 2. Weather Change
 
-R: 5 miles T: [Sum] mile diameter D: 
+R: 5 miles T: [Sum] mile diameter D: up to [sum] days
 
 You perform a 10 minute ritual. You can then change the weather for the next
 day(s). 
 
-#### Plant Growth
+#### 3. Plant Growth
 
+R: [dice]x10' away T: [dice]x10' radius D: [sum] seconds
 
+Increase the growth of some plant(s) in a direction and manner of your
+choosing. The plants grow at [dice] feet per second.
 
-#### 
+#### 4. Distractions
+R: 300’ T: [sum] Creatures D: 15 min
 
-growth, 
-planting,
-animals, 
+Target hallucinates creature of player’s choice. If the target is afraid of
+the illusion, they can be damaged  by the illusion. The halucination can be of
+a creature of [dice] HD.
+
+#### 5. Verdant Gift
+
+#### 6. Primative gaze
+
+#### 7. Call animals
