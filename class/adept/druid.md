@@ -99,6 +99,12 @@ a creature of [dice] HD.
 
 #### 5. Verdant Gift
 
-#### 6. Primative gaze
+#### 6. Primitive Gaze
+R: 50’ T: Animals D: 80 min
+
+When casted on target animal, you gain the ability to see through their eyes
+for the duration of the spell. The mind of the animal is its own, but the sight
+is yours, you won't be able to control it.
+
 
 #### 7. Call animals
