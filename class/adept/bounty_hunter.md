@@ -19,9 +19,10 @@ For each template of Bounty Hunter You can have 1 active target
 
 **Level Goals**
 
-+ **A:** Get another bounty hunter to subcontract you for a target. 
-+ **B:** Fighting Dirty, 
-+ **C:** Come Quietly, 
++ **A:** Get another bounty hunter to subcontract you for a target. Then bring
+  in that target.
++ **B:** Bring a target in alive without using leathal force. 
++ **C:** 
 + **D:** Dead or alive
 
 
