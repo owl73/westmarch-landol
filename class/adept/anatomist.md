@@ -16,7 +16,7 @@ and improved. You are not a medic, you are a mechanic of the flesh.
 + **A:** Surgical Experiments, Flesh market, Harvest 
 + **B:** Major operation, Weird Repair
 + **C:** Monstrous Mutation, Vitals
-+ **D:** Aberrant Alteration
++ **D:** Aberrant Alteration, Sterile Tools
 
 **Level Goals**: 
 
@@ -171,6 +171,6 @@ Now a failed check results in another side effect.
 
 The patient now dies on a check of 17 or more.
 
-#### Sterile Tools
+### D: Sterile Tools
 
 You can re-roll 1 surgical experiment check per day.

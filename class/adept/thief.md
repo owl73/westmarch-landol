@@ -2,6 +2,7 @@
 title: Thief
 parent: Adept
 grand_parent: Classes
+nav_exclude: true
 ---
 # Thief
 

@@ -1,7 +1,6 @@
 ---
 title: Alchemist
-parent: Adept
-grand_parent: Classes
+nav_exclude: true
 ---
 
 # Alchemist

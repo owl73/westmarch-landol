@@ -3,6 +3,7 @@ title: Soothsayer
 parent: Adept
 grand_parent: Classes
 ---
+
 # Soothsayer
 
 Smelling strongly of incense and tea, this man can description the details of
