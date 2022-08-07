@@ -9,6 +9,8 @@ grand_parent: Classes
 Smelling strongly of incense and tea, this man can description the details of
 your gruesome end.
 
+![Alt](images/soothsayer_reading_cards.png)
+
 **Starting Equipment:** Cloak, Turban, Incense, Tarot Cards, Tea Set
 
 **Starting Skill:** Persuasion

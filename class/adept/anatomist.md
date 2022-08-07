@@ -158,6 +158,14 @@ Use of spare organs or flesh can quickly repair a wound.
 The process will negate the detriment of one wound but cause a side effect. 
 Removing a fatal wound stabilizes the patient and causes 3 side effects.
 
+### D: Caustic Sterilization  
+Working with anatomy of strange beings requires advanced techniques of
+sterilization. These compounds can double as a potent acid. Once per day you
+may expend these compounds to either 
+- reroll a surgical check 
+- use as a splash weapon detailing 1d12 damage + [Template] and blinging 
+the target if they fail a constitution check. 
+
 ### D: Aberrant Alteration
 
 You can now use human flesh in place of monstrous components in your recorded
@@ -171,6 +179,5 @@ Now a failed check results in another side effect.
 
 The patient now dies on a check of 17 or more.
 
-### D: Sterile Tools
-
-You can re-roll 1 surgical experiment check per day.
+![Alt](images/anatomist_experiment.png)
+*a preserved experiment*
