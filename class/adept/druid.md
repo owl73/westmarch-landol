@@ -100,6 +100,7 @@ a creature of [dice] HD.
 #### 5. Verdant Gift
 
 #### 6. Primitive Gaze
+
 R: 50’ T: Animals D: 80 min
 
 When casted on target animal, you gain the ability to see through their eyes
@@ -108,3 +109,5 @@ is yours, you won't be able to control it.
 
 
 #### 7. Call animals
+
+You call [sum] total 

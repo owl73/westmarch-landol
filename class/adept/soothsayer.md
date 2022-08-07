@@ -90,6 +90,8 @@ The DM will tell you who and what awaits you when you arrive at that location.
 While the state of that location and the people there are guaranteed, the
 consequences of meeting what is there is yet to be determined.
 
+![Alt](images/soothsayer_crystal_ball.png)
+
 ### C: Visions of Doom
 
 Pick a party member they take double damage this session. 
