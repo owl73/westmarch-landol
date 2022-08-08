@@ -7,6 +7,8 @@ grand_parent: Classes
 
 A wandering knight with no master.
 
+![Alt](images/monferd.png)
+
 **Starting Equipment:** Chainmail, longsword, mace
 
 **Starting Skill:** Intimidation
