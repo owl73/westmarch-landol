@@ -8,6 +8,8 @@ grand_parent: Classes
 A trained fighter, perhaps by necessity or pure enjoyment. You’ve got the scars
 and cauliflower ears to prove it.  
 
+![Alt](images/bralwer_fists_up_indoors.png)
+
 **Starting Equipment:** Hand Wraps, Bandage, Cloth Clothing, Leather Armor
 
 **Starting Skill:** Intimidation

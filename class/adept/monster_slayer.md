@@ -6,6 +6,7 @@ grand_parent: Classes
 
 # Monster Slayer
 
+
 **Starting Equipment:** Spear, Leather Armor, Feathered Hat, 3 rations
 
 **Starting Skill:** Tracking, 

@@ -8,6 +8,9 @@ grand_parent: Classes
 A seasoned bandit living in the mountains and forest. A killer swiftly taking
 what he can from weary travelers and merchants
 
+
+![Alt](images/briggand_traveling_away_forest.png)
+
 **Starting Equipment:** Hooded Cloak, Leather Armor, Longbow, Arrows, Longsword
 
 **Starting Skill:** Traps, Stealth, Intimidation

@@ -6,6 +6,10 @@ grand_parent: Classes
 
 # Druid
 
+
+
+![Alt](images/druid_flower_hair1.png)
+
 **Starting Equipment:** dagger, Staff, Robes, small pet
 
 **Starting Skill:** medicine

@@ -6,20 +6,21 @@ grand_parent: Classes
 
 # Occultist
 
+
 **Starting Equipment:** ceremonial dagger, robes, 
 
 **Starting Skill:** 
 
-+ **A:** 
-+ **B:** 
-+ **C:** 
-+ **D:** 
++ **A:** Sacrificial Ritual, Eldrich Whispers
++ **B:** Maddening Secrets, Insane Visions
++ **C:** Dark Pact, Occult relic
++ **D:** Final Ritual, Forbidden Ritual
 
 **Level Goal**: 
 
-+ A: Wound yourself with an ornate dagger during an occult ritual. 
-+ B: 
-+ C: 
++ A: Get inducted into an occult order by another occultist.
++ B: wound yourself and sacrifice another during a ritual.
++ C: Find a relic and bathe it in your own and other's blood
 + D: 
 
 ### A: Sacrificial Ritual 

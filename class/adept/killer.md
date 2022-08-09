@@ -8,6 +8,8 @@ grand_parent: Classes
 
 Skulking and nefarious, the killer sees men as pray and takes life without a blink of the eye, like the pulling of a weed or the swat of a fly. He live on the outskirts, in the gutters and sewers of the realms of noble kings, waiting for his new opportunity for the sanguine ritual.
 
+![Alt](images/killer_in_black.png)
+
 **Starting Equipment:** Dagger, Hooded Cloak, Torches, Leather Armor
 
 **Starting Skill:** Deception, Stealth, Picklock, Escape

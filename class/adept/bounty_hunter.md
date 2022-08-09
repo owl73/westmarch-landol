@@ -6,6 +6,8 @@ grand_parent: Classes
 
 # Bounty Hunter
 
+
+
 **Starting Equipment:** Hand Axe, Net, Handcuffs, leather armor
 
 **Starting Skill:** lockpicking, 

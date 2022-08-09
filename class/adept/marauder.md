@@ -9,6 +9,8 @@ grand_parent: Classes
 A seafaring warrior bringing destruction in his wake to unsuspecting towns. A
 man seeking blood and gold.
 
+![Alt](images/man_dog_blue_robes_leather.png)
+
 **Starting Equipment:** Chainmail, War Axe, Round Shield
 
 **Starting Skill:** Survival, Seafaring

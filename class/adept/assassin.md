@@ -5,6 +5,8 @@ grand_parent: Classes
 ---
 # Assassin
 
+![Alt](images/assassin_on_roof.png)
+
 **Starting Equipment:** 3 blades, poison, hand crossbow, hooded cloak
 
 **Starting Skill:** Hide, 

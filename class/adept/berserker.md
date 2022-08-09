@@ -8,6 +8,9 @@ grand_parent: Classes
 
 A savage warrior fighting in a bloodthirsty, trance like state. 
 
+
+![Alt](images/beserker.png)
+
 **Starting Equipment:** Great Axe, Furs
 
 **Starting Skill:** Survival, Tracking
