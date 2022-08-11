@@ -30,9 +30,9 @@ For each template of Monster Slayer you gain 1
 
 ### A: Research 
 
-On a successful inteligence check, the DM provides a piece of information about 
-a monster of the player's choice. 
-This can be atempted only once for each kind of monster, 
+On a successful intelligence check, the DM provides a piece of information 
+about a monster of the player's choice. 
+This can be attempted only once for each kind of monster, 
 afterward more INT checks can be made after a
 day or week of study. The time depends on the rarity of the monster, and the
 source of information. (direct observation is best, town rumor and legends are
@@ -42,7 +42,7 @@ Example common questions to ask the DM:
 - what is a weakness
 - what is a special ability
 - what is a tactic it uses 
-- how intelegent is it
+- how intelligent is it
 - what is its favorite food 
 
 ### A: Personal Interest
@@ -53,7 +53,7 @@ damage against it.
 ### B: Tracking
 
 After seeing a monster, you can track that specific monster without a check so
-long as it is trackable (hasn't flown away or teleported or otherwise hasn't
+long as it is track-able (hasn't flown away or teleported or otherwise hasn't
 left some trail) 
 
 ### B: Trophies 
