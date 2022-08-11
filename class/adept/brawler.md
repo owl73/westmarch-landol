@@ -10,7 +10,6 @@ pure enjoyment. You’ve got the scars
 and cauliflower ears to prove it.  
 
 ![Alt](images/bralwer_fists_up_indoors.png)
-![Alt](images/monferd.png)
 
 **Starting Equipment:** Hand Wraps, Bandage, Cloth Clothing, Leather Armor
 
