@@ -5,7 +5,8 @@ grand_parent: Classes
 ---
 
 # Brawler
-A trained fighter, perhaps by necessity or pure enjoyment. You’ve got the scars
+A trained fighter, perhaps by necessity or just 
+pure enjoyment. You’ve got the scars
 and cauliflower ears to prove it.  
 
 ![Alt](images/bralwer_fists_up_indoors.png)
