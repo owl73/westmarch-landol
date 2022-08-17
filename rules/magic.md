@@ -6,7 +6,9 @@ parent: Core Rules
 # Magic
 
 *A spell is a will*
+
 *Commitment is its strength*
+
 *And cyclus is its link to the world*
 
 ### What is a spell
