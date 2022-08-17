@@ -1,6 +1,7 @@
 ---
-title: Magic
+title: Spells
 parent: Core Rules
+nav_exclude: true
 ---
 
 # Spells
