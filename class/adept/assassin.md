@@ -30,7 +30,7 @@ For each template of assassin gain +1 stealth
 
 ### A: Hit list
 
-you have a long list of hits to make. Every kill you make roll 1d10, on a 1
+you have a long list of hits to make. Every kill you make roll 1d6, on a 1
 that character was on your list. You receive a payment of [template]d10 gold when you
 return to a city or large town.
 
