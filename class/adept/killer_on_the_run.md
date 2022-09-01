@@ -1,6 +1,7 @@
 ---
 title: Killer on the Run
-parent: Classes
+parent: Adept
+grand_parent: Classes
 ---
 
 # Killer on the Run

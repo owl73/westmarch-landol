@@ -1,6 +1,7 @@
 ---
 title: Dark Informant
-parent: Classes
+parent: Adept
+grand_parent: Classes
 ---
 
 # Dark Informant
