@@ -1,7 +1,6 @@
 ---
 title: Erdrich Visionary
-parent: Adept
-grand_parent: Classes
+nav_exclude: true
 ---
 
 # Erdrich Visionary
