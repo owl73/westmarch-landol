@@ -15,14 +15,21 @@ Musket Balls
 
 **Bonus:** +1/2 [Template] to all Charisma checks
 
-**Level Goals:**
-**A.** Obtain a musket and learn to repair it after it breaks
-**B.** Befriend a noble and kill one of his enemies with a musket
-**C.** Swoon 10 ladies (or men) at a tavern through charm and the retelling of a
+## Templates
+
++ **A.** Musket, Opening Salvo
++ **B.** Panache, Duelist’s Repost
++ **C.** Musketeer’s Vogue 
++ **D.** Deadshot
+
+**Template Goals:** *template goals need to be achived to gain the template*
++ **A.** Obtain a musket and learn to repair it after it breaks
++ **B.** Befriend a noble and kill one of his enemies with a musket
++ **C.** Swoon 10 ladies (or men) at a tavern through charm and the retelling of a
 recent triumph; or befriend 2 other Musketeers and form a close friendship with
 them. Complete an adventure together with these two other musketeers without
 either of them dying.
-**D.** Become famous in a town; or kill five enemies with critical hits
++ **D.** Become famous in a town; or kill five enemies with critical hits
 
 ### A: Musket
 You are in possession of a musket, not yet common throughout the world. When
