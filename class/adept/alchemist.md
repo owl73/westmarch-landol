@@ -30,7 +30,7 @@ grand_parent: Classes
 
 Every session you start with 3 vials of acid.
 
-### B: Material Knowledge
+### A: Material Knowledge
 
 You can correctly identify any material you inspect for up to a minute. 
 
