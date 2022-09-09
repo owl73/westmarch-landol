@@ -19,10 +19,12 @@ grand_parent: Classes
 
 + **A:** Convince an alchemist to take you as an aprentice, or read an alchemy
   book and reperform an experiment from it. 
-+ **B:** Perform an alchemical experiment under observation of your mentor.  Record your results in a book. If you lose your book, start again.
-+ **C:** 
-+ **D:** 
-
++ **B:** Perform an alchemical experiment under observation of your mentor.  
+  Record your results in a book. If you lose your book, start again.
++ **C:** Record the results of 2 different transmutations using the white
+  elixer. Publish an alchemical experiment previously unknown.
++ **D:** Examine and record the results of enchanting the Yellow Elixer or
+  study and sample the blood of a magical creature drinking it.
 
 ### A: Acids 
 
@@ -45,18 +47,19 @@ The Black Elixer has the following properties.
 - Pouring on a solid object randomly transmutes the material. Roll below.
 
 Materials
-- smoke
-- water
-- stone
-- sulfer
-- salt
-- mercury
-- silver
-- iron
-- wood 
-- lead
-- copper
-- tin
+
+1. bone
+2. water
+3. stone
+4. sulfer
+5. salt
+6. mercury
+7. silver
+8. iron
+9. wood 
+10. lead
+11. copper
+12. tin    
 
 ### B: White Elixer
 You can change the black elixer to a white elixer with a 10 minute ritual. 
