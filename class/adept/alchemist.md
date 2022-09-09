@@ -1,5 +1,5 @@
 ---
-title: Anatomist
+title: Alchemist
 parent: Adept
 grand_parent: Classes
 ---
