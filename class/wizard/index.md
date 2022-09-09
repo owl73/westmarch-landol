@@ -3,6 +3,7 @@ title: Wizard
 parent: Adept
 grand_parent: Classes
 has_children: true
+nav_exclude: true
 ---
 
 # Wizard

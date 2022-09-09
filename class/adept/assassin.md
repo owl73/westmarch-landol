@@ -22,7 +22,8 @@ For each template of assassin gain +1 stealth
 
 + **A:** Order a hit on yourself and then avoid being seen for 1 day. Exchange
   your bounty for a copy of the hit list. 
-+ **B:** Turn in 3 hits on the hit list with a symbol you made for yourself. 
++ **B:** Turn in 3 hits on the hit list with a symbol you made for yourself, or
+  complete 1 contract. 
 + **C:** Poison 3 people without killing them, strangle 3 people. 
 + **D:** For 3 Kills in a row Incapacitate the target for a day, then kill
   them.

@@ -1,73 +1,98 @@
 ---
-title: Alchemist
-nav_exclude: true
+title: Anatomist
+parent: Adept
+grand_parent: Classes
 ---
 
 # Alchemist
 
-**Starting Equipment:** 1 random potion, 1 random poison, a dagger, lab coat, 2 
-slots of alchemist supplies
+**Starting Equipment:** Alchemical Samples, robes, 3 empty vials, dagger
 
-**Starting Skill:** TBD
+**Starting Skill:** alchemy, herbalism 
 
-- **A:** Field Brew, +1 Poison, +1 Recipe
-- **B:** Explosives, +1 Recipe
-- **D:** Mutations, Dilute, +1 Poison
-- **C:** Reverse Engineer, +2 Recipes, +1 Poison
++ **A:** Acids, Material Knowledge, Black Elixer
++ **B:** White Elixer, Purification
++ **C:** Yellow Elixer
++ **D:** Alkahest, Red Elixer
 
+**Template Goals**: *Complete the goal to achieve the specified template*
 
-### A: Field Brew 
-
-Your knowledge allows you to brew without a dedicated laboratory. 
-
-You have one use of alchemist supplies per slot you buy (15g). 
-Each is enough for one potion (the vial comes with the supplies).
-
-### A: Poison
-
-All alchemists know how to make poison. No check needed. Making poisons
-requires alchemical supplies just like a potion. 
-Some poisons have different effects, and most potions could be considered
-poison. You know how to make one of the poisons below. 
-
-| **d6**  | **Poison**
-|  1. | shrink
-|  2. | Pain
-|  3. | Fear
-|  4. | Frenzy
-|  5. | Flatulence
-|  6. | Coughing fit
++ **A:** Convince an alchemist to take you as an aprentice, or read an alchemy
+  book and reperform an experiment from it. 
++ **B:** Perform an alchemical experiment under observation of your mentor.  Record your results in a book. If you lose your book, start again.
++ **C:** 
++ **D:** 
 
 
-### B: Explosives
+### A: Acids 
 
-Use some supplies to make a bomb. Only takes about 20 min. 
-But careful, mishandle it and it might explode. 
+Every session you start with 3 vials of acid.
 
-When you set it off, don't be too close or you might get hurt. 
-You could light a fuse, or just toss it as an attack. 
+### B: Material Knowledge
 
-d6 damage per use of supplies, up to [template] dice. Its very loud. 
-If you attack with it, a crit-fail and it explodes in your face. 
+You can correctly identify any material you inspect for up to a minute. 
 
-### C: Mutations
+During inspection you discover if there is any magic involved, 
+but not the nature of the magic.
 
-What alchemist doesn't like to experiment. Once a day, you can spend 1 hour
-experimenting on a creature by using the supplies for one potion. A random
-mutation is applied to the creature. 
+### A: Black Elixer 
+You start each session with one Black Elixer. 
+(Unless you already have an elixer)
 
-Roll a intelligence check to apply the last mutation result to another specimen. 
-A failure results in a random one as normal. 
+The Black Elixer has the following properties.
+- Drinking increases a stat of your choice by 1 or a random one by 3 for the
+  rest of the session
+- Pouring on a solid object randomly transmutes the material. Roll below.
 
-### C: Dilute
+Materials
+- smoke
+- water
+- stone
+- sulfer
+- salt
+- mercury
+- silver
+- iron
+- wood 
+- lead
+- copper
+- tin
 
-You can take a potion and dilute it into two, this consumes an alchemist
-supply and cannot be done again to the resulting potions.
+### B: White Elixer
+You can change the black elixer to a white elixer with a 10 minute ritual. 
+Disolve 2 sample materials in the black elixer and heat. 
+The sample of materials is consumed. 
 
-### D: Reverse Engineer
+The White Elixer has the following properties. 
+- Drinking either increases all stats by 2 or restores to full HP. 
+- Transmute between 2 specific materials by pouring the on either material.
+  (specific materials are determined through creation)
 
-If you find a random potion, using an alchemist's labratory,
-you can learn how to reverse engineer the potion
-to find it's recipie. This requires a mind check, and consumes the potion in
-the process. 
+### B: Purification
+
+Given 1 hour you can purify and sterilize a 1 galon solution of liquid.
+
+### C: Yellow Elixer
+Disove some gold in the white elixer and expose it to sunlight duing a ritual 
+lasting 1 hour to create a yellow elixer.
+
+The Yellow Elixer has the following properties.
+- Drinking kills the drinker
+- Transmutes anything to a material determined at creation
+- Explodes when exposed to fire. 
+
+You now begin with 2 black elixers.
+
+### D: Red Elixer
+To create a Red Elixer, combine 2 Yellow elixers and a liter of human blood.
+Boil the liquid down to a single bottle of Red elixer over 4 hours. 
+
+The Red Elixer has the following properties. 
+- Drinking restores HP to double maximum, or heals any injury. 
+- Transmutes lead to gold.
+
+### D: Alkahest
+
+You have 2 vial of a universal solvent. It can disolve anything. 
+Replacing it requires 5 days and 400 gold.
 
